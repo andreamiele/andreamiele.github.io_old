@@ -2,83 +2,83 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/about/</loc>
+    <loc>https://andreamiele.github.io/about/</loc>
     <lastmod>2022-09-03T11:47:04+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/about/"
+                href="https://andreamiele.github.io/fr/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/about/"
+                href="https://andreamiele.github.io/about/"
                 />
   </url><url>
-    <loc>https://examplesite.com/ressources/</loc>
+    <loc>https://andreamiele.github.io/ressources/</loc>
     <lastmod>2022-09-03T11:47:04+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/ressources/"
+                href="https://andreamiele.github.io/fr/ressources/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/ressources/"
+                href="https://andreamiele.github.io/ressources/"
                 />
   </url><url>
-    <loc>https://examplesite.com/</loc>
+    <loc>https://andreamiele.github.io/</loc>
     <lastmod>2022-09-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/"
+                href="https://andreamiele.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/"
+                href="https://andreamiele.github.io/"
                 />
   </url><url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>https://andreamiele.github.io/categories/</loc>
     <lastmod>2022-09-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/categories/"
+                href="https://andreamiele.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/categories/"
+                href="https://andreamiele.github.io/categories/"
                 />
   </url><url>
-    <loc>https://examplesite.com/posts/lolilol/</loc>
+    <loc>https://andreamiele.github.io/posts/lolilol/</loc>
     <lastmod>2022-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/</loc>
+    <loc>https://andreamiele.github.io/posts/</loc>
     <lastmod>2022-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/syntax/</loc>
+    <loc>https://andreamiele.github.io/categories/syntax/</loc>
     <lastmod>2022-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/themes/</loc>
+    <loc>https://andreamiele.github.io/categories/themes/</loc>
     <lastmod>2022-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/test/</loc>
+    <loc>https://andreamiele.github.io/test/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>https://andreamiele.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/tags/"
+                href="https://andreamiele.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/tags/"
+                href="https://andreamiele.github.io/tags/"
                 />
   </url>
 </urlset>
