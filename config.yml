@@ -30,19 +30,19 @@ languages:
       main:
         - identifier: blog
           name: Blog
-          url: /posts/
+          url: https://andreamiele.github.io/posts/
           weight: 10
         - identifier: ressources
           name: Resources
-          url: /ressources
+          url: https://andreamiele.github.io/ressources
           weight: 20
         - identifier: projets
           name: Projects
-          url: /test
+          url: https://andreamiele.github.io/test
           weight: 30
         - identifier: about
           name: About
-          url: /about
+          url: https://andreamiele.github.io/about
           weight: 40
   fr:
     languageName: ":fr:"
