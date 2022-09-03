@@ -94,7 +94,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
+  title: andreamiele.github.io
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
   author: Andrea Miele
