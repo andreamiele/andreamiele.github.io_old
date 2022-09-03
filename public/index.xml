@@ -9,7 +9,16 @@
       <link>https://andreamiele.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 03 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://andreamiele.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Sep 2022 11:47:04 +0200</lastBuildDate><atom:link href="https://andreamiele.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Very New World</title>
+      <link>https://andreamiele.github.io/projects/averynewworld/</link>
+      <pubDate>Sat, 03 Sep 2022 11:47:04 +0200</pubDate>
+      
+      <guid>https://andreamiele.github.io/projects/averynewworld/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://andreamiele.github.io/about/</link>
@@ -19,6 +28,51 @@
       <description>👋 Hi there! I’m a software engineer student currently living in Basel, Switzerland.
 🏫 I study computer science and artificial intelligence in the Ecole Nationale Supérieure de Cognitique.
 My skills &amp;hellip;&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Crowd-2D</title>
+      <link>https://andreamiele.github.io/projects/crowd2d/</link>
+      <pubDate>Sat, 03 Sep 2022 11:47:04 +0200</pubDate>
+      
+      <guid>https://andreamiele.github.io/projects/crowd2d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ENSCartography</title>
+      <link>https://andreamiele.github.io/projects/enscartography/</link>
+      <pubDate>Sat, 03 Sep 2022 11:47:04 +0200</pubDate>
+      
+      <guid>https://andreamiele.github.io/projects/enscartography/</guid>
+      <description>WIP</description>
+    </item>
+    
+    <item>
+      <title>ETƎ</title>
+      <link>https://andreamiele.github.io/projects/ete/</link>
+      <pubDate>Sat, 03 Sep 2022 11:47:04 +0200</pubDate>
+      
+      <guid>https://andreamiele.github.io/projects/ete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fractions Island</title>
+      <link>https://andreamiele.github.io/projects/iaf/</link>
+      <pubDate>Sat, 03 Sep 2022 11:47:04 +0200</pubDate>
+      
+      <guid>https://andreamiele.github.io/projects/iaf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minesweeper</title>
+      <link>https://andreamiele.github.io/projects/minesweeper/</link>
+      <pubDate>Sat, 03 Sep 2022 11:47:04 +0200</pubDate>
+      
+      <guid>https://andreamiele.github.io/projects/minesweeper/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -33,75 +87,21 @@ Maintained resources Unmaintained resources </description>
     </item>
     
     <item>
+      <title>Telling Stories</title>
+      <link>https://andreamiele.github.io/projects/tellingstories/</link>
+      <pubDate>Sat, 03 Sep 2022 11:47:04 +0200</pubDate>
+      
+      <guid>https://andreamiele.github.io/projects/tellingstories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Markdown Syntax Guide</title>
       <link>https://andreamiele.github.io/posts/lolilol/</link>
       <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://andreamiele.github.io/posts/lolilol/</guid>
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://andreamiele.github.io/projects/averynewworld/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreamiele.github.io/projects/averynewworld/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://andreamiele.github.io/projects/crowd2d/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreamiele.github.io/projects/crowd2d/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://andreamiele.github.io/projects/enscartography/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreamiele.github.io/projects/enscartography/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://andreamiele.github.io/projects/ete/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreamiele.github.io/projects/ete/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://andreamiele.github.io/projects/iaf/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreamiele.github.io/projects/iaf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://andreamiele.github.io/projects/minesweeper/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreamiele.github.io/projects/minesweeper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://andreamiele.github.io/projects/tellingstories/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreamiele.github.io/projects/tellingstories/</guid>
-      <description></description>
     </item>
     
     <item>
