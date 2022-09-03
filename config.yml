@@ -1,4 +1,4 @@
-baseURL: "/"
+baseURL: "https://andreamiele.github.io"
 title: 👨🏻‍💻Andrea Miele
 paginate: 5
 theme: PaperMod
@@ -30,19 +30,19 @@ languages:
       main:
         - identifier: blog
           name: Blog
-          url: https://andreamiele.github.io/posts/
+          url: /posts/
           weight: 10
         - identifier: ressources
           name: Resources
-          url: https://andreamiele.github.io/ressources
+          url: /ressources
           weight: 20
         - identifier: projets
           name: Projects
-          url: https://andreamiele.github.io/test
+          url: /test
           weight: 30
         - identifier: about
           name: About
-          url: https://andreamiele.github.io/about
+          url: /about
           weight: 40
   fr:
     languageName: ":fr:"
