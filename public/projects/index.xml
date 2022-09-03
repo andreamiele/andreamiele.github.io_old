@@ -1,46 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Andrea Miele</title>
-    <link>https://andreamiele.github.io/</link>
-    <description>Recent content on Andrea Miele</description>
+    <title>Projects on Andrea Miele</title>
+    <link>https://andreamiele.github.io/projects/</link>
+    <description>Recent content in Projects on Andrea Miele</description>
     <image>
       <url>https://andreamiele.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://andreamiele.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 03 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://andreamiele.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://andreamiele.github.io/about/</link>
-      <pubDate>Sat, 03 Sep 2022 11:47:04 +0200</pubDate>
-      
-      <guid>https://andreamiele.github.io/about/</guid>
-      <description>👋 Hi there! I’m a software engineer student currently living in Basel, Switzerland.
-🏫 I study computer science and artificial intelligence in the Ecole Nationale Supérieure de Cognitique.
-My skills &amp;hellip;&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Ressources</title>
-      <link>https://andreamiele.github.io/ressources/</link>
-      <pubDate>Sat, 03 Sep 2022 11:47:04 +0200</pubDate>
-      
-      <guid>https://andreamiele.github.io/ressources/</guid>
-      <description>I strive to make my useful resources accessible to as many people as possible.
-Unless otherwise stated, they are freely reusable under a Creative Commons BY-NC-SA license for the texts and MIT for the source code. Most of them are published on GitHub.
-Maintained resources Unmaintained resources </description>
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://andreamiele.github.io/posts/lolilol/</link>
-      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreamiele.github.io/posts/lolilol/</guid>
-      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://andreamiele.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://andreamiele.github.io/projects/averynewworld/</link>
@@ -102,15 +70,6 @@ Maintained resources Unmaintained resources </description>
       
       <guid>https://andreamiele.github.io/projects/tellingstories/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://andreamiele.github.io/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://andreamiele.github.io/test/</guid>
-      <description>&amp;hellip; &amp;hellip; edfqsd hxd fds sdf kb k qdsq</description>
     </item>
     
   </channel>

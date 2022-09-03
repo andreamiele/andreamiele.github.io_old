@@ -38,7 +38,7 @@ languages:
           weight: 20
         - identifier: projets
           name: Projects
-          url: /test
+          url: /projects/
           weight: 30
         - identifier: about
           name: About
