@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Andrea Miele</title>
+    <link>https://examplesite.com/fr/</link>
+    <description>Recent content on Andrea Miele</description>
+    <image>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://examplesite.com/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A propos</title>
+      <link>https://examplesite.com/fr/about/</link>
+      <pubDate>Sat, 03 Sep 2022 11:47:04 +0200</pubDate>
+      
+      <guid>https://examplesite.com/fr/about/</guid>
+      <description>👋 Bienvenue ! Etudiant ingénieur, j’habite actuellement à Bâle, Suisse.
+🏫 J’étudie l’informatique et l’intelligence artificielle à l’Ecole Nationale Supérieure de Cognitique, Bordeaux.
+Mes compétences </description>
+    </item>
+    
+    <item>
+      <title>Ressources</title>
+      <link>https://examplesite.com/fr/ressources/</link>
+      <pubDate>Sat, 03 Sep 2022 11:47:04 +0200</pubDate>
+      
+      <guid>https://examplesite.com/fr/ressources/</guid>
+      <description>Je m’efforce de rendre accessibles au plus grand nombre les ressources que j&amp;rsquo;utilise.
+Sauf mention contraire, elles sont librement réutilisables dans le cadre d’une licence Creative Commons BY-NC-SA pour les textes et MIT pour le code source. La plupart d’entre elles sont publiées sur GitHub.
+Ressources maintenues .
+Ressources non maintenues </description>
+    </item>
+    
+  </channel>
+</rss>
