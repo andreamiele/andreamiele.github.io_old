@@ -16,7 +16,7 @@ languages:
       title: Hi, folks, I'm Andrea !
       subtitle: "I live in Basel and work as an AI Intern 👨‍💻. \n
 
-  I am also a <u> **[Blogger 📝](http://localhost:1313/posts/)** </u>, **[Photographer 📸](https://www.instagram.com/aerdnasan/)**, and Traveler 🌍."
+  I am also a <u> **[Blogger 📝](/posts/)** </u>, **[Photographer 📸](https://www.instagram.com/aerdnasan/)**, and Traveler 🌍."
       imageUrl: "img/img.png"
       imageWidth: 120
       imageHeight: 120
@@ -123,7 +123,7 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
+    favicon: "img/img.png"
     favicon16x16: "<link / abs url>"
     favicon32x32: "<link / abs url>"
     apple_touch_icon: "<link / abs url>"
