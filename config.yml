@@ -146,9 +146,9 @@ params:
     - name: twitter
       url: "https://twitter.com/"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/andreamiele"
     - name: spotify
-      url: ""
+      url: "https://open.spotify.com/playlist/4nyhuUQUqIvUrfDqn08TCl?si=428fb5263b874cff"
     - name: twitch
       url: "https://twitch.com/"
     - name: linkedin
