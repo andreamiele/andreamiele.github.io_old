@@ -8,6 +8,17 @@ draft: false
 
 🏫 I study computer science and artificial intelligence in the Ecole Nationale Supérieure de Cognitique.
 
-### My skills
+## My skills
 
+### Programming skills
+
+Python, C#, HTML, CSS, PHP, SQL, Javascript, TypeScript CAML, Latex, R, Rust, MATLAB, OCAML,
+
+Databases: MySQL, SQLite, MongoDB
+
+Web Frameworks: Django, Node.js, currently learning React.js
+
+Other frameworks or librairies: NumPy, Pandas, TF, Keras, PyTorch, currently learning Scikit-learn
+
+Other tools: Unity, Learning Docker and Yarn.
 ......
