@@ -10,12 +10,15 @@ draft: false
 
 ### Mes compétences
 
-Python, C#, HTML, CSS, PHP, SQL, Javascript, TypeScript CAML, Latex, R, Rust, MATLAB, OCAML,
+Python, C#, HTML, CSS, PHP, SQL, Javascript, TypeScript CAML, Latex, R, MATLAB, OCAML
 
 Databases: MySQL, SQLite, MongoDB
 
-Web Frameworks: Django, Node.js, currently learning React.js
+Web Frameworks: Django, Node.js
 
-Other frameworks or librairies: NumPy, Pandas, TF, Keras, PyTorch, currently learning Scikit-learn
+Other frameworks or librairies: NumPy, Pandas, TF, Keras, PyTorch
 
-Other tools: Unity, Learning Docker and Yarn.
+Other tools: Unity
+
+Currently learning:
+Rust, React.js, Scikit-learn, Docker and Yarn.
