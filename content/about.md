@@ -12,16 +12,14 @@ draft: false
 
 ### Programming skills
 
-Python, C#, HTML, CSS, PHP, SQL, Javascript, TypeScript CAML, Latex, R, MATLAB, OCAML
+**Languages:** Python, C#, HTML, CSS, PHP, SQL, Javascript, TypeScript, Latex, R, MATLAB, OCAML
 
-Databases: MySQL, SQLite, MongoDB
+**Databases:** MySQL, SQLite, MongoDB
 
-Web Frameworks: Django, Node.js
+**Web Frameworks:** Django, Node.js
 
-Other frameworks or librairies: NumPy, Pandas, TF, Keras, PyTorch
+**Other frameworks or librairies:** NumPy, Pandas, TF, Keras, PyTorch
 
-Other tools: Unity
+**Other tools:** Unity
 
-Currently learning:
-Rust, React.js, Scikit-learn, Docker and Yarn.
-......
+**Currently learning:** Rust, React.js, Scikit-learn, Docker and Yarn.
