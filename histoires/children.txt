@@ -1,0 +1,129 @@
+[1]{Aujourd’hui, comme tous les lundis, dès la sortie de la classe, je cours vers le parc avec mes
+copains pour y retrouver monsieur Charles. J’essaye d’arriver le premier pour pouvoir choisir
+l’histoire qu’il va nous conter. Moi, je choisis toujours des histoires de détectives... Vite je
+dois me dépêcher...}(sound)*img*
+$ $.2
+
+[2]{Nous voilà arrivés au parc. On repère toujours monsieur Charles de loin grâce à son grand
+panier rouge. Mais ce soir, le banc vert sur lequel monsieur Charles s’assoit est vide. Nous
+partons à sa recherche dans le parc...}(sound)*img*
+$ Nous partons vers le grand arbre$.3
+$ Nous partons vers le petit ruisseau$.4
+$ Nous partons vers l’entrée du parc$.6
+
+[3]{Nous avons beau chercher, mais nous ne le trouvons toujours pas. Nous décidons de retourner
+vers le banc vert. }(sound)*img*
+$ $.5
+
+[4]{Il n’y a personne du côté du petit ruisseau. Nous décidons de retourner vers le banc vert. Pour
+aller plus vite nous décidons de revenir par le petit talus.
+> Passez par le petit talus}
+(sound)*img*
+$ $.5
+
+[5]{Nous nous asseyons sur le banc et attendons un peu. Mais personne ne vient. Pour la première
+fois, nous n’aurons pas d’histoire...}(sound)*img*
+$Nous décidons de rentrer à la maison. $.7
+$ Nous décidons de chercher encore un peu dans le parc.$.2
+
+[6]{Arrivés à l’entrée du parc, nous voyons un petit monsieur avec un manteau gris. C’est lui !!!
+Nous l’appelons « Monsieur Charles !!! » Mais il ne se retourne pas : ce n’était pas lui... nous
+décidons de retourner vers le banc vert. }
+$ $.5
+
+[7]{Nous nous dirigeons vers la sortie du parc. Tout à coup Fabien crie : « Regardez, regardez,
+c’est le panier de monsieur Charles ! ». Il montrait une dame qui portait le panier rouge de
+notre ami. Tout ceci est bien mystérieux. }
+$On suit la dame*.9
+$On va jouer à la GameBoy à la maison$.8
+
+[8]{Nous rentrons tous à la maison, on reviendra lundi prochain pour voir s’il sera là...}
+$ $.1
+
+[9]{Nous suivons la dame. Lucie avait un peu peur, mais je l’ai encouragée : nous devons savoir
+ce qui est arrivé à monsieur Charles. Nous courons jusqu’à la grille. Lance le dé :}
+€6€
+if (dé==1){
+    $ $.10
+}
+if (dé==2){
+$ $.11
+}
+if (dé==3){
+$ $.12
+}
+if (dé==4){
+$ $.13
+}
+if (dé==5){
+$ $.14
+}
+if (dé==6){
+$ $.15
+}
+
+
+[10]{Lucie perd sa chaussure. Nous perdons la trace de la dame. Nous devons retourner sur nos
+pas}
+$ $.9
+
+[11]{Fabien est tombé. Trop tard nous avons perdu sa trace. Retournons sur nos pas...}
+$ $.9
+
+[12]{Nous n’avons pas été assez rapides : nous perdons la trace de la dame. Nous devons retourner
+sur nos pas.}
+$ $.9
+
+[13]{Nous voyons la dame entrer dans un immeuble. Nous la suivons encore... Mais pour entrer
+dans l’immeuble, il nous faut trouver le code de la porte d’entrée !!!
+> Trouvez le code de la porte d’entrée}
+$ $.15
+
+[14]{J’ai cassé le lacet de la chaussure. Je ne peux plus continuer l’enquête. Je rentre à la maison. }
+$ $.1
+
+[15]{Nous entrons dans l’immeuble. Tout est sombre. « Chut ! » chuchote David. Nous écoutons...
+Mais il n’y a aucun bruit... Lucie dit alors « cherchons des indices ».}
+$Nous allons voir au 1er étage. $.16
+$Nous allons voir au 2eme étage. $.17
+$Nous allons voir au 3eme étage. $.18
+
+[16]{Nous voilà au 1
+er étage. Attention, un gros chien vient sur nous. Il n’a pas l’air très sympa.
+Vite retournons au rez-de-chaussée !!! }
+$ $.15
+
+[17]{Nous sommes au 2ème étage. Il n’y a aucun bruit. Nous retournons au rez-de-chaussée. }
+$ $.15
+
+[18]{Nous arrivons au 3ème étage. Il n’y a personne. }
+$ $.19
+
+[19]{Nous nous asseyons sur les marches. Lucie voulait rentrer à la maison et David disait que
+Monsieur était peut-être arrivé au parc. Tout à coup, nous entendons du bruit dans
+l’escalier !!!}
+$ On se cache derrière un poteau.$.21
+$ On va voir qui c’est$.20
+
+[20]{C’est un monsieur qui nous dit : « Vous n’avez rien à faire là. Rentrez chez vous !!! ». }
+$ $.19
+
+[21]{Cachés derrière un poteau, nous pouvons apercevoir la dame bizarre sur un palier. Avant de
+sortir, nous l’entendons dire : « Ne bougez pas monsieur Charles !!! Je reviens tout de suite ».
+La dame sort de l’immeuble.}
+$ Nous allons chercher un policier pour qu'il arrete la dame$.23
+$ Nous allons vite voir d'où venait la voix de Monsieur Charles$.22
+
+[22]{Nous montons les escaliers à toute vitesse. }
+$ $.24
+
+[23]{Nous trouvons un policier dans la rue qui nous dit : « Voyons les enfants, restons sérieux... Je
+ne mets pas les gens en prison comme ça... ». Nous retournons dans les escaliers. }
+$ $.24
+
+[24]{Nous appellons « Monsieur Charles, monsieur Charles !!! ». Monsieur Charles nous attend
+tranquillement sur le palier. Il nous dit bonjour et nous demande ce que nous faisons ici. Nous
+lui racontons alors notre histoire de détectives. Mais voilà que monsieur Charles se met à rire :
+« Mais Rose est mon aide-ménagère ! quand je suis malade, je prête mon panier pour qu’elle
+aille faire mes courses. Nous avons tous bien rigolé et nous avons eu droit à une très belle
+histoire comme tous les lundis soir.}

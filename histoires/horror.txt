@@ -1,0 +1,1796 @@
+Titre: Entre ici et Ailleurs
+Citation: Comme Vésyl est l’amante d’Yskad, quiconque aime la vie doit apprendre à aimer la
+mort. - Le livre d’Yskad, Chapitre 2, verset 34
+[1]
+{
+L’odeur de putréfaction se mêle dans l’air aux grognements des charognards. Sous le
+soleil de l’après-midi, vous avancez seule au milieu du charnier. Tant de cadavres… Les dieux
+savent que vous en avez déjà vu en dans vos jeunes années, mais jamais autant au même
+endroit… Peut être jamais autant au total ?\n
+
+Cornalys n’avait pas connu de batailles aussi sanglantes depuis bien longtemps. Du haut
+de vos vingt-cinq ans, vous n’aviez vécu qu’en temps de paix jusqu’ici. Une longue période de
+prospérité pour toutes les cités... Mais avec la prospérité vient la convoitise, la haine. Avant que
+qui que ce soit n’ait pu réaliser quel engrenage infernal s’était mis en marche, les armées de Dir
+et d’Agdor se rencontraient sur le champ de bataille pour ensanglanter la terre. D’autres cités
+s’engagèrent bien vite dans la guerre, y compris Mär, à votre grande tristesse. Peut-être
+espériez-vous que le berceau de votre enfance ne serait pas souillé par ce conflit inutile ? Bien
+vite, toutes les cités avaient pris parti, et vous avez sous les yeux le résultat de ces sinistres
+discordes. La jeunesse de sept cités, fauchée comme du blé mûr. Soldats, commandants,
+mages… Tous tombés comme des feuilles d’automne.\n
+
+Après les combattants sont venus les charognards. Les humains d’abord : voleurs,
+gredins, mendiants ; ceux qui suivent toujours les armées dans l’espoir de récupérer quelques
+miettes. En observant certains corps, vous avez déjà remarqué des entailles trop petites pour
+avoir été causées par des épées ou des lances. Les mêmes blessures qu’il vous arrivait de voir
+sur des corps surinés dans les allées sombres de Mär. Au moins ces premiers charognards ont
+peut-être pu épargner à certains soldats une longue agonie... Après eux étaient venus les
+corbeaux et les chiens, dont la nature n’est finalement pas si différente de celle des premiers.
+Tous ne font que chercher de quoi subsister un jour de plus.
+Après les humains, après la majorité des animaux, vous êtes arrivée à votre tour. Vêtue
+de votre robe noire, celle que vous aviez reçue du Temple il y a toutes ces années, vous
+ressemblez à un énième corbeau, venu se repaître de ce que ses congénères ont bien voulu lui
+laisser. Mais contrairement à eux, vous ne servez ni votre faim, ni votre avarice. Vous êtes là
+par devoir. Contrairement aux charognards, vous êtes là non pour dévorer les corps, mais pour
+assister les âmes.
+#
+Vous êtes là pour accomplir la volonté d’Yskad. Pour servir le dieu qui vous a donné
+votre nom. Même si vos anciens maîtres vous considèrent comme une renégate, quel autre
+chemin emprunter ? Votre errance n’a fait que confirmer qu’Yskad avait encore un plan pour
+vous. Peu sont capables d’être un pont entre l’Ici et l’Ailleurs, entre les vivants et les morts, et
+moins encore sont bien intentionnés. Contre tous ceux qui cherche à défier les lois naturelles
+ou à exploiter les âmes perdues, il vous appartient de préserver la frontière entre les deux
+espaces. Vous êtes bien placés pour savoir que les vivants et les morts doivent rester séparés…
+Toujours. Et pourtant, les défunts acceptent si difficilement leur sort… Beaucoup refusent de
+passer, caressent l’espoir d’un retour. Pour cette raison, votre rôle est nécessaire.
+Peu importe s’il s’agit de votre vocation ou non. Peu importe si vous avez été rejetée.
+Vous avez accepté votre devoir. Vous avez accepté la route et la fatigue. Vous avez accepté la
+pluie et le vent. Vous avez accepté d’être entre les vivants et les morts. Accepté de n’être jamais
+seule… Et pourtant de l’être toujours.
+Dans l’Ici, vous avancez seule sur le champ de bataille, votre bâton de marche à la main,
+alors que les ombres s’étendent. Dans l’Ailleurs, votre esprit aux aguets perçoit les premières
+plaintes des âmes en détresse. L’heure n’est plus à la réflexion ! Vous avez beaucoup à faire.
+Dans cette aventure, vous rencontrerez des codes à certains moments de votre
+progression. Notez-les, et reportez-vous au paragraphe indiqué quand cela vous sera demandé.\n
+
+Notez également que vous disposez d’un score « Vésyl » et d’un score « Yskad », qui
+seront amenés à évoluer au cours de l’aventure. Le premier commence à 1 et le second à 2
+/
+Vesyl=1; Yskad=2;
+/
+#
+Le silence qui tombe bientôt sur le champ de bataille n’est pas partagé avec l’Ailleurs.
+Vous n’avez pas besoin de vous concentrer pour percevoir gémissements et douleur, tout autour
+de vous. Ils refusent de partir, ils ne parviennent pas à accepter qu’il le faut… Vous vous
+immobilisez, vous fermez les yeux, pour mieux envisager les esprits qui vous entourent.
+Ce n’est que lorsque vous vous coupez de l’Ici que vous pouvez au mieux percevoir
+l’Ailleurs : limiter un sens en rend un autre plus puissant. A la vision du charnier se substitue
+un paysage mental désolé. De vastes étendues bleutées s’étendent aussi loin que votre esprit
+peut le voir dans toutes les directions. Le « sol » se tord et se détend pour former des reliefs
+improbables et des angles impossibles. Tout autour de votre esprit, vous sentez des courants
+d’émotions sauvages, des idées à la dérives issus de dizaines d’esprits, et le regard des êtres
+autochtones, qui restent à bonne distance de vous ou de vos congénères. Et au milieu de ce
+paysage étranges évoluent des âmes égarées, perdues. A la différence des esprits des vivants,
+elles errent sans ancrage, elles s’agitent de façon incohérente, luttant contre leur attirance pour
+les profondeurs. Elles souffrent, elles souffrent tellement…
+Respirant longuement, vous étendez votre esprit jusqu’à ce qu’il touche l’âme la plus
+proche. Comme un éclair, ses émotions les plus affleurantes vous traversent. Colère.
+Egarement. Deuil. Regret. Des sentiments fréquents dans le cas des morts brutales. Vous en
+avez l’habitude. Comme vous l’avez appris, vous insufflez doucement votre calme à l’âme
+errante, pour lui permettre de partir. Toucher l’esprit du mort forme comme un pont avec lui,
+permettant le passage de bribes de pensées entre vous deux.
+L’odeur de l’acier et du cuir. Un grand homme armé crie en pointant l’horizon. Une
+course. Des hurlements. La peur au ventre. Des cris, partout. Un fracas, métal contre métal.
+Du sang sur la terre. Un sabre levé…
+Non, non c’est fini, c’est fini… Peur ? Pourquoi ? C’est terminé, il n’y a que la paix
+derrière le miroir. La paix. Un champ baigné par le Soleil. Une jeune fille est là. Ses cheveux
+sont bruns. L’air s’emplit des odeurs du printemps. Il faut avancer, juste un peu plus…
+Progressivement, l’esprit s’apaise. Bientôt, il cesse de se débattre et se laisse lentement
+glisser dans l’Ailleurs, ne cherchant plus à résister à l’attraction des profondeurs. Vous le sentez
+s’enfoncer lentement, jusqu’à ce qu’il soit soustrait à votre perception. Yskad l’a rappelé à lui.
+« Puisse Yskad t’offrir la paix », murmurez-vous, plus pour vous-même que pour le défunt.
+Vous continuez pendant quelques instants à étendre votre esprit vers les âmes autour de
+vous, mais il vous faut vite vous rendre à l’évidence : elles sont trop nombreuses pour que vous
+puissiez toutes les aider comme vous le feriez normalement. Il vous faut trouver une autre
+solution… Pourquoi ne pas laisser les défunts venir à vous ? Vous connaissez un rituel qui vous
+permettrait de faire de votre esprit une véritable balise dans l’Ailleurs, une oasis capable
+d’attirer les âmes tourmentées. Mais pour qu’il puisse fonctionner vous avez besoin d’un lieu
+propice à la méditation… Pour éviter d’avoir à passer la nuit sur le champ de bataille, autant
+vous mettre en route immédiatement.
+Alors que vous progressez, restant attentive à là où vous mettez les pieds dans l’Ici, et
+aux mânes les plus affolés dans l’Ailleurs, un long râle à proximité fait rater un battement à
+votre cœur. Se pourrait-il que… Oui, un autre gémissement vient le confirmer, il doit y avoir
+un blessé à proximité ! Vous n’avez pas à chercher bien longtemps : à quelques pas de vous,
+adossé contre une grosse pierre, vous apercevez un jeune homme, revêtu d’une cotte de maille
+éprouvée par le combat. Sans attendre, vous vous précipitez vers lui.
+« Ne bougez pas, cela ne ferait qu’aggraver vos blessures, dites vous rapidement en vous
+agenouillant à côté de lui. Respirez doucement, je vais essayer de vous aider.
+- S’il vous plaît, gémit-il entre ses dents. Je… Je ne veux pas mourir.
+- Ne parlez pas pour le moment. »
+Un regard à ses blessures vous apprend tout ce que vous devez savoir. Il saigne de multiples
+entailles, la plupart superficielles, quelques-unes un peu plus grave. Cependant, un large coup
+de hache l’a touché à l’abdomen, sectionnant partiellement ses intestins. Vous n’avez pas les
+compétences pour le sauver. Alors que vous en arrivez à cette conclusion, vous l’entendez vous
+supplier encore une fois. Lorsque vous levez la tête, vous croisez son regard terrifié et
+interrogateur. Quoi que vous fassiez, il n’a plus beaucoup de temps à vivre… Il vous incombe
+de l’aider à traverser le miroir.
+}
+$Allez-vous abréger ses souffrances ?$.13
+$Ou bien préférez-vous l’accompagner dans ses derniers instants ?$.7
+
+[2]
+{
+Vous laissez le souvenir vous envahir. Vous retrouvez votre corps et vos yeux d’enfant.
+Votre esprit dessine la façade de votre ancienne maison, de brique rose et jaune. La scène
+change, pour faire place à une rue autrefois familière de Mär.
+L’odeur des embruns vous chatouille les narines alors que vous descendez vers le port.
+A côté de vous, votre mère vous tient la main. Votre père et votre frère ont dû s’absenter pour
+la journée, donc elle a décidé de vous emmener avec elle pour la journée. De temps en temps,
+elle se tourne vers vous, un grand sourire aux lèvres. Elle est si belle, dans sa robe rouge !
+Vous souriez aussi, vous êtes heureuse d’être avec elle. Votre père et votre frère ne sont pas
+toujours gentils avec vous, parfois ils vous regardent bizarrement. Mais pas votre mère ! Elle
+vous aime vraiment, vous le savez.
+Vous arrivez jusque sur la place du marché. Il y a tellement de monde, des adultes tout
+autour de vous. Aux étals, les marchands crient et montrent de la main leurs marchandises.
+Des poissons, des herbes, des tissus… Vous êtes à la fois émerveillée et effrayée par tous ces
+visages nouveaux et ces objets étranges. Vous serrez un peu plus fort la main de votre mère.
+« Allons, n’aie pas peur Ys, dit-elle d’une voix tendre. Le marché n’est pas dangereux. On aura
+bientôt fini, ne t’en fais pas. » Un peu rassurée, vous continuez d’emboîter le pas à votre mère.
+Vous vous rendez compte qu’au passage, elle salue plusieurs marchands qui lui font des gestes
+amicaux. Prenant courage, vous faites signe aux marchands également, mais tous ne vous
+rendent pas votre salut.
+Votre mère s’arrête devant plusieurs étals, pour acheter du poisson, des épices, et des
+herbes. A chaque fois, les marchands semblent d’abord enjoués, mais leur visage devient plus
+sombre quand vous vous présentez. Ils évitent de vous regarder, quand ils ne vous ignorent pas
+tout simplement. Pourquoi est-ce qu’ils font ça ? Ils se comportent comme votre père… Vous
+qui étiez si contente tout à l’heure, vous commencez à vous sentir triste.
+En arrivant chez vous, vous tirez sur la manche de votre mère pour attirer son attention.
+« Qu’y a-t-il Ys ? demande-t-elle devant votre mine sombre.
+- Maman, pourquoi est-ce que tout le monde me déteste ? demandez-vous d’une petite
+voix.
+- Ils ne te détestent pas…
+- Pourquoi est-ce qu’ils ne veulent pas me parler ? demandez-vous plus fort. Pourquoi
+est-ce qu’ils ont l’air d’avoir peur quand je suis à côté ? »
+Votre mère reste silencieuse quelques instants, son visage affichant une expression dont le
+sens vous échappe. Puis, elle se met à genoux devant vous pour être à votre niveau, et
+commence à vous parler très sérieusement. « Ecoute-moi bien, Ys, je vais te dire quelque chose
+de très important. Tu es née le jour de la fête de la mort, un jour très spécial. Beaucoup de
+personnes ont peur d’enfants comme toi, parce que tu leur rappelles qu’ils vont mourir.
+Quand… Quand tu seras prêtresse, ce sera peut-être pire. Tu ne pourras pas l’éviter, c’est
+impossible. Mais ne les laisse pas ça gâcher ta vie, jamais. Leur peur ne disparaîtra pas
+facilement, à toi de leur montrer par tes actions qu’elle n’a pas de raisons d’être. Si les gens
+ont peur de toi, sois bonne avec eux. S’ils refusent de te parler, apprend les gestes qui les
+toucheront. Rappelle-leur que tu n’es pas juste une élue d’Yskad, tu es Ys de Mär ! Montre-leur
+qu’ils ont tort de ne pas essayer de te connaître. »
+Après ces mots, votre mère vous serre dans ses bras. Submergée par l’émotion, vous
+commencez à pleurer. Vous n’êtes pas sûre d’avoir compris tout ce que votre mère voulait vous
+dire, mais vous savez que ces mots sont les plus importants qu’on vous ait dit dans votre vie.
+Elle vous comprend, vous le savez. Vous êtes si heureuse…
+Vous pouvez presque sentir encore le parfum de votre mère, toucher sa peau. En vous
+concentrant sur ces sensations, vous entrez bientôt dans une transe profonde, emplie de
+fragments d’une époque très lointaine. Un temps distant, que vous ne pouvez pourtant pas
+oublier. Une époque avant Yskad. Bientôt, cependant, le souvenir se dissipe, vous laissant prête
+à aider ces esprits égarés.
+Vous gagnez un pont Vésyl
+/
+Vesyl+=1;
+/
+}
+$ $.20
+
+[3]
+{
+Vous tentez désespérément de creuser pour regagner la surface. Avec cette terre qui
+vous entoure, bouger est particulièrement difficile, mais vous parvenez à dégager un faible
+espace pour vos bras. Avec l’énergie du désespoir, vous creusez la terre aussi bien que possible,
+tentant vainement de vous libérer. Vous creusez jusqu’à ce que vos doigts saignent, jusqu’à ce
+que vos ongles soient arrachés, jusqu’à ce que vous ne sentiez dans vos muscles plus que fatigue
+et douleur. Mais vous ne parvenez pas à échapper aux entrailles de la terre.
+A quoi bon continuer ? Vous êtes à bout de force, et il n’y a plus rien que vous puissiez
+faire. Il ne vous reste qu’à accepter votre destin. Vous laissez lourdement retomber vos bras
+endoloris, vos paupières se closent sans même que vous ayez à y penser. La terre pèse
+lourdement sur votre poitrine. Progressivement, votre respiration devient plus difficile.
+Pourtant, alors que vous vous sentez lentement dériver vers l’inconscience, vous êtes en paix.
+Yskad a décidé qu’aujourd’hui était le jour de votre mort, pourquoi vous opposer à sa volonté ?
+}
+
+[4]
+{
+Vous prenez une posture défensive, vous préparant à repousser le chien si jamais il tente
+de vous attaquer. Toutefois, ce dernier se contente de vous fixer sans un bruit. Il semble tendu,
+mais reste immobile, la tête légèrement penchée sur le côté alors qu’il vous observe. Quoi qu’il
+désire, il semble s’intéresser à vous ! Peut-être est-ce simplement parce qu’il a faim ? Peut-être
+essaie-t-il de vous jauger ? Tout semble pourtant le désigner comme un chien ordinaire. Quelle
+qu’en soit la raison, son attitude vous déconcerte… Vous pourriez tenter de lire ses pensées,
+mais la communication avec l’esprit des bêtes fonctionne de manière très différente que celle
+entre esprits humains, et vous manquez singulièrement d’expérience dans ce domaine. Toujours
+hésitante, vous maintenez votre bâton levé devant vous pour parer à tous les risques. De longs
+instants s’écoulent sans que ni vous, ni l’animal ne fassiez un geste. Après avoir attendu un
+certain temps, vous prenez une décision.
+}
+$Allez-vous baisser votre garde et le laisser vous rejoindre ?$.22
+$Ou bien préférez-vous le chasser violemment pour éviter de prendre le moindre risque ?$.14
+
+[5]
+{
+Vous n’aimez pas contraindre les morts. Conformément aux enseignements d’Yskad,
+les prêtres doivent normalement simplement les guider, les orienter pour permettre leur passage.
+Contrôler les morts ne relève pas de la responsabilité du clergé. En temps normal, tout du
+moins… Mais dans le cas d’un spectre activement dangereux dans l’Ailleurs, cette pratique
+peut être autorisée pour éviter une catastrophe. A ce titre, vous avez bénéficié des
+enseignements nécessaires pour y parvenir.
+Rassemblant vos forces et votre concentration, vous effectuez les mouvements mentaux
+nécessaires, tandis que vos lèvres murmurent une brève incantation. Vous vous efforcez de tirer
+le spectre vers vous de toute la force de votre esprit. Ce dernier résiste, tente de vous échapper.
+Vous le voyez effectuer des mouvements mentaux, comme pour se défendre, mais sans ancrage,
+il commet une erreur et perd sa concentration. Ne pouvant plus résister, il répond à votre appel.
+Une bourrasque glacée vous fouette le visage tandis que le spectre arrive non loin de
+votre esprit. C’est préoccupant… Si cet esprit est suffisamment puissant pour avoir une
+influence sur l’Ici, il risque d’être un adversaire de poids. Maintenant qu’il est proche de vous,
+vous réalisez à quel point il est cohérent. Si ce n’est l’absence d’ancrage, il pourrait passer pour
+l’esprit d’un vivant ! Et son aisance dans l’Ailleurs ne correspond pas au comportement d’un
+esprit normal. Il devait probablement être un puissant mage…
+A peine arrivé, l’esprit s’étend pour toucher le vôtre. Vous frissonnez de peur alors qu’il
+observe vos pensées affleurantes, et dressez rapidement vos défenses pour protéger vos pensées
+plus profondes. Laissez-moi en paix, prêtresse, articule sa voix dans votre esprit. Je n’ai rien
+contre vous, mais je n’hésiterai pas à vous éliminer si vous entravez mes projets.
+A peine avez-vous le temps d’articuler une réponse mentale qu’il semble avoir perçu
+votre refus. Désolé, mais je n’ai pas de temps à perdre avec vous, entendez-vous tandis que
+vous percevez son agacement et son impatience.
+L’attaque sur votre esprit est soudaine et inattendue. Avec la précision d’un escrimeur
+et la force d’un marteau de guerre, l’esprit frappe violemment le vôtre. Vos défenses
+parviennent à encaisser le choc, mais déjà il frappe de nouveau. Vous laissez échapper un cri
+de douleur. Concentrant toute votre énergie sur votre défense, vous percevez tout juste votre
+adversaire puiser l’énergie des esprits les plus proches de lui pour renforcer son attaque…
+/
+if(Yskad==4)
+{$ $.18}
+else
+{$ $.34}
+/}
+
+[6]
+{
+Une fois vos préparatifs terminés, vous vous mettez en route pour aller à la rencontre
+d’Entrekan. Malgré votre précédent affrontement, le spectre ne fait pas d’effort particulier pour
+se dissimuler dans l’Ailleurs… à moins qu’il soit tout simplement devenu trop puissant pour le
+faire efficacement. Vous adressez silencieusement une prière à Yskad. Puisse-t-il vous accorder
+sa bénédiction dans le combat à venir !
+Vous marchez pendant de longues minutes en direction du Soleil couchant. Dans
+quelques minutes, il aura disparu derrière l’horizon. Déjà, les premières étoiles sont visibles
+dans le ciel. Et vous qui, il y a quelques heures à peine, espériez pouvoir en finir sur ce champ
+de bataille avant la nuit…
+Soudain, vous vous immobilisez. Il se passe quelque chose d’anormal dans l’Ailleurs.
+Autour de votre esprit, un grand nombre de points chargés de magie sont brusquement apparus,
+avant de disparaître l’instant suivant. Un piège d’Entrekan ? Il aurait eu le temps de le préparer,
+mais vous n’avez remarqué aucune menace dans l’Ailleurs. Mais alors peut-être que… Non !
+Vous réalisez tout juste ce que le mage avait prévu quand tout autour de vous, des
+cadavres commencent à se relever lentement, et avancent vers vous en titubant. Vous êtes
+parcourue d’un frisson de dégoût, bientôt suivi d’une immense colère. Des morts-vivants !Cette
+ordure ose utiliser contre vous de telles abominations ! La colère se mêle à un violent sentiment
+de dégoût. Votre devoir vous commande d’exterminer ces injures à l’ordre naturel !
+Cependant… Les créatures sont nombreuses : au moins une vingtaine vous encerclent. L’option
+la plus sage serait de prendre la fuite immédiatement pour confronter le mage. Sa défaite devrait
+probablement entraîner la disparition de ces créatures. Mais pouvez-vous réellement vous
+permettre de les laisser polluer le monde par leur présence un instant de plus ? Quelle que soit
+votre décision, vous n’avez pas de temps à perdre.
+}
+$Allez-vous essayer de passer en force ?$.15
+$Ou bien préférez-vous tenter d’éliminer toutes ces créatures ?$.27
+
+[7]
+{
+Vous posez votre bâton de marche pour prendre la main du jeune soldat. Serrant
+légèrement, vous tentez de lui transmettre tout le réconfort possible. Dans l’Ailleurs, votre esprit
+touche délicatement le sien pour lui transmettre des émotions positives. Vous donnez un peu de
+votre calme, et prenez un peu de sa détresse. L’effet est immédiat : rapidement, sa respiration
+devient plus lente, tandis que vous sentez le trouble de son esprit s’effacer peu à peu. Bientôt,
+ce dernier reprend en partie sa cohérence, et forme de nouveau des pensées structurées.
+Appliquant votre main libre sur sa blessure, vous laissez agir votre magie curative. Si vous
+n’êtes pas capable de guérir la blessure, au moins pouvez-vous faire quelque chose contre la
+douleur. Cela devrait permettre de faciliter son départ…
+Vous sentez la main du blessé se resserrer sur la vôtre. Quittant des yeux sa blessure,
+vous levez la tête pour croiser son regard. La grimace qui tordait son visage à l’instant s’est
+effacée, laissant derrière elle une expression d’une grande douceur. Vous n’aviez pas réalisé à
+quel point il était jeune… C’est tout juste un enfant, pas encore sorti de l’adolescence.
+« Merci, parvient-il à articuler dans un souffle. Merci beaucoup.
+- Je vous ai dit d’éviter de parler. Ce n’est pas bon dans votre état.
+- Vous m’avez sauvé la vie. Je… Je croyais que j’allais mourir, j’ai eu peur… Je… Je… »
+Interrompu par des sanglots, il ne parvient pas à terminer sa phrase. Des larmes commencent
+à couler sur ses joues, sans qu’il semble s’en rendre compte. Déjà, l’éclat dans ses yeux
+commence à se ternir. Il est en train de passer…
+Sans lâcher sa main, votre main libre vient se porter sur sa joue. « Tout va bien, dîtes-vous
+très doucement. Tout va bien… N’essayez pas de bouger, je suis là avec vous, tout va bien. »
+Bientôt, les pleurs cessent, et un léger sourire apparaît sur les lèvres du soldat. « Oui, dit-il.
+Je suis épuisé, il faut que je me repose. Sinon je ne pourrais pas rentrer… Attend-moi, maman,
+je… Je vais rentrer bientôt… ». Sa tête s’affaisse sur la pierre, les paupières closes, le même
+sourire sur le visage. Sa main dans la vôtre devient inerte. Comme s’il venait de s’endormir,
+son esprit s’enfonce sans peur dans les profondeurs de l’Ailleurs.
+« Puisse Yskad t’offrir la paix », murmurez-vous doucement en posant sa main sur le
+sol. Reprenant votre bâton, vous vous redressez lentement, encore sous le coup du décès auquel
+vous venez d’assister. Yskad peut rappeler quiconque à lui, à tous âges de la vie, mais ce garçon
+était si jeune… Vous n’aviez jamais été là pour quelqu’un comme lui au Temple, quelqu’un
+d’aussi vivant avant son passage. D’ordinaire, vous aidiez des vieillards ou des malades, déjà
+résignés. Avez-vous déjà réellement fait l’effort de comprendre cet attachement… irraisonné
+au don de Vésyl ?
+/
+Vesyl+=1;
+/
+}
+$ $.17
+
+[8]
+{
+Alors que les créatures s’approchent de vous, vous ressentez une énergie considérable
+s’accumuler entre vos mains. L’énergie que vous avez acquise grâce à votre rituel se mêle à vos
+propres capacités, vous donnant accès à une puissance à laquelle vous auriez été incapable
+d’accéder avec vos propres ressources. Quelle exaltation !
+Les morts-vivants continuent pourtant d’avancer, aveugle à votre magie. Déjà, certains
+étendent le bras, parviennent presque à vous toucher… Puis, dans un murmure, vous concluez
+le rituel et laissez agir votre sort. Un tonnerre silencieux roule sur le champ de bataille, avec
+vous comme épicentre. Pendant quelques instants, les créatures restent immobiles, comme
+figées dans le temps. Soudain, l’une d’entre elle s’affaisse, puis une autre, puis une autre.
+Bientôt, toutes sont retournées à l’état de cadavres ordinaires. « Puisse Yskad vous offrir la paix
+», murmurez-vous.
+Satisfaite, vous vous relevez pour reprendre votre route, avant de retomber aussitôt.
+Après un instant de surprise, vous prenez vite conscience de l’état dans lequel ce rituel vous a
+laissé. Vos jambes tremblantes peinent à supporter votre poids, votre respiration est haletante…
+Et vous vous sentez si vide ! La puissance que vous aviez accumulée a été consumée.
+Totalement. Que ne donneriez-vous pas pour ressentir de nouveau la sensation grisante du
+pouvoir ! C’est probablement ce que ressent Entrekan, vous surprenez vous à penser. Vous
+chassez cependant bien vite ces idées de votre esprit : l’heure est à la concentration pour le
+combat à venir. Vous aidant de votre bâton, vous vous relevez difficilement avant de reprendre
+la marche. Il est temps de vous mesurer à ce damné mage ! Malheureusement, vous aurez moins
+de ressources à votre disposition que ce que vous espériez…
+/
+Energie=true;
+/
+}
+$ $.11
+
+[9]
+{
+Vous marchez pendant plusieurs minutes parmi les cadavres. Aucun endroit ne semble
+suffisamment calme pour mener le rituel à bien dans de bonnes conditions : où que vous soyez,
+vous entendez toujours à la lisière de votre conscience les gémissements des nombreuses âmes
+en peines toujours prisonnières de ce champ de bataille. Le plus triste, cependant, est que vous
+parvenez relativement facilement à en faire abstraction. Le nombre d’esprits massés ici est bien
+plus important que partout ailleurs où vous avez pu aller, mais leur détresse est si commune
+pour vous... Peur. Solitude. Désespoir. Des sentiments courant pour quiconque est coincé entre
+deux mondes.
+Votre recherche vous mène finalement devant un arbre, se dressant au sommet d’une
+petite butte. Le tronc tordu, les branches pratiquement nues, il semble se trouver aux abords du
+champ de bataille. Plusieurs dépouilles jonchent le sol au pied de la butte, mais aucun cadavre
+ne se trouve sur celle-ci, entre les racines de l’arbre. Excellent ! Vous devriez trouver ici le
+calme dont vous avez besoin. En vous appuyant sur votre bâton, vous gravissez la butte sans
+difficulté. Vous prenez le temps de vous asseoir dans une position confortable, entre les racines
+de l’arbre, le dos appuyé contre son tronc. Quand vous êtes satisfaite, vous fermez les yeux.
+Dans l’Ailleurs, vous sentez comme une présence diffuse autour de vous, une aura
+profonde et calme. Comme vous l’espériez, l’arbre n’a pas trop souffert des combats. Sa
+présence est suffisamment diffuse pour ne pas vous gêner, et suffisamment forte pour que les
+esprits environnants gardent leurs distances. Aucune plainte ne vient troubler votre
+concentration.
+Pour compléter le rituel, il vous faut d’abord atteindre un état de transe suffisante pour
+vous détacher de l’Ici. Vous l’avez déjà pratiqué plusieurs fois, et vous savez parfaitement
+comment y parvenir. L’expérience vous a appris que reconstituer un paysage mental grâce à un
+souvenir fort facilitait l’accès à cet état. Respirant profondément, vous videz votre esprit pour
+mieux accueillir un souvenir adéquat. Deux en particulier vous ont toujours été particulièrement
+utile pour trouver parvenir à la transe recherchée.
+}
+$Optez-vous pour le meilleur souvenir que vous ayez de votre mère ?$.2
+$Ou bien est-ce le souvenir du premier cadavre que vous ayez vu que vous choisissez ?$.12
+
+[10]
+{
+Massant votre nuque et vos épaules endolories, vous essayez de remettre un peu d’ordre
+dans vos pensées. Vous avez eu de la chance, beaucoup de chance de vous sortir aussi bien de
+la rencontre avec cet esprit. Normalement, quand vous entrez en contact avec des esprits, vous
+avez simplement à faire attention à ne pas être dominée par leur peur ou leur colère ; pas à lutter
+de toutes vos forces pour éviter l’anéantissement de votre être ! Le duel mental n’est pas un art
+que vous maîtrisez, contrairement à votre adversaire, de toute évidence… Votre brève passe
+d’arme a été suffisante pour vous faire réaliser qu’il est bien plus expérimenté que vous dans
+les arts de l’Ailleurs. S’il n’avait pas été encore affaibli par sa mort, il vous aurait vaincu sans
+difficultés. Et, au vu de la situation, il ne fera que gagner en puissance avec le temps…
+Vous fermez les yeux, pour mieux vous remémorer ce que vous avez vu quand vous
+avez pénétré son esprit. Il y avait d’abord une détermination, sans faille, concentrée sur son
+objectif : retrouver la vie. Une motivation peu surprenante, compte tenu du comportement de
+son esprit… Il y avait une raison plus profonde, mais vous n’êtes pas parvenue à la sentir. En
+revanche, vous avez pu percevoir quelques souvenirs, épars et fragmentaires. Des expériences
+sur des esprits, des duels avec d’autres mages, plusieurs visages flous, un champ de bataille
+embrasé… Il n’y a là que peu d’informations dont vous pouvez tirer parti, malheureusement.
+Vous avez simplement pu identifier que votre adversaire est un ancien mage de Dir, quelques
+indices tendant à laisser penser qu’il était célèbre dans sa ville d’origine. Mais surtout, vous
+avez identifié assez précisément un nom, ou un fragment de nom : Entrekan. Serait-ce celui de
+votre adversaire ? Probablement. Vous ne pouvez malheureusement pas l’exploiter de façon
+satisfaisante dans l’état, avec le peu d’information dont vous disposez. Mais, peut-être par
+superstition, le simple fait de nommer la menace vous la rend moins effrayante. Un peu…
+Vos mains se crispent sur votre bâton. Vous avez peur, bien plus que vous ne voulez
+l’admettre. Vous n’arrivez pas à chasser de votre esprit cette horrible sensation, lorsque le
+spectre s’est violemment mêlé à votre esprit. L’espace d’un instant vous ne contrôliez plus rien,
+vous n’étiez plus la maîtresse de votre propre esprit. Vous ne vous étiez pas sentie aussi
+impuissante depuis… Depuis votre erreur, au Temple. Les souvenirs que votre duel vient de
+brasser en vous remontent de nouveau, tout aussi violemment :
+Un corps git sur une table de marbre. Un homme, âgé. Devant la table, une femme
+effondrée est secouée de pleurs. Sa femme. Autour de vous deux, l’esprit du mort erre encore,
+égaré, refusant de passer de l’autre côté. Vous devriez le faire partir, vous savez le faire
+maintenant… Mais sa femme voudrait lui parler. « Rien qu’une fois », répète-t-elle. Peut-être
+que cela l’aiderait à faire son deuil ? Il suffirait qu’elle… Non, ce serait contre la volonté
+d’Yskad… Mais si cela aidait aussi le défunt à accepter sa mort ? Vous vous décidez finalement
+à faire l’expérience. Vous poussez l’esprit du défunt vers celui de sa femme. Vous les faites
+entrer en contact l’un avec l’autre, une rencontre forcée. Mais que… ? Les esprits se mêlent…
+Plus qu’un… La femme crie de douleur, ses membres se tordent dans des sens non naturels.
+Elle hurle… Pourquoi l’esprit fait ça ? Vous tirez vers vous, pour séparer les deux esprits. La
+femme tombe sur le sol de marbre. L’esprit du mari est pris de folie, il s’en prend frénétiquement
+à vous. Pourquoi ? Surprise, vous perdez votre concentration. L’esprit est agressif, il tente de
+vous envelopper. Vous sentez votre corps être pris de tremblement… Le marbre fissuré sous
+vos genoux… Plus de contrôle, plus rien… Puis la voix du grand-prêtre, sa volonté, une
+libération. De la colère, de la déception sur son visage…
+Secouant la tête, vous vous ressaisissez péniblement. Inutile de rester focalisé sur le
+passé, vous avez appris votre leçon. Les morts et les vivants doivent rester séparés. Toujours.
+Il est temps pour vous de le rappeler à ce mage ! Cependant, dans votre état actuel, vous avez
+peu d’espoir de le battre une seconde fois… Il a plus d’expérience que vous, et plus le temps
+passe, plus sa puissance augmentera. Si vous voulez avoir une chance, il vous faut trouver un
+moyen d’augmenter votre pouvoir. Vous pourriez peut-être solliciter les esprits des défunts. Si
+vous les calmez et leur communiquez la situation, nul doute que beaucoup d’entre eux seront
+prêt à vous aider ! Mais est-ce que l’aide de quelques esprits inhabitués à l’Ailleurs sera
+vraiment suffisante ? Sans compter que cela reviendrait à prolonger plus que nécessaire leur
+contact avec l’Ici…
+Une autre idée vous vient subitement à l’esprit : de nombreux mages ont participé à la
+bataille, pas seulement Entrekan ! Pour une bataille de cette ampleur, ils ont sûrement apporté
+plusieurs artefacts. Bien utilisés, ceux-ci pourraient vous donner un avantage décisif ! Mais cela
+implique que vous trouviez ces artefacts et soyez capables de les maîtriser… Votre manque
+d’expérience dans le domaine pourrait vous jouer des tours.
+}
+$Vous estimez qu’il est plus sûr de solliciter les esprits encore présents$.47
+$Vous préférez tenter votre chance en cherchant des artefacts$.25
+
+[11]
+{
+Après votre affrontement avec les morts-vivants, vous continuez en direction
+d’Entrekan. La lune est maintenant haute dans le ciel, baignant le monde d’une lumière
+argentée. Un fin brouillard s’est levé, masquant les cadavres ainsi que le relief. Dans ce paysage
+au contour brouillés, vous vous croiriez presque transportée physiquement dans l’Ailleurs… A
+quoi pourraient bien ressembler les esprits si vous les voyiez avec vos yeux ?
+Ne vous laissant pas distraire par ses vaines rêveries, vous continuez d’avancer vers
+Entrekan, votre esprit aux aguets pour ne pas vous faire surprendre par un autre piège. Avec le
+temps que vous avez perdu, le spectre semble avoir accumulé une énergie considérable. Dans
+l’Ailleurs, son esprit brille comme l’Etoile Polaire dans le ciel nocturne. Il semble presque aussi
+puissant qu’un mage vivant… Serez-vous capable de le vaincre ? Il le faudra bien ! Vous
+efforçant de faire taire vos doutes, vous poursuivez votre marche. Puisse Yskad vous venir en
+aide !
+Dans l’Ici, la position de l’esprit correspond à une petite pile de cadavres calcinés, située
+au fond d’un petit cratère. Le résultat d’une magie moins subtiles que la vôtre, sans aucun doute.
+Alors que vous vous approchez, vous remarquez immédiatement que quelque chose ne va pas.
+Exactement à la position correspondante de l’esprit d’Entrekan dans l’Ici se dresse une
+silhouette translucide, se découpant contre la lumière de la lune. Serait-ce… ? Oui, pas de doute
+possible, c’est lui. Un frisson court le long de votre échine. S’il est capable de se manifester de
+la sorte dans l’Ici, cela signifie qu’il est proche, très proche d’achever ses objectifs. Vous
+n’aurez pas d’autres moments pour l’arrêter.
+Vous avez tout juste le temps d’ériger vos défenses mentales avant que le mage ne
+tourne son attention vers vous. Prête ou non, il vous faut maintenant faire face !
+/
+if(Yskad>=4 && !Amulette)
+{
+    $ $.38
+}
+else
+{
+    $ $.46
+}
+/
+}
+
+[12]
+{
+Vous laissez le souvenir vous envahir. Vous êtes transportée dans un passé lointain,
+vous retrouvez vos pensées et vos yeux d’enfant. Méticuleusement, votre esprit dessine jusque
+dans ses moindre la maison du pêcheur sur le grand-port. Progressivement, ses contours
+s’effacent pour faire place à une petite chambre, vide si ce n’est pour un lit occupant l’essentiel
+de l’espace.
+Un corps git dans son lit, la peau très pâle. Immobile, il a les yeux fermés, comme s’il
+dormait, mais de là où vous êtes, vous pouvez voir qu’il ne respire plus. Vous êtes intimidée.
+Vous essayez de le cacher, mais la scène vous fait un peu peur. C’est aussi à cause d’une odeur
+nouvelle, mêlée aux odeurs familières de la mer, des poissons. Une odeur âcre et suave, discrète
+et insidieuse, qui emplit l’air plus que toute autre. Malgré vos efforts pour dissimuler vos
+impressions, elles ne passent pas inaperçues auprès du haut-prêtre. Il se tient à côté de vous,
+vous dominant de toute sa taille, vêtu de ses robes noires comme un grand corbeau. Sa capuche
+est abaissée, révélant son visage mince et anguleux. Une ombre de sourire passe sur son visage
+alors qu’il pose ses yeux sur vous. Il pose un genou à terre et met une main sur votre épaule,
+vous faisant pivoter pour lui faire face. « Tu n’as pas à avoir peur, Ys. Ce que tu vois ici est
+notre destin à tous. Yskad nous appelle tous à lui un jour, ce pêcheur est simplement parti le
+rejoindre.
+- Mais le pêcheur a laissé ses enfants derrière, protestez-vous timidement. Ils sont
+tristes... Pourquoi Yskad l’a rappelé si cela rend les gens tristes ?
+- Ce n’est pas Yskad qui les a rendus triste, répond gentiment le prêtre. Ils sont tristes
+pour eux, parce qu’ils ne verront plus leur père. Ils n’ont pas de raisons d’être triste
+pour lui. Tu te souviens de ce que je te disais plus tôt au Temple ?
+- Les dons de Vésyl sont un millier d’expériences qui nous plaisent ou nous blessent,
+commencez-vous à réciter. La vie qu’elle nous offre change et se transforme entre joies
+et peines. Le don d’Yskad est unique, ordonné, final. Il est la paix que Vésyl ne peut
+nous donner.
+- Très bien. La mort ne doit pas être crainte, elle doit être acceptée. Ce pêcheur a été
+sage et brave, son esprit est parti tranquillement. Ce n’est pas le cas de tous. Nous
+sommes là pour aider les morts à partir, les accompagner dans leur dernier voyage.
+Nous sommes là pour rendre les derniers rites et offrir à leur corps la sépulture qu’il
+mérite. Prions quelques instants, si tu le veux bien. »
+Vous passez les quelques heures suivantes à prier pour l’esprit du défunt et à préparer son
+corps pour sa sépulture. Vous assistez le haut-prêtre pour laver le corps, puis l’oindre des
+onguents sacrés. La tâche est fatigante, mais vous en retirez un sentiment d’accomplissement
+que vous n’aviez jamais connu jusqu’alors. Ici, vous êtes acceptée. Ici, vous êtes requise.
+Vous pouvez presque sentir encore la fatigue dans vos bras, l’odeur du cadavre ou celle
+des onguents. En vous concentrant sur ces sensations, vous entrez bientôt dans une transe
+profonde, emplie d’anciennes prières et pratiques. Bientôt, le souvenir se dissipe, vous laissant
+prête à accomplir votre devoir envers Yskad
+/
+Yskad+=1;
+/
+}
+$ $.20
+
+[13]
+{
+Vous jetez un regard au visage du soldat, tordu par la douleur. Il souffre tellement,
+pourquoi s’accroche-t-il donc à la vie de cette manière ? Le mieux que vous puissiez faire pour
+lui, dans son état, est de l’aider à partir.
+Dans l’Ailleurs, vous étendez votre esprit vers le sien. Il n’a pas le don, évidemment, et
+ne vous voit pas venir. Vous entrez délicatement dans son esprit, grimaçant légèrement quand
+vous recevez une partie de sa douleur. C’est toujours difficile avec les mourants… Ne pas se
+laisser envahir, ne pas se laisser dominer. Sans perdre votre concentration, vous mêlez votre
+esprit toujours plus au sien, jusqu’à ce qu’ils soient entrelacés.
+Vous ne vous étiez pas trompée, il s’accroche en effet désespérément à la vie. Il n’en a
+pas conscience, mais son esprit est tellement crispé à son ancrage qu’il en perd en partie sa
+cohérence. Il vous faut agir vite si vous voulez lui éviter le sort des âmes en peine ! Pour la
+plupart des mourants, tirer l’esprit jusqu’à le séparer de son ancrage serait suffisant, mais aux
+vues de sa crispation, cela risquerait tout juste d’aggraver les choses. Il va vous falloir procéder
+de manière plus subtile. Faisant de votre esprit une lame, vous commencez à entailler
+méticuleusement les liens entre l’âme du soldat et son ancrage. Le processus est un peu plus
+long, mais bientôt l’esprit se retrouve séparé de son corps. Vous ressentez sa surprise, son
+angoisse, alors qu’il se retrouve subitement seul dans l’Ailleurs, mais sa douleur a disparu, et
+vous parvenez rapidement à le calmer. Sans que vous ayez à en faire beaucoup, le défunt se
+laisse attirer par les profondeurs de l’Ailleurs jusqu’à échapper à votre perception.
+Dans l’Ici, son corps est pris de convulsions soudaines pendant quelques instants, mais
+bientôt ses muscles se relâchent. Son corps s’affaisse sur le rocher, inerte. « Puisse Yskad
+t’offrir la paix », murmurez-vous en lui fermant les yeux. Cependant, vous n’avez qu’à voir son
+cadavre apaisé pour savoir que c’est le cas. Il a trouvé avec Yskad la paix que Vésyl ne peut
+jamais offrir.
+/
+Yskad+=1;
+/
+}
+$ $.17
+
+[14]
+{
+A peine faites-vous quelques pas vers lui, l’air menaçante, que le chien détalle à toute
+vitesse, craignant votre bâton levé au-dessus de votre tête. Vous ne pouvez vous empêcher
+d’avoir pitié de lui, il avait bien plus peur de vous que l’inverse. Vous reprenez votre marche,
+laissant l’animal derrière vous.
+}
+$ $.9
+
+[15]
+{
+Empoignant votre bâton de marche à deux mains, vous l’abattez de toutes vos forces sur
+le crâne de la créature. Dans un craquement sinistre, sa tête est violemment repoussée sur le
+côté. Le cadavre animé titube, et fait quelques pas en arrière. Voilà l’ouverture que vous
+attendiez ! Vous vous élancez le plus rapidement que vos jambes vous le permettent. Ces
+horreurs sont lentes et maladroites, si vous mettez suffisamment de distances avec elles, elles
+n’auront aucune chance de vous rattraper. Vous parvenez sans peines à sortir du cercle de mortsvivants…
+Soudain, une violente traction sur vos cheveux vous arrête net dans votre course,
+manquant de vous faire tomber. Une douleur intense inonde votre scalp alors qu’une force
+considérable tire votre tête en arrière. Vous tentez de vous dégager, mais rien n’y fait. Une
+odeur putride inonde vos narines. La créature ! La créature que vous aviez frappée enserre vos
+cheveux dans une poigne de fer. Vous vous débattez, vous la frappez de votre bâton, mais il
+semble impossible de lui faire lâcher prise. Autour de vous, les autres morts-vivants se
+rapprochent lentement, animés par la seule volonté de vous détruire. Il faut absolument vous
+dégager rapidement !
+/
+    if(Bague)
+    {
+        $ $.41
+    }
+    else
+    {
+        if(Chien)
+        {
+            $ $.29
+        }
+        if(!Chien)
+        {
+            $ $.49
+        }
+    }
+/
+}
+
+[16]
+{
+Si vous avez la possibilité de régler la situation pacifiquement, pourquoi ne pas essayer
+de le faire ? Peut-être parviendrez-vous à convaincre le mage de rejoindre Yskad… Sans pour
+autant baisser votre garde, vous entamez la conversation.
+« Très bien mage, je vous écoute, dites-vous d’un ton neutre. Expliquez-vous !
+- Je vous en remercie. Toute cette violence insensée ne me plaît pas plus qu’à vous… Je
+tâcherai donc d’être bref : tout ce que je désire, c’est de compléter mes recherches.
+J’étais à deux doigts de faire une découverte majeure en magie Froide, je le sens ! Une
+avancée révolutionnaire, à n’en point douter, capable de bouleverser le paradigme
+élinorien. A deux doigts, je vous l’assure ! Mais il a fallu que cette damnée guerre
+commence… En bon citoyen, j’ai dû accepter d’aller me faire tuer pour le compte de
+ma cité, par devoir plus que par envie. Et me voici, mort pour rien au milieu de nulle
+part, privant le monde d’une découverte magique sans précédent ! Vous comprendrez
+bien que je ne puisse pas accepter de rester mort dans ces conditions.
+- Et alors ? demandez-vous, toujours sur la défensive. Il ne vous appartient pas de choisir
+le moment de votre mort ! Seul Yskad…
+- Je ne vous parle pas de destinée, prêtresse ! s’exclame le spectre. Je vous parle de
+devoir ! Quel mage, quel érudit, pourrait accepter de disparaître en laissant derrière lui
+une œuvre que personne ne pourra achever ? Ne pas tout tenter pour le faire serait un
+crime envers le savoir !
+- Peut-être que vous avez raison, concédez-vous. Mais je ne peux pas vous laisser revenir
+pour autant ! Ce serait un crime envers le cycle naturel.
+- Justement, prêtresse, c’est là la nature de ma proposition ! Je n’ai pas besoin à
+proprement parler de revenir à la vie pour accomplir mon objectif ! Du moment que je
+peux compléter mes recherches, cela me convient. Grâce à votre aide, je peux mener à
+bien un rituel permettant de partager un corps entre deux esprits. Je pourrai terminer
+mes recherches avec votre corps, et vous auriez un moyen de me contrôler de très près.
+Je peux même partir de mon propre chef une fois que tout sera terminé, et tranquillement
+rejoindre Yskad. De cette façon, nous gagnons tous les deux ! »
+Aucune trace de mensonge dans ses paroles, aucune que vous puissiez percevoir tout du
+moins… La réponse que vous venez d’entendre vous abasourdi. Ce mage est-il réellement
+arrogant à ce point ?
+« Vous êtes fou, mage ! Vous savez très bien que je ne peux accéder à votre requête. Les
+vivants et les morts doivent rester séparés !
+- Mais oui, bien évidemment, rétorque le spectre d’un ton sarcastique. C’est sans doute
+pour cette raison que vous passez votre temps à parler aux morts. Voyons, Ys, ouvrez
+les yeux, je vous en conjure ! Ce dogme est contradictoire, je suis certain que vous vous
+en êtes rendu compte ! Après tout, n’est-ce pas la raison pour laquelle vous avez été
+bannie du Temple ?
+- Si vous avez vu mon passé, comment pouvez-vous-même imaginer que je vous laisse
+envahir mon esprit de la sorte ? Vous pensez sincèrement que je vais vous écouter ?
+- Oui, je sens encore votre peur, une peur d’être dominée, écrasée par un autre esprit. Une
+peur irrationnelle ! Ce qui vous est arrivé au Temple était le fruit de votre surprise et de
+votre inexpérience. Il ne vous arrivera rien de tel ici, le rituel m’en rendra incapable. Je
+vous en conjure, laissez-moi vous l’expliquer ! »
+/
+    if(Yskad>=4)
+    {
+        $ $.32
+    }
+    else
+    {
+        if(Yskad<3 && Vesyl<3)
+        {
+            $ $.26
+        }
+        else
+        {
+            $Continuer de parler avec le mage$.26
+            if(Amulette)
+            {
+                $Vous refusez d’entendre cet impie une seconde de plus$.32
+            }
+            else
+            {
+                $Vous refusez d’entendre cet impie une seconde de plus$.38
+            }
+        }
+    }
+/
+}
+
+[17]
+{
+Alors que vous reprenez votre marche, vous avez soudainement la désagréable sensation
+d’être observée. Empoignant fermement votre bâton, vous vous retournez brusquement pour
+vous retrouver face à un grand chien noir. Etrange… Vous ne l’avez pas entendu approcher,
+que ce soit dans l’Ici ou dans l’Ailleurs. Restant à une bonne distance de vous, il semble vous
+observer curieusement, sans un bruit. Efflanqué, le poil terne, il ne vous semble pas agressif.
+Cependant, vous êtes méfiante. Une cicatrice fraiche à votre mollet est là pour vous rappeler
+votre dernière rencontre avec un chien errant. D’un autre côté, si celui-ci cherchait réellement
+à vous attaquer, vous devriez être capable de vous en débarrasser… Le chien se contente de
+vous observer de ses grands yeux noirs sans faire un mouvement.
+}
+$Le chasser par sécurité$.14
+$Se contenter de prendre une posture défensive par précaution ?$.4
+$Au contraire, le laisser venir vers vous ?$.22
+
+[18]
+{
+Vos volontés se choquent comme l’épée rencontre le bouclier. Vous maintenez vos
+défenses de toutes vos forces, mais la puissance de votre adversaire semble augmenter à chaque
+instant. Vous tenez bon aussi longtemps que vous le pouvez, puis subitement la pression sur
+votre esprit se relâche. Avant que vous n’ayez le temps de réagir, le spectre vous frappe de
+nouveau là où vos défenses sont plus faibles. Vous ne pouvez pas le contenir : son esprit
+s’enfonce dans le vôtre comme une dague chauffée à blanc. Vous laissez échapper un hurlement
+alors que le spectre fouaille violemment dans votre conscience, vos souvenirs…
+Le Temple d’Yskad, à Mär. En marbre noir. Si grand, si vaste. Le grand prêtre, son
+visage sévère, éclairé d’un rare sourire. Il me donne mes robes, mon médaillon. Mon
+médaillon… Perdu, bannie. Plus là… Votre erreur, l’esprit en colère. Le marbre fracassé sous
+mes genoux… Tout autour de moi, des prêtres. Ils grondent, ils grondent… Mon médaillon…
+Arraché… Des robes en lambeaux, chassée… Non ! Sors de ma tête, sors de ma tête, sors de
+ma tête, SORS DE MA TÊTE !
+Comment ose-t-il ? Comment ose-t-il ? En concentrant votre volonté sur l’intru, vous le
+repoussez hors de votre esprit. Mais il continue de lutter, il menace de reprendre le dessus…
+Serrant les dents, vous récitez mentalement des invocations à Yskad. Il est tout ce que vous
+abhorrez, mon Dieu ! Renforcée par votre foi, vous parvenez finalement à chasser l’esprit du
+vôtre. Vous sentez un instant de surprise chez lui, que vous mettez à profit pour contre-attaquer.
+Perçant ses défenses, vous parvenez à percevoir quelques bribes de ses pensées. Mais le contact
+est rapidement interrompu lorsqu’il vous chasse de toute la puissance de sa volonté. Cependant,
+vous semblez l’avoir affaibli. Une dernière offensive…
+Avant que vous ne puissiez contre-attaquer, un violent coup de vent vient frapper votre
+flanc dans l’Ici. Déstabilisée, vous basculez sur le côté et dégringolez la pente le long de la
+butte. Votre tête heurte brutalement le sol, vous laissant étourdie. Pendant quelques instants,
+vous êtes incapable de bouger ou de penser correctement. Quand vous vous redressez
+finalement, encore un peu sonnée, vous vous rendez compte immédiatement que le spectre s’est
+échappé.
+}
+$ $.10
+
+[19]
+{
+Vous avez perdu suffisamment de temps comme ça ! Plus vous attendez, plus Entrekan
+se renforce, alors autant prendre l’énergie dont vous avez besoin au plus vite. Vous vous
+saisissez de l’esprit le plus proches et commencez à absorber son énergie. Vous sentez son
+angoisse, sa détresse, alors qu’il essaie de vous échapper. Tout esprit a peur d’être englouti.
+Mais vous ne comptez pas absorber toute son énergie, ce serait un crime envers Yskad. Vous
+le laissez partir avant qu’il ne soit trop faible, avec une pensée d’excuse.
+Mais quelle sensation grisante ! Vous sentez le pouvoir vous envahir, une force nouvelle
+si exaltante. Il devient plus difficile de vous arrêter pour l’esprit suivant, puis le suivant…
+Enivrée, vous ne percevez plus avec précision les émotions des esprits environnant. La
+souffrance de l’esprit que vous drainez devient une simple abstraction. Vous entendez à peine
+ses plaintes s’affaiblir... Jusqu’à ce que sa conscience disparaisse subitement.
+Le choc vous fait brutalement dégriser. Par Yskad, que venez-vous de faire ? Vous
+plaquez la main sur votre bouche avec horreur. Vous vous sentez nauséeuse, souillée, malgré
+la sensation de puissance que vous ressentez toujours. Comment avez-vous pu ? Vous vous êtes
+comportée comme Entrekan ! Déjà, vous avez l’impression de sentir la colère d’Yskad, de voir
+de nouveau le regard accusateur du haut prêtre… N’avez-vous donc rien appris ?
+Vous prenez quelques instants pour reprendre votre calme. Vous vous redressez
+péniblement sur vos jambes encore tremblantes. Si vous voulez expier votre crime, vous n’avez
+plus droit à l’erreur. Au moins, vous avez pu obtenir la puissance que vous recherchiez…
+/
+Yskad-=1;Vesyl-=1;Pouvoir=true;
+/
+}
+$ $.6
+
+[20]
+{
+Les préparatifs terminés, vous commencez à vous atteler à la tâche. Dans cet état de
+transe, vous êtes capable d’agir sur votre propre esprit dans l’Ailleurs, ce qui est essentiel pour
+le rituel. Vous récitez en pensée les incantations nécessaires, effectuant avec précision les
+mouvements spirituels correspondants. Des pulsations de sérénité commencent à émaner de
+votre esprit, pour se diffuser tout autour de vous. Vous devenez un véritable phare, perceptible
+à une grande distance dans l’Ailleurs, un phare dont la lumière promet une oasis de paix aux
+mânes des soldats. Dans un même temps, vous sentez à chaque pulsation votre perception de
+l’Ailleurs s’affiner.
+Vous n’avez pas à attendre longtemps avant que les esprits ne commencent à affluer
+autour de vous. Patiemment, vous prenez le temps d’étendre vos pensées vers chacun d’entre
+eux pour les apaiser comme il se doit. Beaucoup acceptent de passer peu de temps après être
+arrivé. Dans un même temps, vous vous efforcez de poursuivre vos contorsions mentales, pour
+continuer de vous signaler aux esprits qui ne vous auraient pas encore perçu. Partager votre
+attention équitablement entre ces deux tâches est à peu près aussi complexe que d’essayer de
+résoudre un problème technique particulièrement difficile tout en consolant un enfant en pleurs.
+Enfin, vous devriez bientôt être visible sur tout le champ de bataille…
+Un détail attire soudain votre attention. A une certaine distance de vous, un esprit se
+comporte étrangement. Il est indubitablement mort, puisqu’il n’a plus d’ancrage, mais il affiche
+un grand calme… Et pourtant, il refuse de passer. Il vous a perçu, mais ne se dirige pas vers
+vous, au contraire il semble occupé à… Mais, qu’est-ce que… ?
+Le choc vous déconcentre un bref instant, mais cela s’avère suffisant pour vous faire
+quitter votre transe. Vos sens se rappellent douloureusement à vous alors que vous réintégrez
+brusquement votre corps. Quelques secondes vous sont nécessaires pour vous réhabituer à l’Ici,
+avant que vous puissiez penser de manière cohérente. Ce spectre… si vous ne vous êtes pas
+trompée, il s’en prenait à d’autres esprit, il absorbait leur énergie ! Il les dévorait ! Comment…
+Des souvenirs douloureux se mélangent dans votre mémoire. Cette confusion fait bientôt place
+à la colère. En tant que servante d’Yskad, vous ne pouvez tolérer ces agissements ! Apaiser les
+âmes égarées peut attendre un peu, pour le moment vous avez un spectre à chasser.
+}
+$Aller à sa rencontre pour le confronter?$.44
+$Le convoquer de force là où vous vous trouvez?$.5
+
+[21]
+{
+Vous prononcez de nouvelles incantations alors que les créatures continuent de
+s’approcher de vous. Vous ne vous découragez pas malgré leur nombre. Au nom d’Yskad, il
+vous faut vaincre ! Vous vous concentrez sur vos paroles, toute la force de votre volonté étant
+tendue vers l’élimination de ces créatures. Mais quelque soit votre détermination, si vous ne
+parvenez pas à mobiliser la puissance nécessaire, votre rituel est voué à l’échec. Vous portez
+instinctivement la main à l’amulette passée autour de votre cou, dans l’espoir de puiser dans
+son pouvoir.
+Dans l’Ailleurs, vous sentez la volonté de l’artefact s’éveiller progressivement. Bien
+que vous vous soyez harmonisée avec l’amulette, elle ne s’est jusque là pas montrée
+particulièrement prête à vous aider. Elle semble vous évaluer un instant, mesurer la force de
+votre volonté. Probablement satisfaite par ce qu’elle vient de percevoir, vous sentez sa volonté
+se mêler à la vôtre pour n’en former plus qu’une, une lance inflexible focalisée sur un seul point.
+Un grondement de tonnerre silencieux roule sur le monde alors que vous terminez votre rite.
+Puis, une à une, les créatures s’effondrent, revenant à l’état de cadavres. « Puisse Yskad vous
+offrir la paix », murmurez-vous dans un souffle.
+Le contrecoup du rituel vous frappe un instant à peine après avoir prononcé ces mots.
+Une profonde fatigue envahit votre corps et votre esprit, les laissant engourdis et affaiblis. Vous
+restez assise quelques instants, le temps de récupérer des forces. Sans l’amulette, vous n’auriez
+pas réussi à compléter ce sort, vous en avez la certitude. Ou alors… vous auriez perdu la vie en
+essayant. Pourtant, l’artefact ne vous a pas montré tout ce dont il était capable, vous le sentez.
+Cette amulette a bien plus de puissance encore enfouie, une puissance dont vous aurez besoin
+contre Entrekan. Dans l’Ailleurs, elle est redevenue inactive aussi tôt que vous avez terminé
+votre sort. Il reste à espérer qu’elle sera prête à vous aider lors du combat final…
+}
+$ $.11
+
+[22]
+{
+Posant votre bâton à côté de vous, vous vous penchez légèrement, et reportez votre
+attention sur le chien. Ce dernier semble hésiter un instant, esquissant timidement un pas dans
+votre direction. « Approche, vous entendez-vous dire. N’aies pas peur ». Mais qu’est-ce qui
+vous prend de faire ça ? L’animal finit par prendre du courage, et vient vers vous
+silencieusement. Arrivé à votre niveau, il lève la tête et vous regarde sans un bruit. Que peut-il
+bien vouloir ? Hésitante, vous sortez de votre cape un petit morceau de pain. Aussitôt, le chien
+tourne son museau vers votre main. « Tu dois avoir faim », dites-vous en partageant le morceau
+de pain. A peine tendez-vous sa part au molosse qu’il la dévore à toute vitesse. Malgré son
+empressement, il mange dans un silence étonnant, comme s’il s’efforçait de ne faire aucun bruit.
+Amusée par son comportement, vous caressez un instant sa tête sans qu’il ne se dérobe. Ce
+drôle de chien aura été une rencontre plaisante !
+Quand vous reprenez votre marche, vous vous rendez compte que le chien vous emboîte
+le pas à une courte distance. Vous vous êtes fait un ami on dirait…
+/
+Chien=true;
+/
+}
+$ $.9
+
+[23]
+{
+Vous tentez aussi bien que possible de vous dégager de cette masse de terre. Vos
+mouvements sont particulièrement restreints, mais vous parvenez à bouger légèrement vos bras.
+Avec l’énergie du désespoir, vous commencez à creuser la terre avec toutes la force que vous
+puissiez mobiliser. Vous creusez jusqu’à ce que vos doigts saignent, jusqu’à ce que vos ongles
+soient arrachés, jusqu’à ce que vous ne sentiez dans vos muscles plus que fatigue et douleur.
+Mais vous ne parvenez pas à échapper aux entrailles de la terre.
+A quoi bon continuer ? Vous ne parviendrez jamais à dégager cette masse de terre à
+vous seule. Il serait plus simple d’abandonner et d’accepter votre destin…
+Mais quelque chose en vous refuse cette réalité. Dans un sursaut, vous recommencez à
+creuser, plus frénétiquement encore qu’avant. Vous sentez vaguement la douleur dans vos
+muscles, vous percevez à peine le sang couler le long de votre bras. Votre respiration devient
+difficile, mais vous ne vous en inquiétez pas. Creuser, creuser, creuser ! Voilà tout ce qui
+importe. Après ce qui vous semble être une éternité, vous apercevez enfin les couleurs du
+crépuscule par une mince ouverture. Un dernier effort, et vous émergez de votre tombeau
+souterrain, aspirant l’air à grandes goulées. Tout danger étant écarté, vos mains douloureuses
+se rappellent à vous avec une force renouvelée.
+Une fois à la surface, vous prenez quelques instants pour guérir vos mains blessées.
+Prononçant les incantations, vous sentez la magie curative envelopper vos bras, atténuant votre
+douleur et fermant vos plaies les plus superficielles. Pourquoi vous êtes-vous obstinée à ce
+point ? Pourquoi ne pas avoir accepté la mort dans cette situation désespérée ? S’accrocher à la
+vie de la sorte est une souffrance, vous le savez bien... Face à la mort, Yskad enseigne
+l’acceptation, et pourtant, vous vous êtes battue de toutes vos forces, vous êtes allée au-delà de
+vos limites physiques pour y échapper. Il doit y avoir une raison pour cela, Yskad a
+probablement d’autres projets pour vous… Non ?
+Vous pourrez penser à tout cela plus tard. Pour le moment, vous avez un esprit en cavale
+à poursuivre.
+/
+Yskad-=1;
+/
+}
+$ $.10
+
+[24]
+{
+Vous chancelez sur vos jambes tandis que l’assaut d’Entrekan vous frappe comme un
+coup de massue. Parvenant tant bien que mal à le repousser, vous ne bénéficiez toutefois que
+d’un bref répit. Les frappes mentales pleuvent, votre adversaire multipliant les angles et les
+techniques. Vous n’êtes pas au niveau d’un tel duelliste. Pas seule, tout du moins. Tout en
+maintenant vos défenses, vous implorez silencieusement Yskad de vous venir en aide.
+N’abandonnez pas maintenant votre servante, mon dieu !
+Vos prières reçoivent toutefois une réponse curieuse lorsque vous sentez une masse
+poilue frôler votre mollet. Alors que votre attention est focalisée sur l’Ailleurs, vos yeux
+aperçoivent le chien qui vous suit depuis plusieurs heures se poster devant vous. Sans un
+grognement, il se campe fermement sur ses pattes, les muscles tendus, comme s’il cherchait à
+vous protéger d’un danger. Se pourrait-il qu’il sente le spectre ? Non, impossible ! Et pourtant,
+il est là, entre vous et lui, fixant la silhouette argentée d’Entrekan.
+Dans l’Ailleurs, vous percevez indistinctement son âme, brillant comme une étoile
+discrète à la lisière de votre perception. Vous avez beau connaître cet animal depuis moins
+d’une journée, il semble avoir veillé attentivement sur vous. Il n’a pas cessé d’essayer de vous
+protéger. Et maintenant, alors que votre esprit est aux limites de son endurance, il tente encore
+de vous soutenir ! Pour une raison que vous ne vous expliquer pas, percevoir simplement sa
+présence, physique et spirituelle, embrase une étincelle de courage en vous. Vous ne voulez pas
+mourir ici ! Vous n’allez pas vous avouer vaincue maintenant !
+Mais votre détermination suffira-t-elle ?
+/
+    if(Vesyl>=5)
+    {
+        $ $.40
+    }
+    else
+    {
+        $ $.34
+    }
+/
+}
+
+[25]
+{
+Vous êtes perceptive dans l’Ailleurs, mais dans l’Ici votre sensibilité à la magie est
+malheureusement bien plus faible. A moins d’avoir un artefact sous le nez, il vous est difficile
+de déterminer s’il est puissant ou non... Si vous voulez trouver des cadavres de mages, il vous
+faudra donc faire preuve de logique. La plupart du temps, les généraux disposent leurs lanceurs
+de sort aux abords du champs de bataille, pour les protéger des attaques ennemies tout en leur
+permettant d’agir sur le déroulement du combat, le plus souvent depuis les hauteurs. Les
+hauteurs… Oui, ça vaut le coup d’aller voir.
+Vous traversez le champ de bataille en vous éloignant du cœur du charnier. L’odeur de
+putréfaction devient plus diffuse au fur et à mesure que vous avancez, autour de vous les corps
+se font plus rares. Vous arrivez finalement devant une petite colline de terre noircie, ne laissant
+voir aucune végétation. Autour de la colline, quelques corps gisent ça et là. Certains sont
+calcinés, d’autres semblent avoir été écorchés, d’autres sont dans un état plus étrange encore…
+Vous avez l’habitude des cadavres, mais voir le sort étrange et terrible de ces soldats ne manque
+pas de vous soulever le cœur. De toute évidence, des mages se sont déchaînés sur ce lieu, seule
+une magie puissante est capable de tordre la chair de cette manière… Et si cette colline a été la
+cible d’un tel acharnement, c’est probablement que les mages de la faction adverse s’y
+trouvaient.
+Vous appuyant sur votre bâton, vous gravissez aisément la colline. Au sommet de celleci, vous trouvez d’autres corps, une dizaine en tout. Tous sont vêtus de longues robes, qui
+devaient probablement être pourpres initialement. Si les cadavres présentent les traces
+d’attaques magiques, les stigmates sont moindres que sur les soldats au pied de la colline : ils
+ont su se protéger. Des mages de Dir, de toute évidence. Depuis votre position, vous pouvez
+maintenant sentir de façon diffuse la présence d’objets magiques. Il est temps de fouiller !
+Après une fouille méticuleuse, vous parvenez à trouver une demi-douzaine d’objets
+portant des traces de magie sur les cadavres. Cependant, la plupart vous semble avoir épuisé
+ses pouvoirs, ou bien être liés à une magie qui vous est bien trop étrangère pour que vous
+puissiez les manier. Seuls deux vous semblent réellement digne d’intérêt pour le combat à venir.
+Le premier est une bague en argent, gravée de nombreuses runes que vous peinez à déchiffrer,
+et sertie d’une grosse émeraude, trouvée sur un cadavre au visage calciné. En la voyant, vous
+avez eu la certitude qu’elle avait un lien avec l’Ailleurs particulièrement fort, dont vous pouvez
+espérer vous servir contre Entrekan. Le second est une amulette que vous avez trouvée au cou
+d’un mage dont le visage vous a semblé quelque peu familier, se composant d’un large rubis
+cerclé d’or, relié à une fine chaînette métallique. Vous avez immédiatement senti son pouvoir,
+sans parvenir initialement à comprendre ses capacités. Quand vous l’avez touchée, en revanche,
+vous avez immédiatement sentie une volonté dans l’artefact, une conscience ténue, mais
+perceptible dans l’Ailleurs. Vous avez la certitude que son pouvoir est bien plus important qu’il
+n’y paraît…
+A n’en pas douter, chacun des deux objets pourrait vous être d’une grande aide, mais ils
+sont potentiellement très dangereux. Si l’artefact ne vous accepte pas, vous vous exposez à des
+risques non négligeables... C’est pourquoi avant de pouvoir utiliser un artefact, il vous faudra
+vous harmoniser avec lui, un processus long et complexe. Sachant qu’Entrekan gagne en
+puissance à chaque instant, vous pouvez vous permettre de vous harmoniser avec l’un, mais pas
+avec les deux. Mais lequel choisir ?
+/
+$Prendre l'Amulette$.Amulette=true;
+$Prendre la Bague$.Bague=true;
+$N'en prendre aucun des deux$.
+/
+}
+$ $.6
+
+[26]
+{
+Vous avez du mal à vous l’admettre, mais une partie de vous est d’accord avec les
+paroles d’Entrekan. Même depuis votre bannissement, vous n’avez jamais cessé d’essayer de
+servir Yskad, au meilleur de vos capacités, vous n’avez jamais renié votre foi, pourtant… Que
+vous a réellement offert Yskad ? Dans votre jeunesse, vous avez appris à voir vos talents comme
+un don plutôt qu’une malédiction. Mais n’est-il pas injuste que vous ne puissiez être réellement
+à votre place ni parmi les vivants, ni parmi les morts ? N’est-il pas injuste que vous exposiez
+votre esprit au danger en interagissant avec l’Ailleurs ? Non, quelles sont ces pensées qui vous
+envahissent ? Entrekan essaie de vous manipuler ! A moins que ses paroles ne fassent que
+réveiller des doutes qui vous accompagnent depuis longtemps ? Les pensées s’agitent et se
+bousculent sous votre crâne…
+« Je n’essaie pas de vous tromper, Ys, répond calmement l’esprit avant que vous
+n’articuliez votre question. J’aimerai sincèrement que vous acceptiez de m’aider, et je pense
+que je pourrais vous aider également.
+- Et comment pourriez-vous m’aider ? rétorquez-vous plus violemment que vous ne
+l’escomptiez. En me faisant commettre un blasphème ?
+- Si vous voulez toujours vous débarrasser de moi, croyez-moi, l’option que je vous
+propose est de loin la plus simple. Dans l’état actuel des choses, vous êtes incapable de
+me vaincre. Mais surtout, le rite que je vous propose pourrai alléger votre solitude. Je
+sais que vous souffrez, n’essayez pas de le cacher. Vous êtes aussi perdue que les esprits
+que vous vous acharnez à guider. Et dans mon expérience, une souffrance partagée est
+atténuée. Ouvrez-moi votre esprit, Ys, et vous ne serez plus seule. »
+Vous serrez les dents, les yeux au bord des larmes. Vous avez beau essayer, impossible de
+cacher pour de bons vos pensées et vos émotions à ce spectre. Il sait exactement où frapper pour
+vous atteindre… Sa proposition vous séduit, inutile de le cacher. Avoir un esprit toujours en
+contact avec le vôtre, un confident avec qui vous pourriez toujours communiquer, quelqu’un
+qui serait là pour vous accompagner et vous aider semble fort plaisant. Mais s’il cherchait
+simplement à vous engloutir ? Il a drainé d’autres esprits ! Êtes-vous réellement séduite au point
+d’abandonner votre foi ?
+L’esprit d’Entrekan vient toucher le vôtre, choisissant de vous parler en pensée plutôt que
+par son étrange voix. Laissez-moi vous montrer que je suis sincère. Des images commencent à
+défiler dans votre esprit. Vous voyez le rituel, les gestes, les mots, les préparatifs. Une amulette,
+surtout, retient l’attention du mage. Une grosse pierre rouge cerclée d’or, reliée à une chaînette
+de métal. Une amulette lieuse d’âme. Elle possède un grand pouvoir sur les esprits, ce qui en
+fait l’une des principales composantes du sort, mais aussi… Un danger ? D’autres images et
+sensations défilent rapidement. Deux esprits liés, qui pensent comme un seul. Un sentiment
+d’accomplissement, de joie… Pour une fois, vous êtes celle qui est consolée et non celle qui
+console. Peut-être n’auriez-vous pas tort de l’aider ? Oui, tout cela semble tentant, si tentant…
+L’esprit du mage se détache lentement du vôtre, vous laissant de nouveau seule avec vos
+doutes et vos craintes. Est-ce vraiment comme ça que vous voulez continuer à vivre ? Seule
+avec votre foi ? Non, Entrekan vous a montré une autre possibilité. Une voie meilleure !
+Peut-être serait-il temps de vous montrer égoïste pour une fois ?
+/
+Sapience=true;
+if(Amulette)
+{
+    $ $.30
+}
+else
+{
+    $ $.36
+}
+/
+}
+
+[27]
+{
+/
+Yskad+=1;
+/
+Vous regardez avec mépris les créatures qui vous entourent. Des abominations, toutes !
+Leur existence vous est intolérable, comme elle est intolérable à Yskad. Votre foi venant
+renforcer votre détermination, vous plantez violemment votre bâton dans le sol devant vous.
+« Hors de ma vue, horreurs ! », vous écriez-vous. La menace est sans effet sur les
+créatures, mais au moins elle vous donne du courage.
+Joignant les mains, vous commencez à réciter les paroles d’un ancien rite de
+bannissement. Une douce lumière émane de vos mains, alors que dans l’Ailleurs, votre esprit
+se prépare à l’offensive. Le rituel que vous avez choisi est l’un des rares que vous connaissiez
+pour lutter contre ce genre de créatures. Si vous parvenez à le mener à bien, il ne fait aucun
+doute que vous les éliminerez toute. En temps normal, cela ne vous poserait aucun problème,
+mais au vu du nombre d’abominations, aurez-vous vraiment suffisamment de puissance pour
+en venir à bout ? Déjà, l’une des créatures s’approche dangereusement de vous…
+/
+if(Bague)
+{
+    $ $.41
+}
+if(Multitude)
+{
+    $ $.37
+}
+if(Pouvoir || Energie)
+{
+    $ $.8
+}
+if(Amulette && Yskad>=4)
+{
+    $ $.21
+}
+else
+{
+    $ $.49
+}
+/
+}
+
+[28]
+{
+/
+Yskad+=1;
+/
+Vous jetez un regard au chien. L’animal est maigre, probablement épuisé, affaibli. Le
+petit morceau de pain que vous lui avez donné lui a rendu quelques forces, mais il est peu
+probable qu’il survive longtemps de toutes façons… En réalité, le tuer maintenant est peut-être
+la meilleure chose que vous puissiez faire pour lui. Par son sacrifice, vous aurez le pouvoir qui
+vous manque !
+« Approche ! lui dîtes-vous, un pâle sourire sur les lèvres. Vient ! » Vous lui faites
+signes, dissimulant vos véritables intentions. Le chien hésite un instant, puis s’approche de vous
+en trottinant. Alors qu’il arrive à votre niveau, vous vous agenouillez pour lui faire face, puis
+vous prenez sa tête entre vos mains. Vous avez entraîné vos mains à apaiser, pour permettre
+aux malades et aux blessés d’avoir un passage plus tranquille. Mais parfois, limiter la douleur
+est impossible, auquel cas il vous faut favoriser un passage rapide. Vous concentrez un bref
+instant votre pouvoir dans vos paumes, posées sur le crâne du chien, puis vous libérez votre
+magie. L’animal est pris de violentes convulsions alors que ses organes vitaux cessent
+brutalement de fonctionner. Puis, son corps devient flasque dans vos mains.
+Au moment où son esprit se sépare de son corps, vous tendez immédiatement votre
+esprit vers son ancrage, avant qu’il ne disparaisse. En le touchant, vous vous en servez comme
+d’une paille pour aspirer autant d’énergie que possible depuis le corps de l’animal. Le résultat
+ne se fait pas attendre : entre vos mains, le corps semble vieillir à vue d’œil, tandis que vous
+sentez une force nouvelle grandir en vous. Le sentiment est étrangement exaltant. Bientôt, le
+cadavre du chien tombe en poussière entre vos doigts. « Puisse Yskad t’offrir la paix »
+murmurez-vous, vous sentant un peu coupable de prononcer ces mots alors que vous avez été
+le bourreau de l’animal.
+/
+Pouvoir=true;Chien=false;
+/
+}
+$ $.6
+
+[29]
+{
+Vous avez beau vous débattre, vous ne parvenez pas à faire lâcher prise à la créature qui
+vous a agrippée. Malgré vos gesticulations, malgré vos coups de bâtons en tous sens, la poigne
+sur vos cheveux reste inflexible. Vous parvenez tout juste à empêcher la créature de vous
+mordre, mais les autres cadavres chancelants s’approchent dangereusement de vous. Avez-vous
+vraiment la possibilité de vous échapper ?
+Soudain, vous apercevez du coin de l’œil un éclair noir fondre sur votre agresseur. Vous
+entendez un craquement sec, et l’instant d’après la poigne de la créature se relâche subitement.
+Un bref regard en arrière vous permet d’apercevoir le chien qui vous emboîte le pas, mordant
+avec une force dont vous ne l’auriez pas cru capable le bras du cadavre. Profitant de son aide,
+vous parvenez finalement à vous dégager. Les autres créatures sont proches, vous n’avez pas
+de temps à perdre ! Vous vous élancez droit devant vous, courant aussi vite que vos jambes
+peuvent vous porter. Vous jetez un bref regard par-dessus votre épaule pour vous assurer que
+le chien vous emboîte le pas. Oui, vous l’apercevez quelques pas derrière vous, un morceau de
+chair dans la gueule ! Rassurée, vous continuer votre course, ayant hâte de mettre suffisamment
+de distance entre vous et vos poursuivants.
+Après plusieurs minutes, vous commencez à ralentir. Les créatures devraient être
+incapable de vous rattraper maintenant. Vous vous laissez tomber un instant sur le sol, pour
+laisser à votre corps le temps de récupérer de cette course effrénée. Il s’en est vraiment fallu de
+peu ! Silencieux comme une ombre, le chien arrive rapidement à votre niveau et vient s’asseoir
+à vos côtés. Reconnaissante, vous le caressez affectueusement pendant quelques instants.
+Jamais vous n’auriez pensé qu’un jour vous devriez la vie à un tel animal ! Vous commencez
+sincèrement à vous attacher à lui. Peut-être, quand vous en aurez fini avec Entrekan, pourra-til devenir un compagnon de voyage permanent ? 
+/Vesyl+=1;/
+}
+$ $.11
+
+[30]
+{
+Prenant l’amulette à pleine main, vous tournez votre regard vers la silhouette du mage.
+Cette décision est sans aucun doute la plus importante de toute votre vie, vous en avez
+pleinement conscience. Pourtant, les doutes qui vous harcellent depuis plusieurs années se sont
+tus dans votre esprit. Votre choix est fait, et Entrekan le sent. Pourtant, sa silhouette dans l’Ici
+vous demande malgré tout de sa voix de vent si vous êtes bien prête.
+En guise de réponse, vous hochez la tête. Timidement d’abord, puis de manière plus
+assurée. Vous avez tenté de suivre le chemin qu’Yskad avait tracé pour vous dès votre
+naissance, au côté de tous les autres prêtres du Temple. Mais vous vous en êtes écartée, ce n’est
+plus la peine de vous mentir à vous-même. Vous avez tenté de retrouver cette voie, ordonnée,
+calme, rassurante. Vous avez vraiment tenté… Et malgré cela, vous avez échoué. A partir du
+moment ou vous avez quitté le sentier, il était impossible d’y revenir, vous auriez dû vous en
+rendre compte plus tôt ! Quel mal y a-t-il, alors, à vous montrer égoïste ? Vous ne voulez plus
+être seule, c’est tout ce qui vous importe.
+Dans l’Ailleurs, vous sentez l’approbation du mage, qui vous félicite chaleureusement.
+Son esprit entre délicatement en contact avec le vôtre, partageant quelques pensées élégamment
+articulées. Vous êtes courageuse Ys, il le faut pour accepter de telles vérités. Ne vous sentez
+surtout pas coupable, il n’y a aucune raison pour cela. Sachez de toutes les façons que je vous
+remercie infiniment pour votre décision, et je vous promets que je ne vous donnerais pas de
+raison de la regretter. Avec ces mots, le mage vous transmet sa joie et sa reconnaissance, une
+cascade d’émotions positives qui ont pour effet de vous faire ressentir un profond bien-être. Si
+c’est ce que signifie partager un esprit, vous avez hâte que le rituel soit accompli !
+Suivant les directives du mage défunt, vous effectuez minutieusement tous les
+préparatifs. Vous passez ce qui vous semble être plusieurs heures à tracer dans la terre des
+symboles occultes complexes, vous étant totalement inconnu. L’exercice est laborieux, et vous
+commettez plusieurs erreurs, mais Entrekan, à vos côtés dans l’Ailleurs, vous corrige à chaque
+fois avec une infinie patience. Le soleil pointe à l’horizon quand vous ajoutez les derniers
+détails.
+Bien, très bien, murmure le spectre dans votre esprit. Maintenant, versez votre sang sur
+l’amulette et prononcez les incantations !
+Prenant l’amulette entre vos doigts, vous laissez courir un fin courant de magie dans
+votre main pour vous entailler la paume. Votre sang coule sur le rubis, qui se met à briller d’une
+lueur rouge sombre. Vous sentez sa volonté s’éveiller dans l’Ailleurs, vous sentez sa voracité
+insatiable. Passant l’amulette à votre cou, vous prononcez les mots de pouvoirs que vous souffle
+le mage, des syllabes gutturales qui vous font vibrer jusqu’à l’âme.
+A peine le dernier mot quitte-t-il votre bouche que vous vous sentez tirée en l’air,
+irrésistiblement, comme si une main immatérielle vous soulevait par les côtes. La pierre de
+l’amulette s’élève légèrement au-dessus de votre tête, sa lumière devenant aveuglante. L’espace
+autour de vous se durcit, jusqu’à compresser votre chair et vos os. Dans l’Ailleurs, votre esprit
+et celui d’Entrekan s’articulent dans un ballet complexe chorégraphié par la volonté de
+l’artefact. L’emprise sur votre corps dans l’Ici se relâche progressivement, alors que vous entrez
+dans un semblant de transe.
+Soudain, votre esprit s’embrase. Vous vous empoignez la tête en hurlant. Vous avez
+l’impression que votre crâne va éclater, se fendre. Vous sentez votre esprit, votre mémoire,
+votre être se déchirer brutalement en deux pour accueillir quelque chose d’étranger. Vous vous
+sentez défaillir tant la douleur est insoutenable.
+Et puis tout s’arrête.
+Vous redressant péniblement, vous remarquez immédiatement que tout a changé. Là où
+votre conscience était seule, une autre lui répond désormais. Vous essayez de bouger vos
+membres, lui-aussi, et finalement vous tombez à terre. D’abord stupéfaite, vous êtes vite
+secouée par un éclat de rire. Dans le nouvel état dans lequel vous vous trouvez, vous aurez
+beaucoup à réapprendre. Mais cela ne vous fait pas peur loin de là. Vous n’êtes plus Ys la
+prêtresse, vous n’êtes plus Entrekan le mage. Vous êtes un nouvel être. Mais plus que tout, vous
+n’êtes plus seule.
+Et vous ne le serez plus jamais.
+}
+
+[31]
+{
+Alors que vous tergiversez, votre regard se pose par hasard sur le chien noir qui vous
+suit depuis quelques heures. Une idée vous vient alors à l’esprit. Puiser l’énergie des morts
+pourrait être une offense envers Yskad si vous vous y prenez mal, en revanche, vous pouvez
+aussi trouver la force qui vous manque en sacrifiant un être vivant. Son âme revient à Yskad,
+mais son énergie vitale est une réserve de puissance dans laquelle puiser ! Ce genre de sacrifice
+a été pratiqué de tout temps par les mages de tous les royaumes, vous devriez pouvoir le mener
+à bien sans difficulté. Cependant, êtes-vous bien prête à tuer cette bête ? Encore maintenant,
+l’animal vous fixe d’un regard curieux, à courte distance de vous. Il semble vous apprécier… 
+}
+$Vous sacrifiez le chien/Chien=false;/$.28
+$Vous ne vous en sentez pas capable, il vous faut revenir à votre plan initial.$.47
+
+[32]
+{
+Une part de vous ne peut s’empêcher d’être séduite par les arguments d’Entrekan, mais
+vous vous refusez à le rejoindre. Aujourd’hui n’est pas le jour où vous allez trahir tout ce en
+quoi vous croyez ! Résolue, vous vous préparez au combat en érigeant aussitôt vos défenses
+mentales. Vous ne faites pas d’efforts pour déguiser vos intentions, chose futile aux vues de la
+maîtrise de votre adversaire. Pourtant, le mage ne semble pas s’en préoccuper, son esprit
+donnant seulement à voir une confiance totale.
+Alors que vous vous préparez à attaquer, vous ressentez une pression sur votre gorge.
+Bientôt, elle devient insupportable, comme si des mains invisibles vous étranglaient.
+Instinctivement, vous portez les mains à votre cou. Cherchant désespérément à vous dégager,
+vos doigts rencontrent rapidement une fine chaîne métallique enserrant fermement votre gorge.
+La chaîne de l’amulette s’est resserrée !
+Manipuler de petits objets à distance est un jeu d’enfant pour un mage, articule Entrekan
+dans votre esprit, savourant sa victoire. Mort, la tâche est plus ardue, mais dans le cas d’un
+objet avec lequel j’ai un fort lien émotionnel, j’en suis encore capable, visiblement. Vous auriez
+dû mieux maquiller vos intentions !
+Vous écoutez à peine le mage, cherchant à tout prix à vous dégager. Vous ouvrez et
+fermez la bouche grossièrement, comme un poisson hors de l’eau. Votre esprit se trouble. Votre
+vision s’obscurcit. Incapable de penser à autre chose, vous vous griffez frénétiquement la gorge
+pour vous libérer…
+Puis tout devient noir. Vous ne sentez jamais votre corps heurter le sol.
+}
+
+[33]
+{
+Vous tentez aussi bien que possible de vous libérer de cette masse de terre. Vos
+mouvements sont particulièrement restreints, mais vous parvenez à bouger légèrement vos bras.
+Mue par l’énergie du désespoir, vous commencez à creuser la terre avec toute la force que vous
+pouvez mobiliser.
+Soudain, vous entendez des bruits au-dessus de vous, comme si quelque chose grattait
+frénétiquement la terre. Quelqu’un est là pour vous aider ! Vous saviez bien que vous ne
+pouviez pas mourir ici ! Vous continuez de creuser de plus belle, tandis qu’au-dessus de vous,
+votre allié vous imite. Bientôt, la couche de terre n’est plus qu’une mince pellicule. Deux pattes
+noires hirsutes la traversent soudainement avec force avant de vous percuter les épaules.
+Entraînée en arrière, vous retombez sur le dos tandis que l’animal, entraîné vers l’avant, manque
+de vous tomber dessus. Vous vous retrouvez nez à nez, ou plutôt nez à museau, avec un chien
+familier.
+Après quelques minutes à vous escrimer, vous parvenez à vous sortir du tombeau que
+votre adversaire avait préparé pour vous. Une fois dehors, vous caressez affectueusement le
+chien. « Merci de m’avoir aidé à sortir, lui dites-vous à l’oreille. Sans toi, j’y serai resté ! ».
+Pour toute réponse, le chien pose sans un bruit sa tête sur votre épaule. Décidément, il est bien
+étrange ! Mais vous êtes contente de l’avoir avec vous.
+Vous vous dégagez finalement doucement, vous redressez, et époussetez votre robe. A
+présent, il est temps de rendre la monnaie de sa pièce à ce spectre !
+}
+$ $.10
+
+[34]
+{
+Luttant de toute la force de votre volonté, vous repoussez les assauts psychiques du
+spectre, et contre-attaquez de plus belle. Malheureusement, sa volonté arrête votre attaque aussi
+aisément qu’un pavois bloque les flèches. Bientôt, vous êtes de nouveau sur la défensive. Vous
+cherchez désespérément une ouverture, mais votre adversaire est un bien meilleur duelliste
+mental que vous. Pendant ce qui vous semble être une éternité, vos passes se poursuivent, sans
+jamais que vous puissiez reprendre le dessus sur lui.
+Soudain, une vive douleur vous transperce l’âme et le corps alors que vos défenses
+volent en éclat. Sans subtilité ni pitié, la volonté du spectre pénètre votre esprit comme une
+lance chauffée à blanc, embrasant vos souvenirs, vos émotions, votre être. Vous sentez
+vaguement votre corps se convulser alors que votre esprit est impitoyablement détruit.
+Tout ce qui vous constitue s’efface devant la douleur. A terme, même elle finit par
+s’effacer, alors que vous êtes engloutie par le néant.
+}
+
+[35]
+{
+Les yeux clos, vous continuez de laisser les esprits se mêler au vôtre, partageant ou non
+un peu de leur énergie. Le processus est long, et les résultats individuels sont faibles, mais
+l’expérience est étrangement plaisante. Vous avez passé des années à interagir avec des esprits
+pour accomplir votre devoir de prêtresse, mais ce n’est que dans des cas très rares que vous
+avez pu réellement tenir ce qui s’apparente à une conversation avec l’un d’entre eux. Vous
+sentiez la peur, la souffrance, la colère de ces esprits, mais toutes ces émotions restaient
+simplement des réalités vagues, floues, tout au plus un ensemble d’obstacle au passage des
+défunts. En cet instant, pourtant, ces émotions prennent une autre réalité pour vous. En
+maintenant le contact plus longtemps, en ne vous contentant pas d’être un vecteur de calme,
+vous avez pour la première fois le sentiment de communiquer véritablement dans l’Ailleurs
+avec ces morts, comme s’ils étaient des vivants. Certains vous partagent leur profonde nostalgie
+de la vie, d’autres vous demandent de porter un dernier message à des êtres chers, ou bien de
+leur accorder une sépulture digne de ce nom. Ils ne sont plus juste des esprits parmi d’autres,
+ils sont des inconnus, des étrangers, des alliés.
+Quand plus un seul esprit ne se présente à vous, vous ouvrez finalement les yeux. Vous
+n’avez pas réussi à obtenir autant d’énergie que vous l’espériez. Toutefois, vous vous sentez
+portée par la volonté et les espoirs de tous les esprits qui ont bien voulu vous prêter leur force.
+Certains d’entre eux ont même décidé de vous accompagner pour le combat qui s’annonce,
+désireux de faire tout leur possible pour vous aider. Vous devriez être anxieuse, votre adversaire
+est probablement bien plus puissant que vous ne l’êtes en cet instants. Mais avec tous ces esprits
+autour de vous, vous sentez battre en vous un courage que vous ne vous connaissiez pas.
+/
+Vesyl+=1; Multitude=true;
+/
+}
+$ $.6
+
+[36]
+{
+Après qu’Entrekan vous ait expliqué le rituel, vous partez à la recherche de l’amulette,
+la pièce la plus importante. Impossible de mener le processus à bien si vous ne l’avez pas entre
+les mains. Alors que vous parcourez le champ de bataille, vous ne pouvez vous empêcher de
+questionner votre décision. Êtes-vous vraiment prête à aider le mage ? Il a pu vous démontrer
+aujourd’hui sa puissance sur l’esprit, des capacités magiques considérables… Pourriez-vous
+être sous son influence ? Non, impossible… Vous le sauriez s’il avait tenté d’attaquer votre
+esprit ! Vous êtes perceptive dans l’Ailleurs, vous l’auriez sentie…
+Le spectre a détourné son attention de votre esprit, pour mieux fouiller le champ de
+bataille. Vous percevez vaguement sa concentration tandis que les doutes se font toujours plus
+puissants dans votre esprit. Et si le mage essayait simplement de s’emparer de votre corps,
+détruisant votre esprit au passage ? Vous ne l’avez pas senti mentir, mais avec son expérience,
+il aurait très bien pu vous cacher ses intentions... Dans ce cas, il serait plus sage de tourner
+l’amulette contre lui… D’un autre côté, s’il était sincère, êtes-vous sûre que vous n’avez pas
+envie de mener le rituel à bien ? Entrekan n’a pas l’air de sentir vos hésitations, autrement il ne
+fait aucun doute que son attitude envers vous serait plus méfiante. Il n’aurait pas légèrement
+baissé sa garde... Après de longues minutes de recherche, vous sentez comme une petite
+décharge à la lisière de votre conscience, un signal du mage. Il a enfin trouvé l’amulette.
+Vous vous dirigez lentement vers l’endroit que le mage vous a indiqué, une colline. Au
+cou d’un cadavre calciné vêtu de longues robes cramoisies, vous voyez briller l’amulette dont
+le mage vous a montré l’image. « Erion, mage de Dir, commente tristement la silhouette
+d’Entrekan. Un imbécile prétentieux, mais un grand mage élémentaire, et un ami fidèle. Dans
+la mort, il me rend un dernier service. Prenez l’artefact, Ys, que nous puissions commencer le
+rituel ! »
+Vous vous penchez, et prenez délicatement l’amulette pour la passer autour de votre
+cou. A cet instant précis, vos doutes se dissipent pour de bon, laissant place à une détermination
+inflexible. Votre décision est prise.
+}
+$Procéder au rituel ?$.30
+$Tourner l’amulette contre Entrekan ?$.43
+
+[37]
+{
+Alors que les créatures s’approchent de vous, vous ressentez une énergie considérable
+s’accumuler entre vos mains. L’énergie que vous avez acquise grâce à votre rituel se mêle à vos
+propres capacités, vous donnant accès à une puissance à laquelle vous auriez été incapable
+d’accéder avec vos propres ressources. Quelle exaltation !
+Les morts-vivants continuent pourtant d’avancer, aveugle à votre magie. Déjà, certains
+étendent le bras, parviennent presque à vous toucher… Puis, dans un murmure, vous concluez
+le rituel et laissez agir votre sort. Un tonnerre silencieux roule sur le champ de bataille, avec
+vous comme épicentre. Pendant quelques instants, les créatures restent immobiles, comme
+figées dans le temps. Soudain, l’une d’entre elle s’affaisse, puis une autre, puis une autre.
+Bientôt, toutes sont retournées à l’état de cadavres ordinaires. « Puisse Yskad vous offrir la
+paix» murmurez-vous dans un souffle.
+Le sentiment de puissance laisse cependant bientôt la place à un grand vide. La fatigue
+s’abat sur vous comme une chappe de plomb. Vous avez réussi à détruire ces créatures, certes,
+mais vous avez épuisé ce faisant les maigres réserves d’énergies que vous étiez parvenue à
+accumuler en demandant l’aide des esprits. Comment allez pouvoir défaire Entrekan
+maintenant ? Alors que vous êtes envahie par le doute, une présence amicale dans l’Ailleurs
+vient vous rassurer. Vous avez peut-être utilisé l’énergie que les esprits avaient accepté de vous
+prêter, mais vous êtes toujours accompagnée des mânes de plusieurs défunts prêt à vous aider
+autant que faire ce peut. Rassérénée, vous exprimez votre gratitude à leur égard.
+Vous êtes peut-être affaiblie, mais avec le soutien dont vous disposez, vous gardez espoir. 
+}
+$ $.11
+
+[38]
+{
+« Visiblement, vous n’avez pas abandonné l’idée de me vaincre, commente le mage
+d’un ton où pointe l’énervement. Puisqu’il est impossible de parlementer avec vous,
+disparaissez ! »
+A peine entendez-vous ces paroles que le spectre vous frappe de toute sa puissance.
+Comme vous le craigniez, son assaut est bien plus terrible que lors de votre première rencontre.
+En quelques instants, vos défenses mentales vacillent sous la violence de son attaque. Son esprit
+est une masse d’arme, un fléau, un bélier qui s’abat sur vos boucliers. Mais vous ne vous
+effondrez pas ! Vous élevez de nouveaux murs pour ceux qui tombent, votre volonté vient
+renforcer chacun de vos points faibles contre les poignards insidieux de votre adversaire.
+L’effort est difficilement soutenable pour votre esprit, vous savez que vous ne pourrez pas
+maintenir longtemps une telle concentration… Cependant, alors que le spectre se replie pour
+préparer un nouvel assaut, vous trouvez l’ouverture dont vous aviez besoin pour lui porter une
+contre-attaque !
+/
+if(Bague)
+{
+    $Utiliser la Bague$.48
+}
+if(Multitude)
+{
+    $ $.42
+}
+if(Pouvoir)
+{
+    $ $.45
+}
+else
+{
+    if(Chien)
+    {
+        $ $.24
+    }
+    $ $.34
+}
+/
+}
+
+[39]
+{
+Vous brandissez avec ferveur l’amulette, récitant des paroles qui emplissent votre esprit
+sans que vous ne sachiez d’où elles viennent. Le sentiment de puissance que vous ressentez
+vous exalte alors que vous psalmodiez. Vous sentez un afflux d’énergie vous envahir, vous
+embraser comme une flamme. Serait-ce Yskad lui-même qui parle à travers vous ? Oui, il n’y
+a aucun doute, plus que jamais vous sentez Son œil sur vous, vous sentez Sa main vous guider.
+Je savais qu’il ne m’avait pas abandonné !
+Face à vous, Entrekan résiste de toutes ses forces à votre assaut. L’espace de quelques
+instants, sa puissance rivalise la vôtre. Dans un sursaut de pouvoir, il semble prendre l’avantage
+sur vous, alors que ses attaques pleuvent sur votre esprit depuis toutes les directions que permet
+l’Ailleurs. Mais bien vite, ses assauts faiblissent, se font plus prévisibles. Les ressources
+insoupçonnées dont il a fait preuve n’étaient que l’énergie du désespoir. Bientôt, il est contraint
+de rester sur la défensive, alors que vos attaques mentales, porteuses de toutes la colère d’Yskad
+s’abattent implacablement comme des vagues sur le récif. Il érige des boucliers, des barrières,
+des murs, mais ceux-ci ne sont rien face à votre volonté. Là où vous sentiez détermination et
+colère chez le mage, il n’y a plus qu’une immense détresse. Il ne peut plus échapper à son
+destin ! Dans une dernière offensive, votre esprit se fait lame, et scinde la volonté d’Entrekan.
+L’amulette devient brûlante, puis explose entre vos doigts, vous projetant à terre. Devant
+vous, la forme argentée s’embrase d’un millier de flammèches blanches, alors que l’esprit
+d’Entrekan est propulsé profondément dans l’Ailleurs. Son hurlement emplis votre esprit, avant
+de se taire brusquement. « Puisse Yskad t’offrir la paix, impie ! »
+Vous vous relevez péniblement en évitant de vous appuyer sur votre main blessée. Ce
+n’est qu’alors que vous remarquez que l’herbe vous environnant est devenue grisâtre et morte.
+Un peu plus loin du théâtre de votre combat, vous distinguez le cadavre d’un chien familier.
+L’amulette, comprenez-vous. Votre rituel avait besoin d’une source d’énergie très importante,
+il semble que sans vous en rendre compte vous ayez puisé dans la vie vous entourant. Aviezvous le droit de sacrifier ainsi cette vie pour votre cause ?
+La réponse vous vient instantanément : évidemment. Vous ressentez une pointe de
+tristesse pour ces vies, une pointe de colère contre vous-même pour ne pas avoir réalisé ce que
+vous faisiez, mais tout cela est secondaire. Par votre main, la volonté d’Yskad est accomplie.
+}
+$ $.50
+
+[40]
+{
+Votre volonté et celle du mage s’entrechoquent une nouvelle fois, ébranlant les étendues
+de l’Ailleurs tout autour de vous. Malgré les revers que vous avez subis, vous vous sentez plus
+forte que jamais. A chaque fois que vous vous êtes retrouvée au bord de l’abîme du désespoir,
+une main tendue vous a permis de vous relever, et de combattre de nouveau. Votre esprit est
+clair maintenant, vous n’avez plus de doutes à avoir sur votre force. Qu’importe la fatigue,
+qu’importe vos ouvertures ! Entrekan peut bien tout tenter, vous repousserez ses attaques, et
+contre-attaquerez de nouveau jusqu’à ce qu’il cède ! Vous vaincrez pour les esprits qui vous
+ont soutenus. Vous vaincrez pour le chien qui vous a sauvé. Vous vaincrez, car vous êtes vousmême !
+Pendant un temps indéterminé, votre duel se poursuit sans que le mage où vous ne
+prenne un avantage décisif. Vous rivalisez tous deux de techniques et de créativité, qui vous
+pousse jusque dans vos limites. Mais aucun ne vous ne cède. Puis, vous commencez à les voir,
+les premiers signes de fatigue chez Entrekan. Ses parades se font plus lentes, ses attaques plus
+maladroites. Vous sentez monter en lui la confusion et la peur. Il a utilisé toutes ses
+connaissances contre vous, toutes ses ressources de pouvoir et d’expérience, et pourtant vous
+résistez ! Bientôt la peur fait place chez lui à la panique. Ses défenses s’écroulent comme un
+château de cartes. Dans l’Ici, sa silhouette recule, affolée, comme si elle essayait de fuir. Pas
+question ! Votre esprit se fait marteau de guerre, et vient frapper le sien de toute votre puissance,
+le précipitant dans les profondeurs de l’Ailleurs.
+L’effigie du mage s’embrase d’un millier de flammèches argentées, tandis que son esprit
+se soustrait à votre perception dans un hurlement de peur et de rage. « Puisse Yskad t’… »
+commencez-vous, avant de vous effondrer sur le sol. Vous êtes fatiguée, si fatiguée…
+Vous vous réveillez avec un mal de tête infernal dans un endroit puant la charogne. Il
+vous faut quelques instants pour que les évènements récents vous reviennent à la mémoire. Le
+champ de bataille, un chien, l’esprit d’un mage hostile, le combat… Combien de temps s’est
+écoulé ? Vous êtes toujours sur le champ de bataille, de toute évidence, mais l’aube commence
+à poindre à l’horizon. Vous êtes restée évanouie pendant plusieurs heures ! Pas étonnant que
+vous soyez désorientée… Vous essayez de vous relever, mais bouger le moindre membre
+demande un effort colossal. C’est tout juste si vous parvenez à vous asseoir…
+Soudain, vous sentez une présence étrangère juste derrière vous. Votre inquiétude est
+toutefois de courte durée : du coin de l’œil, vous apercevez bientôt un museau familier. Vous
+esquissez un grand sourire alors que le chien vient s’asseoir juste devant vous.
+« Toujours là, toi ? demandez-vous d’une voix faible. Décidément, tu n’as pas envie de
+me laisser tranquille ! » Pour toute réponse, le chien penche la tête sur le côté d’un air
+interrogateur. Au prix d’un grand effort, vous parvenez à poser la main sur sa tête, et à la
+caresser doucement. « Merci », dîtes-vous tout simplement. Une odeur pestilentielle flotte dans
+l’air. Vos muscles vous font souffrir et vous avez froid. Pourtant, pour une raison que vous ne
+sauriez expliquer, vous êtes envahie d’un sentiment de bonheur intense. Vous avez réussi !
+Vous êtes en vie ! Vous avez un ami à vos côtés. Vous voudriez pouvoir rester assise là jusqu’à
+la fin de vos jours…
+Mais vous ne pouvez pas. A la lisière de votre conscience, vous percevez encore la peur
+et les gémissements des malheureux refusant de partir. Dès que vous aurez récupéré des forces,
+vous comptez bien leur venir en aide. Pourquoi vous ressentez-vous un tel besoin de les
+assister ? Etonnamment, vous réalisez que ce n’est pas votre foi qui vous motive. Vous voulez
+simplement être là pour ces âmes perdues. Vous ne pouvez pas les laisser souffrir plus
+longtemps que nécessaire. Et cela ne se limite pas aux esprits errant sur ce champ de bataille !
+Beaucoup d’autres sont seuls et ont peur.
+Vous ne faites plus partie du culte d’Yskad, certes, mais pourquoi ne pas user de vos
+dons pour aider ceux qui en ont besoin ? Ce faisant, vous continuerez de servir le dieu, à votre
+manière. Vous comptez bien parcourir le monde pour être là, partout où l’on aura besoin de
+votre aide. Voilà ce que vous ferez de la vie que Vésyl vous a offerte !
+Peut-être que vous choisissez une vie d’errance, mais qu’importe ? Vous avez trouvé un
+compagnon sur qui vous pouvez compter ! Ce dernier vous fixe toujours, sans un bruit, la tête
+légèrement penchée. « Si on voyage ensemble, il va falloir que je te trouve un nom hein ? ».
+Pour toute réponse, le chien cligne des yeux. Plusieurs noms vous traversent l’esprit, mais aucun
+ne vous plait suffisamment. Vous cherchez encore quelques instants, quand soudain un nom
+vous frappe comme une évidence. Mais oui, pourquoi n’y avez-vous pas pensé plus tôt !
+« Que dirais-tu de Silence ? »
+}
+
+[41]
+{
+Alors que la détresse vous envahit, vous sentez la bague à votre doigt devenir plus
+chaude. Une douce lumière émane de la pierre et des écritures gravées sur son écrin. Les
+créatures semblent ne pas y prêter attention, et continuent d’avancer lentement vers vous. Alors
+qu’une mâchoire pestilentielle s’apprête à se refermer sur votre gorge, l’éclat de la bague
+devient aveuglant. Il y a comme un éclair émeraude, puis la lumière disparaît aussitôt.
+Pendant un instant, le temps semble s’être figé autour de vous. Puis vous entendez un
+choc sourd, puis un autre, puis de nombreux autres. Bientôt, toutes les abominations vous
+entourant retournent à l’état de cadavres. Vous lancez un regard admiratif à la bague qui vient
+de sauver votre vie. Vous ne vous attendiez pas à une telle puissance ! Il semble que vous ayez
+fait le bon choix en la prenant avec vous. Votre confiance ravivée, vous époussetez brièvement
+vos robes avant de reprendre votre chemin.
+}
+$ $.11
+
+[42]
+{
+Vous résistez à l’attaque d’Entrekan, avant de contre attaquer avec toute la puissance
+que les âmes ont bien voulue vous prêter. Vous sentez leur peur, mais aussi leur détermination
+à empêcher le mage de s’en prendre à plus d’esprit. Vous avez interagi avec plus d’esprits que
+vous pouvez n’en compter durant votre vie, mais jamais de la sorte. Ceux-là sont si proches, si
+puissants… Si vivants. L’espace d’un instant, il n’y a plus d’Ys, il n’y a plus d’esprits multiple,
+juste une masse de volonté et de pouvoir unie dans un unique but. Un baroud d’honneur on ne
+peut plus splendide pour tous ces soldats !
+L’euphorie est cependant de courte durée. Malgré vos efforts, Entrekan tient bon, et
+bientôt, ce moment d’unité la plus totale se dissipe, laissant derrière lui une fatigue intense. Les
+esprits vous accompagnent toujours, mais ils sont moins focalisés, leur présence se fait plus
+diffuse. Après avoir jeté leur dernière force dans la bataille, il est temps pour eux de vous quitter.
+Vous éprouvez une brève satisfaction devant le sentiment de paix qui les envahit, la paix offerte
+par Yskad.
+Sous l’effet de la fatigue, vous posez un genou à terre. Implacable, inflexible, Entrekan
+poursuit son assaut. Vous percevez sa confiance en lui, dans la force de sa volonté. Son esprit
+laisse échapper ce qui ressemble à un rire triomphant. Même l’aide de nombreux esprit ne vous
+aura pas permis de prendre le dessus. Pouvez seulement espérer vaincre la volonté de ce damné
+spectre ?
+Un nouvel assaut sur votre volonté menace de vous submerger. Autour de vous, le
+monde s’obscurcit, l’air que vous respirez vous brûle les poumons. Pourquoi ne pas vous
+abandonner à la mort ? Sans doute est-ce la manière d’Yskad de vous signifier que vos services
+ne sont plus requis en ce monde…
+Non. Non ! Vous ne pouvez pas mourir ici ! Abandonner et trahir le dernier effort
+d’âmes courageuses ? Certainement pas ! Votre cœur s’accélère, une étrange vigueur ravive vos
+muscles et votre esprit. Avec un cri rageur, physique et mental, vous vous redressez et jetez
+toutes les forces qu’il vous reste dans la bataille.
+/
+Vesyl+=2;
+if(Chien)
+{
+    $ $.24
+}
+else
+{
+    $ $.34
+}
+/
+}
+
+[43]
+{
+Alors que vous vous préparez à attaquer le mage, l’amulette à votre cou s’illumine
+soudainement. Vous percevez vaguement sa volonté, éveillée par la vôtre, alors qu’elle focalise
+son attention sur Entrekan.
+L’activation de l’amulette semble troubler profondément l’esprit. Dans l’Ici, sa
+silhouette se crispe et effectue un pas de recul. Serait-ce de la peur que vous percevez ? Enfin,
+la façade insondable du spectre se fissure ! Avec cette amulette vous avez peut-être un moyen
+de triompher de lui. Saisissant l’artefact à pleine main, vous le pointez vers Entrekan alors que
+votre esprit attaque le sien. Vous sentez une force nouvelle s’ajouter à votre attaque, tandis que
+l’amulette soutient votre volonté. Vous sentez sa voracité, vous sentez son pouvoir tout juste
+éveillé, dans lequel vous puisez aussi bien que possible. Le mage ne parvient pas à bloquer
+totalement votre attaque : vous sentez sa douleur alors que votre esprit perce le sien.
+Cependant, le spectre est loin de s’avouer vaincu. Ne pouvant plus se donner le luxe de
+dissimuler ses pensées affleurantes, vous sentez sa rage de vaincre. Il parvient rapidement à se
+ressaisir et à vous repousser à l’aide du barrage de sa volonté. En bon duelliste, il maintient sa
+défense tandis que sa volonté se fait lame et fond sur votre esprit. Une nouvelle passe d’arme
+mentale s’engage. Si votre puissance, avec l’aide de l’amulette, surpasse la sienne, il a beaucoup
+plus d’expérience dans ce genre de duel. L’issue semble encore incertaine…
+/
+    if(Sapience)
+    {
+        Yskad+=2;
+    }
+    if(Yskad>=5)
+    {
+        $ $.39
+    }
+    else
+    {
+        $ $.34
+    }
+/
+}
+
+[44]
+{
+Trouver un esprit en particulier est généralement difficile, mais dans le cas d’un esprit
+aussi puissant, qui de plus ne semble pas faire de grands efforts pour dissimuler sa présence,
+vous parvenez sans grandes difficultés à le localiser. Après une brève marche au milieu du
+charnier, vous parvenez aisément jusqu’à lui.
+Arrivée à proximité, vous saisissez pleinement toute la singularité de cet esprit. Dans
+l’Ailleurs, la plupart des esprits errants sont terrifiés, égarés, parfois même à moitié fous dans
+leur confusion. Celui-ci, en revanche, est particulièrement cohérent, structuré. Il n’erre pas au
+hasard, mais se déplace précisément, et semble se repérer dans les étendues changeantes. Cela
+ne devrait pas être possible... Une telle aisance dans l’Ailleurs ne pourrait s’expliquer que par
+une grande connaissance des arts mystiques de son vivant. Mais même dans ce cas, le choc de
+la scission du corps et de l’âme aurait dû l’affecter bien plus profondément !
+Le plus troublant, cependant, est que malgré son absence de corps, sa présence semble
+suffisamment forte pour affecter l’Ici. A la position correspondante à celle de son esprit dans
+l’Ailleurs, la terre s’enfonce comme sous l’effet d’un poids imaginaire. Comment une telle
+chose est-elle possible ?
+Vous n’avez pas particulièrement cherché à dissimuler votre présence, et le spectre vous
+perçoit immédiatement. A peine êtes-vous arrivée qu’il tourne son attention vers vous, ce qui
+se traduit dans l’Ici par une bourrasque glacée venant fouetter votre visage. Un frisson cours le
+long de votre échine alors que vous sentez le contact de son esprit contre le vôtre. Vous érigez
+rapidement des défenses, mais il ne semble intéressé que par vos pensées les plus affleurantes.
+Du moins pour l’instant. Une voix sifflante, étrangement articulée, se fait entendre comme un
+murmure dans votre esprit. Une prêtresse d’Yskad, je vois. Êtes-vous venue pour me
+chasser ? Avant même que vous ne puissiez articuler votre réponse en pensées, il semble
+l’avoir déjà sentie. Désolé, mais je n’ai pas de temps à perdre avec vous, entendez-vous
+silencieusement.
+L’attaque sur votre esprit est soudaine et inattendue. Avec une précision digne d’un
+escrimeur, l’esprit de votre adversaire se fait lame et vient frapper les points faibles de votre
+défense. Sa volonté pénètre votre esprit comme une dague chauffée à blanc s’enfoncerait dans
+du beurre. Vous laissez échapper un hurlement alors que l’attaque fouaille violemment votre
+conscience, vos souvenirs…
+Le Temple d’Yskad, à Mär. En marbre noir. Si grand, si vaste. Le grand prêtre, son
+visage sévère, éclairé d’un rare sourire. Il me donne mes robes, mon médaillon. Mon
+médaillon… Perdu, bannie. Plus là… Votre erreur, l’esprit en colère. Le marbre fracassé sous
+mes genoux… Tout autour de moi, des prêtres. Ils grondent, ils grondent… Mon médaillon…
+Arraché… Des robes en lambeaux, chassée… Non ! Sors de ma tête, sors de ma tête, sors de
+ma tête, SORS DE MA TÊTE !
+En concentrant votre volonté, vous parvenez douloureusement à repousser l’assaut du
+spectre. Tant bien que mal, vous tentez de contre-attaquer. Par tactique ou par chance, votre
+volonté parvient à traverser ses défenses. Un torrent d’information déferle dans votre esprit,
+avant que vous ne soyez violemment repoussée. Vous percevez la colère du spectre. Avant que
+vous n’ayez le temps de réagir, vous sentez le sol céder brusquement sous vos pieds.
+Déstabilisée, vous basculez en arrière pour vous retrouver étendue sur le dos. Alors que vous
+tentez de vous relever, une masse de terre et de boue vient s’abattre sur vous de toutes parts.
+Par un pouvoir qui vous échappe, ce spectre est parvenu à vous enterrer vivante !
+/
+    if(Chien)
+    {
+        $ $.33
+    }
+    else if(Vesyl==2)
+    {
+        $ $.23
+    }
+    else
+    {
+        $ $.3
+    }
+/
+}
+
+[45]
+{
+Alors que vous puisez dans l’énergie extraite des fantômes, un sentiment exaltant
+s’empare de vous. Une telle puissance ! Jamais vous n’auriez cru que le pouvoir pourrait être
+aussi grisant. Vous assaillez violemment Entrekan de toute la puissance de votre volonté. Votre
+attaque est précise et puissante, rapide et destructrice, et ce bien plus que toutes les passes
+d’armes mentales que vous avez pu effectuer par le passé. Le mage semble plier durant quelques
+instants, mais ses défenses tiennent bon. Il n’a peut-être pas une force mentale comparable à
+celle que vous arborez actuellement, mais son expérience de duelliste suffit amplement à pallier
+la différence. Avec précision et technique, il dévie vos attaques et riposte de plus belle.
+Qu’importe ! Vous vous sentez toujours invincible. Son esprit ricoche contre le vôtre
+comme une flèche contre la maille. Pendant un temps indéterminé, vos passes d’armes mentales
+se poursuivent sans que l’un d’entre vous ne parvienne à prendre l’avantage. L’affrontement
+devient bientôt une bataille d’endurance. Mais vous sentez votre adversaire faiblir sous vos
+attaques, il commence à commettre de légères erreurs. Oui, vous pouvez gagner !
+Soudain, une immense fatigue s’abat sur vous. Votre corps tient à peine debout,
+maintenir votre concentration vous demande un effort considérable. Comment est-ce possible ?
+Pourquoi maintenant ? Vous étiez encore si puissante il y a une seconde… Non, non ! Ce
+pouvoir n’était qu’emprunté ! Serait-ce possible que vous ayez épuisé l’énergie puisée chez les
+fantômes de soldats ? Vous ne voyez pas d’autres explications. Il vous faudrait quelques
+instants, un peu de temps pour récupérer du contrecoup…
+Mais évidemment, Entrekan ne vous en laisse pas l’occasion. Son attaque arrive comme
+un coup de marteau spirituel qui menace de briser votre volonté. Vous parvenez à le repousser
+de justesse, mais déjà la prochaine attaque se prépare. Au vu de votre état, il faudrait un véritable
+miracle pour que vous puissiez vous en sortir…
+/
+    if(Chien)
+    {
+        $ $.24
+    }
+    else
+    {
+        $ $.34
+    }
+/
+}
+
+[46]
+{
+Malgré la puissance qu’il affiche, Entrekan ne donne pas de signe d’agressivité. Sa
+silhouette argentée dans l’Ici se tient debout, les mains jointes, une expression amicale sur le
+visage. Dans l’Ailleurs, son esprit ne présente pas de pensées hostiles, ni ne donne l’impression
+de préparer de sorts. Vous ne baissez pas votre garde pour autant. Il n’est pas impossible qu’il
+puisse dissimuler ses intentions ! Après tout, vous avez pu constater sa maîtrise lors de votre
+précédente rencontre… Vous préparez le plus discrètement possible vos défenses mentales,
+mais cela n’échappe pas au mage.
+« Le conflit est-il vraiment la seule issue, prêtresse ? demande-t-il d’une voix se
+confondant avec le vent. Je vous l’ai déjà dit, je n’ai aucune envie de me battre contre vous. Et,
+après ce que j’ai vu lors de notre dernier échange, je pense avoir une alternative à vous
+proposer. »
+Vous ne parvenez pas à lire ses intentions, mais aucun signe ne trahit un quelconque
+mensonge. Vous prenez un instant pour réfléchir à votre réponse. Tout cela pourrait n’être
+qu’une ruse de la part du mage pour mieux vous prendre en traître. D’un autre côté, il est bien
+plus expérimenté que vous dans l’usage de l’Ailleurs, et vous n’êtes pas sûre de pouvoir le
+vaincre avec l’augmentation de sa puissance depuis votre première rencontre. Echanger
+calmement avec lui vous permettrait peut-être de trouver une solution raisonnable sans risquer
+de vous faire tuer. Mais est-ce réellement la bonne solution ?
+/
+    if(!Amulette)
+    {
+        $Vous décidez de ne pas le laisser parler plus longtemps$.38
+    }
+    else if(Amulette)
+    {
+        $Vous décidez de vous en prendre à lui$.43
+    }
+/
+}
+$Vous acceptez de parler avec lui$.16
+
+[47]
+{
+Vous remontez lentement la butte au sommet de laquelle vous aviez mené à bien votre
+rituel plus tôt dans la soirée. Malgré votre interruption brutale, une grande quantité d’esprits
+gravitent encore autour de la position correspondant à celle de l’arbre dans l’Ailleurs. Pour
+communiquer avec eux, cela sera plus rapide. Au vu du nombre d’esprit, vous devriez pouvoir
+obtenir une quantité non négligeable d’énergie.
+Avant de procéder, un doute vous envahit brutalement. Même si vous ne comptez pas
+prendre de l’énergie de force aux défunts, ce genre de pratique n’est-il pas contraire aux
+enseignements d’Yskad ? Après tout, les vivants et les morts doivent rester séparés… Est-ce
+qu’emprunter du pouvoir aux esprits ne revient pas à brouiller la frontière ? Vous devriez
+pourtant savoir à quel point il peut être dangereux d’interagir avec des esprits dans une façon
+qui n’est pas codifiée par les textes. Vous avez suffisamment payé pour le savoir, par tous les
+dieux ! Mais d’un autre côté, avez-vous vraiment une meilleure solution pour obtenir la
+puissance nécessaire ?
+/
+    if(Chien)
+    {
+        $ $.31
+    }
+/
+Aux grands maux, les grands remèdes ! Après tout, Yskad comprendra certainement
+cette incartade de votre part, puisque vous le faites pour arrêter un ennemi de sa volonté. Vous
+vous asseyez au pied de l’arbre, les jambes en tailleurs, laissant les esprits venir à vous. A
+chaque fois, vous touchez leur esprit pour le calmer, et entamer une conversation mentale. Tout
+en gardant vos distances, vous essayez de les convaincre de vous aider. Vous évoquez le danger
+posé par Entrekan, vous leur montrez des images de ses exactions. Certains acceptent, et vous
+prêtent une fraction de leur énergie. Malheureusement, ce n’est pas le cas de tous… Après
+plusieurs dizaines de minutes, vos progrès sont encore faibles. Ce n’est pas assez rapide ! Vous
+êtes contrainte de continuer à solliciter des esprits, et pendant ce temps la puissance de votre
+adversaire grandit…
+}
+$Vous choisissez de poursuivre$.35
+$Vous forcez les esprits à vous aider$.19
+
+[48]
+{
+Confiante dans le pouvoir de l’artefact qui vient de vous sauver la vie, vous levez la
+main portant la bague vers le spectre d’Entrekan, et faites appel à son pouvoir. Autour de votre
+doigt, le métal devient chaud alors que la pierre s’illumine en sentant votre volonté.
+Vous sentez une brève hésitation dans l’esprit du mage. Depuis l’Ailleurs, l’attention du
+mage se porte sur l’objet, puis y revient encore une fois. Il cherche… à confirmer quelque
+chose ? Puis, à votre surprise, vous le sentez traversé de nombreuses pensées euphoriques, ce
+qui se traduit par un éclat de rire de la part de sa manifestation dans l’Ici. « Je supposais que
+vous risquiez d’utiliser un artefact magique contre moi, parvient-il à articuler, mais ma propre
+bague ! Peut-être vous ai-je surestimé, prêtresse. »
+Avant que vous n’ayez le temps de comprendre l’ampleur de votre erreur, vous sentez
+un pouvoir terrible frapper votre corps et votre esprit, comme la magie de la bague est tournée
+contre vous. Dans cette situation, Entrekan n’a aucun mal à envahir votre esprit déstabilisé par
+son artefact et à détruire votre conscience. « On dirait qu’elle vous aimait bien, prêtresse.
+Malheureusement pour vous, pas au point d’accepter d’être retournée contre son propriétaire
+légitime », entendez-vous avant de sombrer dans le néant.
+}
+
+[49]
+{
+Vous avez beau lutter de toutes vos forces, vous avez beau utiliser tout essayer, les
+créatures continuent d’avancer vers vous, lentement, inexorablement. Vos efforts ne semblent
+avoir d’autres effets que vous épuiser. Déjà, les doigts putréfiés de l’abomination la plus
+proches se referment comme des mâchoires d’acier sur votre gorge. Impossible d’échapper à
+votre sort.
+Alors que vous suffoquez, vous adressez une prière silencieuse à Yskad. Mais à votre
+silence ne répond qu’un silence plus lourd encore. Immobile, épuisée, vous vous sentez sombrer
+vers le néant alors qu’une vingtaine de mâchoires se referment une à une sur votre chair.
+}
+
+[50]
+{
+L’aube pointe presque à l’horizon quand vous quittez finalement le champ de bataille
+désert. Après avoir triomphé d’Entrekan, il vous a fallu encore de longues heures pour
+accompagner tous les esprits refusant de passer, jusqu’à ce que l’Ailleurs devienne aussi
+silencieux que l’Ici. Vous êtes exténuée, physiquement et mentalement, mais profondément
+satisfaite. Au nom d’Yskad, vous avez accompli votre devoir, vous avez mené des centaines
+d’âmes errantes de l’autre côté du miroir. La volonté d’Yskad est faite !
+Votre main droite, encore douloureuse malgré les premiers soins que vous lui avez
+appliqués, porte une marque en forme d’étoile, vestige de l’éclatement de l’amulette. Peut-être
+vous faudrait-il consulter un mage ou un alchimiste pour vous assurer qu’elle n’est pas marquée
+par une magie nocive. Vous n’avez toutefois aucune envie de vous débarrasser de la cicatrice.
+Elle marquera votre main jusqu’à ce qu’Yskad vous rappelle à lui, comme un souvenir des
+épreuves de cette nuit. A l’avenir, quand votre foi sera éprouvée, puisse cette marque vous
+redonner le courage nécessaire pour accomplir votre mission !
+Pour la première fois depuis votre bannissement, votre esprit est libéré de ses
+inquiétudes et de ses doutes. Même maintenant, après de longues années d’errance, Yskad a
+toujours une mission pour vous. Il y aura toujours des âmes en peine perdues dans l’Ailleurs
+loin des temples et des prêtres ; il y aura toujours des revenants fous de rage échappant à la
+vigilance du clergé ; il y aura toujours des fous, vivants ou morts, prêts à se dresser de leur
+propre volonté contre Yskad a qui personne ne peut administrer leur châtiment. Pour toutes ses
+raisons, vous arpenterez les routes sans relâche, vos robes déchirées sur le dos et votre bâton de
+marche à la main. Qu’importe si le clergé ne vous reconnait plus comme une prêtresse ! Votre
+mission doit être menée à bien, pour le maintien de l’ordre naturel. Quel que soit le lieu, quel
+que soit l’époque, les vivants et les morts doivent rester séparés ! S’il n’y a plus de place pour
+vous parmi les premiers, eh bien qu’il en soit ainsi. Vous aurez bien assez à faire pour aider les
+seconds à trouver le repos.
+Vous aimeriez prendre un peu de repos avant le lever du jour. Les armées de Dir ou
+d’Agdor sont toujours en marche, et ne sont pas prête de s’arrêter. Il y aura bientôt d’autres
+batailles, d’autres morts, d’autres spectre. Vous aurez besoin de toutes vos forces pour le
+prochain charnier. A l’avenir, il vous faudra suivre les armées à la manière des corbeaux, à
+travers plaines et forêts, à travers routes et broussailles. Les dieux seuls savent quand vous
+rencontrez un autre être humain vivant. Mais vous n’êtes pas inquiète ! Si c’est là votre destinée,
+vous l’acceptez avec plaisir.
+Yskad m’a guidé depuis mon enfance, et continuera jusqu’à-ce qu’il me rappelle à lui.
+Pourquoi avoir peur ? Tant que son œil est sur moi, je ne suis jamais seule.
+}

@@ -1,0 +1,867 @@
+[0]/csq/{Définition du mot « mercenaire » : un combattant étranger aux parties en conflit qui prend une part
+directe aux hostilités. Ce combattant doit également avoir un avantage personnel à participer à ce
+conflit, qui peut prendre la forme d'une rémunération nettement supérieure à celle de ses homologues
+de l'armée régulière.
+ Un mercenaire est un combattant de métier qui est recruté, moyennant finance,
+par un État, une entreprise ou un mouvement politique. Un combattant de carrière, bien que
+rémunéré et parfois recruté sur contrat, se distingue d'un mercenaire par son adhésion à un statut
+professionnel découlant d'une législation ou d'une coutume locale stable.
+Les services des mercenaires sont généralement sollicités pour une opération militaire identifiée et
+pour une durée limitée ou pour un type de service spécialisé.
+Le terme de mercenaire a actuellement une connotation très négative du fait que la plupart du temps,
+il est motivé par l'appât du gain. Cet aspect est central dans la définition d'un mercenaire. Armés. \n
+
+Vous souriez à la lecture de cette définition. En effet votre profession est d’être mercenaire. Vous
+gagnez votre vie en combattant, arme à la main, pour un employeur. Quand vous étiez enfant, vous
+vous seriez battu uniquement pour la justice et les principes mais l’expérience vous a appris que ces
+valeurs sont sujet à interprétation selon son point de vue. Vous n’êtes en aucun point une brute
+sanguinaire et sans aucune valeur morale. Vous choisissez donc vos missions en fonction de leurs
+contenus. Vous refusez, et refuserez probablement toute votre vie, de travailler pour des gangsters ou
+des mafieux. Toutes mission dont les motivations sont notablement amorales sont également hors de
+votre domaine d’acceptation. \n
+
+Vous éteignez votre smartphone et fermez les yeux. Vous vous enfoncez un peu plus profondément
+dans le siège de l’avion qui vous conduit chez votre nouvel employeur. Ce dernier, un certain Billy
+Ponts, vous a donné un rendez-vous afin de vous confier une mission de « sécurité » en Floride. Vos
+théâtres d’opération habituelle étant plutôt l’Afrique et l’Amérique latine, vous êtes intrigué d’aller
+sur le sol des Etats-Unis d’Amérique. Votre éventuel futur employé à pris en charge tous les frais de
+votre voyage, ce qui vous semble pour le moins bizarre. Plus le temps passe, plus tous cela vous paraît
+étrange. Enfin, l’avion perd de l’altitude pour atterrir. Comme à chaque fois, vos oreilles vous font
+souffrir. Vous débarquez et après avoir pris un petit café vous rejoignez le parking ou une grosse
+limousine noire vous attend. Vous vous installez à l’arrière et, pendant le trajet, vous essayez
+d’engager la conversation avec votre chauffeur mais ce dernier se contente de réponse évasive. Au
+bout d’une demi-heure de route, vous vous arrêtez devant un immense immeuble siglé de l’enseigne
+de l'uac. C’est la première fois que vous voyez le nom de cette société. On vient vous chercher pour
+vous conduire dans un immense bureau ou un homme d’une bonne cinquantaine d’années, au
+cheveux gris et au costume impeccable, vous reçoit avec un grand sourire froid. Il vous explique qu’il
+est le grand patron de l’entreprise « U.A.C » et qu’il a établi une station de recherche à la surface de la
+planète Mars. Cependant, le chef des chercheurs, un certain Titi Binaire, est devenu fou et prépare
+une arme effroyable pour détruire l’humanité. Maintenant, avant que je vous donne plus de détails,
+je dois vous demander, dès maintenant, si vous acceptez la mission, ajoute-t-il.}(sound)*img*$Allez-vous, sans plus
+d’informations, acceptez une mission qui doit, soi-disant, vous conduire sur Mars.$.1$ Par contre, si vous n’êtes pas prêt à croire que cet homme a envoyé des gens sur Mars en
+secret, vous vous devez de refuser.$.32
+
+[1]{J’accepte, répondez-vous bien que vous ne croyiez guère ce qu’il vient de vous dire. Vous avez raison
+car, bien qu’incroyable, ce que je viens de vous révéler n’est que la pure vérité. Mon entreprise travaille
+pour le ministère de la défense des USA, ainsi que pour la CIA. Nous avons mené un projet de recherche
+sur de nouvelles armes, en secret. Afin d’empêcher toute formes d’espionnage de là par des
+concurrents et des autres états, grâce au financement de ma nation nous avons envoyé des hommes
+sur la planète rouge pour y construire un immense laboratoire. Le chercheur en chef, Titi Binaire, a été
+pris d’une crise de mégalomanie et a décidé, en secret, de créer un virus qui tuerait 90 pour cent des
+êtres humains, afin de réduire en esclavage les survivants. Un de ces assistants, conscients que son
+chef avait perdu la raison, nous a prévenu. Cela lui a coûté la vie. Il est nécessaire d’arrêter ce fou. J’ai
+donc pris la décision d’envoyer une équipe sur la planète rouge pour cela. Si le gouvernement
+apprenait le problème, il ferait détruire les installations martiennes et ruinerait mon entreprise. Les
+hommes de la sécurité de l'UAC sont prêts à décoller pour intervenir et éliminer le problème mais,
+même s’ils sont très bien entraînés, ils ne sont pas assez expérimentés. J’ai donc décidé de sélectionner
+six d'entre eux pour épauler six mercenaires afin d’envoyer Titi dans l’autre monde. \n
+
+Voilà le long monologue que vous tiens votre employeur. Vous l’écoutez sans dire un mot puis vous
+quittez le bureau en suivant un agent de sécurité jusqu’au bas de l’immeuble. Là, une voiture vous
+conduit au pas de lancement. Arrimé à deux énormes réservoirs et quatre fusées, haute d’au moins
+sept étages, se trouve un appareil spatial. Il a plus ou moins la forme d’un avion bien que ces ailes soit
+très courte. Vous montez à bord et rencontrez les autres membres du commando. Ils sont repartis en
+deux groupes. Le premier composé de cinq hommes, très musclés, aux mines patibulaires. Ce sont les
+autres mercenaires. Vous les connaissez tous car vous avez déjà combattu soit à leurs côtés, soit contre
+eux lors de vos précédentes missions. Ce sont tous des brutes épaisses sans aucun sens moral. Le
+deuxième groupe est constitué de cinq hommes et une femme. A côté de vos confrères, les agents de
+sécurité de l’uac semblent frêles et juvéniles. A leurs aspects, vous voyez tous de suite qu’ils n’ont rien
+de redoutable guerrier. Décollage dans dix minutes annonce une voix dans les haut-parleurs. Un des
+mercenaires se lève et s’avance vers vous. Il vous regarde droit dans les yeux et vous dit bonjour.
+Bonjour Zack, lui répondez-vous sur un ton neutre. \n
+
+Zack vous explique que c’est lui qui sera le commandant lors de l’opération. Il emmènera le groupe
+principal à l’intérieur du complexe afin d’éliminer la cible et toutes les personnes qui s’opposeront à
+l’opération pendant que le deuxième groupe gardera le spacio-port afin d’empêcher le chercheur de
+fuir. Il ajoute que si, chez les soldats de fortune, il n’y a que de vrai professionnel, les hommes de l’uac
+ne sont que des guides et ne serviront à rien au combat. Même si vous ne dites rien, vous êtes tout à
+fait d’accord avec lui. Il y a autre chose que tu dois savoir, ajoute-t-il. Les orbites des deux planètes
+imposent d’après ce que m’a dit Billy, même si j’ai rien compris, de réaliser le coup de main dans les
+trois heures qui suivent l’atterrissage si on ne veut pas rester bloqué là-bas plusieurs mois. On va faire
+dans le sale, même dans le très sale. Vu t’es principe, je te propose de rester en arrière avec le petit
+blond et la nénette de l’uac pendant qu’on fait le taf. T'es pas obligé, bien sûr, mais je pense que ce
+serait mieux pour tout le monde.}(sound)*img*
+$Vous êtes d’accord avec lui et que vous acceptez sa proposition$.41
+$Vous n'êtes pas d'accord avec lui et vous refusez.$.28
+
+[2]{Vous commencez à contourner par la droite le gros bloc de roche en vous demandant si Alexandra a
+réussi à rejoindre le sas. Vous vous trouvez bien sentimental aujourd’hui, ce qui est loin d’être une
+quantité chez un mercenaire. Peut-être est-il temps de changer de vie. Vous arrivez de nouveau en vue
+de la tour qui est votre objectif. Sur votre gauche, une immense crevasse coupe la plaine. Si vous aviez
+fait le tour de l’autre côté, vous vous seriez trouvé dans des canyons étroit. Vous vous mettez à
+marcher sur le sable quand vous commencez à vous enfoncer.}(sound)*img*
+$Vous accélérez le pas afin de vous sortir de ce bourbier$.12
+$Vous arretez de bouger et attendez de voir ce qui peut$.45
+
+
+[3]{Vous réfléchissez et concluez que l’itinéraire le moins dangereux est celui qui traverse les cuisines et
+les chambres froides. Vous demandez à Alexandra si elle est en mesure de vous guider. Elle réfléchit
+un moment, puis vous répond qu’elle pense que oui. Elle prend la tête l’arme au poing. Vous vous la
+suivez et vous lui donnez l’ordre de ne JAMAIS PASSER UNE PORTE SANS VOTRE ACCORD. Elle vous
+répond oui d’une voix ferme. Vous êtes impressionné de la manière dont, alors qu’elle n’y a jamais été
+préparé, elle s’adapte aux événements. Elle avance prudemment et vous traversez sans encombre le
+réfectoire. Elle se dirige vers le fond de la pièce et passe derrière une sorte de comptoir. Elle se dirige
+vers une porte et se place à côté en vous la désignant du pouce. Vous la rejoignez et, après avoir pris
+le temps de bien écouter si du bruit provient de l’autre côté, avec une infinie prudence, vous l’ouvrez.
+Il n’y a derrière qu’une cuisine immense qui semble vide de toute personne. Vous faites signe à votre
+coéquipière de ne pas bouger. Même si rien n’indique un danger immédiat, votre instinct développé
+lors de nombreuses années passées sur les champs de bataille c’est réveillé. En restant à couvert, vous
+pénétrez dans ce lieu et en étudiez la disposition. En face de vous se trouve de grands fourneaux. Sur
+votre droite, plusieurs portes donnent sur des chambres froides. Enfin, à votre gauche, vous pouvez
+voir, derrière un espèce de comptoir, des râteliers de cuisine sur lesquels sont accrochés un monceau
+de couteaux. La seule autre porte se situe entre les fourneaux. Vous commencez à vous dire que votre
+instinct vous trompe et que vous êtes vraiment trop soupçonneux. Au moment où vous comptez dire
+à Alexandra de vous rejoindre, la porte se referme et ce verrouille. Vous voilà seul et apparemment
+dans un piège. J’en ai marre d’avoir toujours raison, pensez-vous en retirant la sécurité de votre fusil
+d’assaut.}(sound)*img*
+$Vous pouvez maintenant tentez de traverser la cuisine en courant, par le centre de la pièce.$.30
+$Vous pouvez aussi longez le mur de gauche.$.15
+$Vous pouvez aussi longez le mur de droite.$.47
+
+[4]{Vous sautez en arrière et la mine explose. Vous êtes projeté sur la cloison et vous êtes à moitié
+assommé. Vous vous relevez étourdit mais vivant. Vous constatez que vous n’avez aucune blessure,
+juste des contusions. Vous recommencez à traverser la pièce en faisant, cette fois, attention où vous
+mettez vos pieds. Bien vous en a pris car vous voyez, en travers, un fil de nylon. Vous l’enjambez avec
+prudence et regardez où il est raccordé. Il est connecté aux alimentations de gaz des réchauds. Si vous
+aviez tiré dessus, vous auriez généré une explosion. Vous vous demandez qui, dans le personnel d’un
+laboratoire de recherche, a pu poser un piège pareil. C’est en pleine réflexion que vous passez la porte
+pour vous retrouver dans la galerie d’accès au centre de commande. C’est un grand couloir constitué
+d’une voûte transparente. Vous la traversez en admirant le paysage martien. Une fois entré dans le
+centre d’opération, vous vous retrouvez face à un grand homme. Il mesure près de deux mètres et est
+très costaud. Vous le reconnaissez, il s’agit d’un des mercenaires qui faisait partie de votre escouade.
+Vous faites face à de ‘tof !}(sound)*img*
+$ $.8
+
+[5]{Vous vous retournez vers ‘tof pour vérifier qu’il n’est pas en train de vous préparer un coup fourré de
+plus. Il est toujours couché sur le dos et son teint livide indique que, peu à peu, sa vie quitte son corps.
+Vous aviez envisagé de l’achever mais le fait de le voir dans cet état vous fait renoncer à votre idée. Il
+vous voit et vous dit que vous êtes vraiment trop sensible pour un mercenaire et que, quand vous serez
+rentré sur terre, vous devriez vous trouver une femme et un travail normal. Vous lui demandez si vous
+pouvez faire quelque chose pour soulager ses souffrances. Il vous répond que non et vous dit que si
+vous voulez vous en sortir, vous devrez tuer aussi Titi. Ce dernier a piégé avec des mines et des bombes
+l’étage supérieure et se terre au sous-sol. Vous remerciez ‘tof et vous vous remettez en marche. Vous
+arrivez à une cage d’escalier.}(sound)*img*
+$Vous montez$.31
+$Vous descendez$.9
+
+[6]{Vous ouvrez, à votre tour, le feu vers vos adversaires. Ces derniers sont toujours cachés à l’abri des
+plaques métalliques. Vous videz, un à un, tous les chargeurs en votre possession. Malheureusement
+vous ne parvenez pas à atteindre vos cibles. Zack et son équipier continuent, eux aussi, à tirer. Vos
+agresseurs continuent à vous canarder. Leurs tirs finissent par atteindre Zack et son compagnon qui
+rejoignent l’autre monde. Il se concentre sur vous. Vous reculer sous le feu ennemi et réussissez à
+repasser la porte que vous fermez derrière vous. Vous êtes indemne, miraculeusement. Vous tirez sur
+le système d’ouverture, ce qui a pour effet de bloquer la porte. Vous vous relevez et vous dirigez vers
+les trois agents de l’uac survivants}(sound)*img*
+$ $.18
+
+[7]{Vous entrez dans le bâtiment suivit de vos deux compagnons. Vous franchissez le sas et entrez dans
+une zone pressurisée. Tous trois, vous vous débarrassez de vos combinaisons spatiales et avancez vers
+le fond de la pièce. Vous serrez votre arme entre vos mains, prêt à tirer. Il n’y a aucune trace de vos
+compagnons. Vous passez la porte et pénétrez dans un couloir sombre. Vous marchez lentement, tous
+vos sens aux aguets, anticipant une éventuelle attaque. Rien ne survient et vous progressez
+rapidement vers le centre de la station. Maxime, à voix basse, vous prévient qu’une fois que vous aurez
+passé la prochaine porte, vous vous trouverez dans la zone des laboratoires de recherches. Il ajoute
+que si vous prenez le couloir sur votre gauche, vous pourrez rejoindre les quartiers d’habitation. Vous
+prenez quelques instants pour réfléchir.}(sound)*img*
+$Vous poursuivez vers les laboratoires.$.21
+$Vous obliquez à gauche vers les cabines.$.13
+
+[8]{Tu n’as pas l’air heureux de me voir vous dit ‘tof, sur un ton ou tous le mépris qu’il vous porte s’entend.
+En effet, lui répondez-vous. Vous lui demandez ensuite comment il a fait pour arriver ici et qu’elles
+sont ses vraies motivations. Il se met à rire puis vous répond que quand on sert le chef de la station, il
+est bien plus facile de s’y déplacer et que sa motivation est bien entendu l’argent. « Qu’est-ce qui
+pourrait avoir plus de valeur que l’argent pour un mercenaire ? », vous demande-t-il, puis il ajoute que
+vous ne pouvez pas comprendre car vous vous posez trop de questions sur la morale pour être un vrai
+mercenaire. Vous êtes choqué de ses propos et vous lui demandez pour combien il a trahi et conduit
+à la mort ces anciens amis. Il vous regarde droit dans les yeux et vous répond que vous avez oublié de
+lui reprocher le décès des gamins de l'uac. Il ajoute qu’il est cependant dommage que la nénette y soit
+aussi passé car elle avait vraiment un beau cul. Vous vous préférez ne rien dire. Il ajoute alors que Titi
+Binaire lui a offert dix euros de plus et que, malgré ce que vous pensez, dix euros c’est dix euros. Voyant
+la haine que vous ressentez pour lui sur votre visage, il vous dit qu’il est temps de régler ça en homme.
+Il sort de sa main gauche un couteau de combat et vous menace avec. Vous ne pouvez pas pour
+l’instant voire sa main droite. Il vous dit qu’entre mercenaire il faut régler ça à la loyale.}(sound)*img*
+$Et oui ! Allezvous sortir votre propre couteau et affronter ‘tof a la loyale.$.20
+$Vous pouvez aussi,tel Indiana Jones dans un film, sortir votre révolver et abattre ce soldat de fortune comme une bête,
+jugeant que sa trahison ne mérite rien de mieux. $.42
+
+[9]{Vous ne voulez pas perdre plus de temps au centre de commande car, puisque Titi Binaire est un
+chercheur, pour vous il se terrera dans les laboratoires. L’arme à la main, vous descendez prudemment
+l’escalier pour vous retrouver dans un long couloir étroit fortement éclairé et percé régulièrement côté
+droit par des portes sans poigner. Vous êtes sur un terrain très exposé et vous redoublez de prudence
+en progressant. Quand vous passez devant la première porte, cette dernière s’ouvre silencieusement.
+Vous voyez un laboratoire de recherche totalement désert. Vous progressez et les deux pièces
+suivantes sont exactement semblable. Dans la dernière, vous trouvez deux jeunes femmes en blouse
+blanche qui sont en train de travailler. Vous les menacez de votre arme et les ligotés à l'un des tuyaux
+de la pièce après avoir pris le soin de les bâillonnés. Vous arrivez au fond du couloir qui est clos par
+une autre porte automatique qui, comme les précédentes, coulisse sans bruit. Vous entrez, puisqu’il
+n’y a pas d’autre chemin, à l’intérieur d’une pièce ou les ténèbres règnent. Vous vous mettez à la
+recherche d’un interrupteur mais, avant que vous l’ayez trouvé, vous recevez un coup sur la tête, parderrière, qui vous assomme.}(sound)*img*
+$ $.14
+
+[10]{Vous vous installez dans un fauteuil et vous attachez. Votre navette est placée En position verticale et,
+moins de cinq minutes plus tard, la poussé du décollage vous écrase sur votre siège. Vous perdez
+connaissance et quand vous retrouvez vos esprits, tout le monde est encore évanoui. Peu à peu, tous
+reprennent conscience et les discussions commencent. Le pilote annonce que le vol durera une
+huitaine d’heures. Vous fermez les yeux et vous vous endormez pour être en pleine forme une fois
+posé sur le sol de Mars. Une nouvelle annonce de votre pilote, vous prévenant que les manœuvre
+d’atterrissage débutent vous réveille. Tous vos compagnons sont en pleine forme. Les mercenaires
+parlent et rient tandis que les agents de l’uac restent silencieux dans leur coin. Zack prend la parole, à
+voix haute, et explique que pour la mission, qui consiste à neutraliser Titi Binaire, il va falloir vous
+séparer en deux groupes. Le premier entrera à l’intérieur du centre de recherche et le fouillera jusqu’à
+trouver votre cible. Pendant ce temps le deuxième, composé de Rachid, du blondinet et de la nénette
+de l’uac, restera en combinaison spatial sur l’astroport afin de couper la retraite au chercheur fou.
+Rachid, après s’être levé, regarde ces deux équipiers avec un sourire méchant. Il est évident qu’il a
+une idée sur la manière de tuer le temps. Un autre mercenaire, un grand con surnommé ‘tof, lui dit
+qu’il a bien de la chance et quelle va crier de plaisir. La fille n’entend heureusement pas ces propos
+mais rien que le regard que lui a jeté Rachid a suffi à la faire pâlir. Vous n’êtes, tout de fois, pas prêt à
+revenir sur votre décision. D’une part cela risquerait de vous faire perdre une partie du respect que
+l’on vous porte dans la profession. D’autres part, vous êtes là pour prendre le maximum d’argent et
+louper une partie des prises de guerre pour protéger une femme qui n’est, ni votre sœur, ni votre
+mère, est inenvisageable. Une fois le vaisseau spatial posé, vous rejoignez votre groupe avec votre fusil
+d’assaut à la main. Zack ordonne à un des gardes, un petit gars nommé Virgile de prendre la tête. Avec
+son arme de poing à la main, il passe le premier dans le sas d’accès. Une fois ce dernier franchit, vous
+quittez tous vos combinaisons et reprenez votre avancée en droite ligne vers la zone des laboratoires.
+Ce coup-ci, c’est un autre garde qui est en tête, un gamin de dix-neuf ans prénommé Laurent, avec des
+lunettes. Il ouvre la porte du laboratoire et, à cet instant le bruit de plusieurs armes automatiques
+retentit. Laurent est rejeté en arrière après avoir reçu plusieurs balles dans le corps.
+Zack et trois des 
+mercenaires se ruent dans le laboratoire pour affronter l’ennemi alors qu’un des mercenaire et les
+agents de sécurité reculent. Les bruits de ce qui vous semblent plusieurs dizaines d’armes
+automatiques se font maintenant entendre.}(sound)*img*
+$Vous rejoignez vos frères d'armes au combat$.24
+$Vous trouvez un place dans le couloir d'accès afin de couvrir leur éventuelle retraite$.36
+
+[11]{Vous vous engagez dans la coursive latérale afin de continuer à explorer le laboratoire spatial. Tout à
+coup, votre radio se met à grésiller. Vous vous arrêtez afin d’entendre ce qui est émis. Vous entendez
+une voix de femme dire qu’il l’a tué alors qu’il n’avait rien fait. Un homme répond en riant qu’il avait
+mérité son sort car il était là. Il n’avait qu’à aller aux toilettes pendant que je m’occupais de toi, ajoutil avec un nouveau rire méchant. A cet instant vous reconnaissez la voix de l’homme. Il s’agit de Rachid,
+le mercenaire qui dirige l'arrière garde. La femme qui parle ne peut donc être que celle que le défunt
+Zack désignait par le sobriquet « nénette ». Vous vous figez sur place, vous demandant si vous devez
+poursuivre votre route ou bien tourner les talons et aller remettre de l’ordre. Vous entendez l’homme
+ordonner à la jeune femme de se taire et, que de toute façon, sa bouche serait bientôt utile à autre
+chose. Elle implore alors sa pitié. Rachid se met à rire et lui rétorque qu’il est un mercenaire, un vrai
+dur et que de toute façon il ne savait même pas ce que voulait dire le mot « pitié ». Il ajoute qu’elle
+n’est qu’une pute et qu’il allait lui montrer ce qu’on faisait avec les salopes. Vous bouillez
+intérieurement et de votre pouce vous coupez votre radio. D’un pas rapide, à la limite de la marche et
+de la course, vous retournez dans le hall de débarquement. Vous arrivez face à face avec le mercenaire
+qui, après lui avoir fait ôter sa combinaison spatiale, traîne la jeune agente de sécurité par les cheveux
+vers un sofa. Il vous regarde en souriant et vous dit de ne pas vous inquiéter car il y en aura pour tout
+le monde. N’en tenant plus, vous lui assenez un grand coup de poing en pleine face. Il lâche les cheveux
+de la fille qui, à quatre pattes, va se cacher dans un coin. Le soldat de fortune se relève et vous regarde
+droit dans les yeux. Alors, tu veux te la garder pour toi tous seul, vous demande t’il. Il sort alors un
+grand couteau de combat et s’avance vers vous dans l’intention de s’occuper de vous. Pendant une
+seconde, vous envisagez de le combattre à la loyale mais ce qui se trouve en face de vous n'a, à part
+son apparence, rien d’humain. Il ne s’agit que d’une bête féroce. Il se met à ricaner et vous dit qu’il y
+a une chose qu’il préfère, encore, à violer les femmes, c’est tuer. Vous dégainez votre révolver et
+l’abattez comme un chien. Ensuite vous vous dirigez vers la femme qui, croyant avoir affaire à un autre
+sadique, tremble de peur recroquevillée dans l’angle de la pièce. Vous lui tendez la main en lui disant
+d’une voix que vous espérez douce, qu’elle n’a plus rien à craindre. Elle se relève et se jette dans vos
+bras. Elle vous serre tout en pleurant. Vous lui laissez le temps de se calmer puis vous lui demandez
+ce qui s’est passé. Elle vous raconte que la chose (elle parle de Rachid) c’était approché par-derrière
+de Maxime et lui avait brisé le coup. Ensuite, sous la contrainte de son arme, il l’avait forcé à entrer
+dans le hall et à enlever son scaphandre. Il avait alors rengainé son pistolet et avait décidé de la forcer
+à coucher avec lui. Elle vous remercie de l’avoir sauvé et se présente. Elle se prénomme Alexandra.
+Vous lui racontez ce qu’il est advenu de votre groupe et la disparition mystérieuse de ‘tof. Elle vous
+écoute en silence et dans ces yeux vous voyez naître une détermination sans faille. Elle réfléchit et
+vous dit que, puisque vous avez bloquez l’accès direct aux laboratoires, vous ne pouvez d’où vous vous
+trouvez que traverser les quartiers d’habitation. Vous vous y rendez et les traversez sans qu’aucun
+incident ne surviennent. Vous arrivez à l’autre extrémité et vous retrouvez devant un sas alors qu’à
+droite un escalier descend. Vous demandez alors à votre équipière par où vous devez passer. Elle vous
+dit qu’il existe deux trajets possibles. Le premier consiste à revêtir des combinaisons spatiales, dans le
+sas, et rejoindre par l’extérieur l’autre bâtiment. La seconde consiste à passer par les cuisines.}(sound)*img*
+$Vous décidez de sortir de la station$.39
+$Vous préferez vous frayez un chemin à travers les cuisines$.3
+
+[12]{Vous vous mettez à courir vers votre objectif. Plus vous progressez et plus vous vous enfoncez. Vous
+êtes au cœur d’un banc de sable mouvant. Le sable vous arrive d’abord au genou puis à la ceinture et
+pour finir vous ensevelis totalement. Votre combinaison spatiale vous protège du sable et tant qu’il
+vous reste de l’oxygène, vous continuez à respirer. Ensuite, vous mourrez par asphyxie. }(sound)*img*
+//MOOOOORT
+
+[13]{Connaissant la mentalité brutale et violente des mercenaires en général et de Zack en particularité,
+vous êtes sûr qu’ils se sont jetés, tête baissée, vers la zone où se déroule les recherches. A la loyale, il
+est totalement impossible que des laborantins est battu ces guerriers d’élite. Il est donc, pour vous,
+évident que vos infortunés compagnons sont tombés dans un piège. D’un mouvement de la main, vous
+ordonnez à vos compagnons de prendre le passage de gauche. Si Alexandra obtempère en silence,
+Maxime vous répond qu’il est impossible qu’il abandonne ces collègues. En désobéissance avec vos
+ordres, il se rue en courant vers le secteur des labos. Vous essayez de le rattraper pour l’en empêcher
+mais, avant que vous ayez eu le temps d’intervenir, il ouvre la porte. A cet instant le bruit d’une arme
+à feu résonne et une balle l’atteint en pleine tête. Il tombe à la renverse, tué sur le coup. Vous attrapez
+la main d’Alexandra et la tirez vers la zone d’habitation. Elle est complètement affolée et se laisse faire.
+Vous fermez, derrière vous, la porte et brisé de la crosse de votre arme la commande d’ouverture.
+Ensuite vous interrogez la jeune femme sur la topographie des lieux. Elle reste muette dans un état
+second. Vous la secouez afin de lui faire reprendre ces esprits. Elle réagit bien et après avoir pris le
+temps de réfléchir, elle vous dit qu’il n’existe que deux voies pour quitter cette zone puisque celle que
+vous venez d’emprunter est maintenant bloquée. Soit vous traversez la zone des cuisines, soit vous
+passez par la surface en combinaison spatial.}(sound)*img*
+$Vous optez pour les cuisines$.3
+$Vous optez pour la surface$.39
+
+[14]{Vous reprenez conscience et ouvrez les yeux. Vous vous trouvez dans un laboratoire, assis et attaché
+sur une chaise. En face de vous un homme d’une cinquantaine d’années vous fait face. Il porte un jean
+qui a visiblement connu des jours meilleurs et une chemise rose, froissée, qui sort de son pantalon,
+ainsi qu’une blouse d’un blanc immaculé. Vous vous trouvez en face de Titi Binaire. Ce dernier vous
+regarde, l’air amusé, avant de se lancer dans un long monologue : « franchement, je ne pensais pas
+qu’un seul mercenaire arriverait jusqu’ici. Tu as vraiment la peau dure, mais ta dernière heure est
+arrivée. Comme dans les films de James Bond, je vais tous t’expliquer avant de t’abattre comme un
+chien. Ne rêve cependant pas. Ici nous sommes dans la réalité et non dans une fiction hollywoodienne
+donc personne ne viendra à ton secours. La première chose qu’il faut que tu sache, c’est que Billy
+Ponts, qui t’as envoyé ici, est mon meilleur ami. Il n’a jamais eu l’idée de stopper mes recherches, ni
+moi-même. Il a recruté les six meilleurs mercenaires pour montrer aux gouvernements qu’il avait fait
+le maximum et qu’ils devaient payer la rançon. Ensuite nous nous serions partagés l’argent et j’aurais
+acheté une île pour me retirer. Le plus beau est que les recherches que nous avons menées ici n’ont 
+abouti à rien. Je dois en plus vous remercier d’avoir éliminé ‘tof qui a mis au point la destruction de
+votre escouade. Nous n’aurons pas à le payer et en plus, cela fait un témoin en moins. Maintenant le
+moment est venu de mourir ! Il se met à rire d’un rire qui est à la fois méchant et cruel. Il braque le
+canon de son arme sur votre front et vous voyez son index appuyer de plus en plus fort sur la détente. }(sound)*img*
+$ $.48
+
+[15]{Vous rampez vers la gauche de la pièce et, tout à coup, la porte de la chambre froide centrale s’ouvre
+et deux hommes vêtus en tenu de cuisinier en sortent armés de fusils d’assaut. Ils ouvrent le feu sur
+vous sans aucune sommation. Vous avez juste le temps de vous cacher derrière l’espèce de comptoir
+qui, heureusement, est en métal. Vous ripostez, mais la porte de la chambre froide est faite de
+plusieurs épaisseurs de tôles et est littéralement blindée. Vos agresseurs se cachent derrière. Et
+riposte. Puisque vous avez tous des abris solides et ne vous exposez pas, l’affrontement peut durer
+longtemps.}(sound)*img*
+$Vous essayez de leur envoyer une grenade$.23
+$Vous préférez utiliser uniquement votre fusil mitrailleur, misant sur le fait que vos ennemis ne sont pas, à
+votre différence, des soldats professionnels et finiront donc vite par commettre une erreur$.19
+
+
+[16]{Vous accélérez le pas et tournez un nouveau coude du cayon. Là le chemin monte en pente douce vers
+la tour de commandement. Finalement, ce sera bien plus rapide que vous pensiez. A l’instant où cette
+pensée se forme dans votre tête, des pierres et des rochers vous tombe dessus. Vous levez la tête et
+constatez que deux personnes en combinaison spatial, au-dessus de vous, vous ont fait tomber dessus
+toutes cette pierraille. Vous dégainez votre fusil et envoyez des décharges d’énergie aux deux
+spationautes, les abattant sur le champ. Vous reprenez votre marche et vous vous apercevez que l’un
+des cailloux a fendu la visière de votre casque. L'air s’échappe par la fissure. Vous courrez vers le
+bâtiment en face de vous, qui constitue votre seul refuge mais, à mi-chemin, vous tombez, privée
+d’oxygène }(sound)*img*
+
+[17]{Vous vous asseyez à l’un des bureaux et commencer à fouiller l’ordinateur. Vous avez rapidement
+accès à la majorité des caméras de vidéosurveillance de la station de recherche mais celles du
+laboratoire ont été désactivées. Puisque vous êtes là, vous essayez de voir si, sur l’une d’elles, vous
+pouvez apercevoir Alexandra. Vous ne la voyez nulle part. Par contre, au bout de plusieurs dizaines de
+minutes de recherche, vous tombez sur une vue du spacio-port ou vous assister au décollage de votre
+vaisseau. Vous vous ruez vers les fenêtres pour constater qu’il s’agit bien de la réalité. Vous vous
+remémorez le briefing de la mission et de la faible fenêtre horaire de celle-ci. Par tous les haut-parleurs
+de la base, vous entendez résonner une voix. Je suis Monsieur Binaire, maître de cette station,
+annonce-t-elle. Votre navette est repartie sur Terre et suite aux orbites de nos deux astres, pendant
+près de six mois, aucun vol ne sera possible. Toi, mercenaire, il ne te reste plus qu’à te rendre car sans
+mon aide tu ne pourras pas survivre jusque-là. Jette ton arme et descends les mains sur la tête dans le
+laboratoire ! Puisque vous n’avez pas le choix, vous obéissez. Jusqu’à votre mort, vous servirez de
+cobaye aux expériences du chercheur dément… }(sound)*img*
+
+[18]{Vous vous avancez vers les trois gardes qui sont étrangement amorphes dans un coin. Vous avez la
+stupeur, en les examinant, de constater que deux d'entre eux sont décédés d’une balle dans la tête
+alors que la troisième, Virgile, est lui grièvement blessé. Vous l’interrogez pour savoir ce qui s’est passé.
+Il vous explique que le grand mercenaire, au début de la fusillade, est venu vers eux comme pour leurs
+indiquer quoi faire. Il a sorti un pistolet avec silencieux et les a exécutés. Avec votre expérience des
+divers champs de bataille que, lors de votre vie, vous avez fréquenté, vous voyez que, même si ces
+blessures sont graves, elles ne sont pas létales. Vous vous demandez quoi faire maintenant. La pensée
+de Rachid avec la jeune femme vous revient et vous vous demandez si vous devez retourner sur la
+piste d’atterrissage pour voir ce qui s’y passe où emprunter l’autre couloir afin de poursuivre votre
+avancée dans la station.}(sound)*img*
+$Vous choisissez cette dernière solution$.11
+$Vous voulez vérifier que le mercenaire ne se comporte pas comme un satyre avec la jeune femme$.34
+
+[19]{Lancez une grenade ne vous paraît pas être une bonne idée. En effet si, au moment de votre lancé,
+vos agresseurs referment la porte votre explosif rebondira dessus et vous reviendra en pleine face.
+Vous continuez donc à tirer sur les deux hommes qui ripostent. Vous videz ainsi plusieurs chargeurs
+et, puisque rien ne change, vous reconsidéré l’idée d’utiliser une grenade. Vous n’avez
+malheureusement pas le temps de mettre votre projet à exécution puisque l’un de vos ennemis vide
+une rafale de son arme sur le râtelier à couteaux qui se trouve juste au-dessus de vous. Les lames
+affûtées vous tombent sur vous et vous blesse à plusieurs reprises. Vous êtes mis hors de combat et
+lâchez votre arme. Vous voyez vos deux ennemis s’approcher en riant. Vous sortez de son holster
+votre arme de poing et tuer le premier. Le second vide le chargeur de son ak47 dans votre buste, vous
+achevant.}(sound)*img*
+
+[20]{Vous êtes, malgré le fait que vous êtes un mercenaire, avant tous un homme d’honneur. Vous ne
+pouvez combattre un de vos semblables qu’à la loyale. Vous jetez votre fusil au sol et vous dégainez
+votre couteau. En vous voyant faire ‘tof éclate de rire. Tu es un vrai homme avec des principes, vous
+dit-il en souriant. Vous entendez de l’ironie dans sa voix. Tout à coup une évidence vous frappe. Vous
+avez déjà travaillé plusieurs fois avec ‘tof, ce qui n’est pas des bons souvenirs, et vous n’avez jamais
+remarqué qu’il était gaucher. Vous regardez alors sa main droite et vous le voyez brandir un révolver.
+Moi par contre, je n’ai aucun principe, ajout il en vous tirant une balle entre les deux yeux.}(sound)*img*
+
+[21]{Vous voulez, en premier lieu découvrir, ce qui est arrivé à vos compagnons d’armes. Connaissant leur
+mentalité et leur manière d’agir, vous savez qu’ils ont foncé droit dans les laboratoires. Il vous paraît
+donc logique, pour les retrouver, de suivre la même route. Vous dites ce que vous comptez faire à vos
+deux compagnons. Avant même que vous ayez eu le temps d’ajouter quelques choses, Maxime passe
+sa main devant le capteur qui commande l’ouverture de la porte. Cette dernière coulisse
+silencieusement et avant que vous ayez eu le temps de lui hurler NON, il entre dans le laboratoire.
+Vous entendez alors les bruits de plusieurs armes automatiques retentir. Prudemment, vous vous
+approchez de la porte et, sans la franchir, vous jetez un coup d'œil à l’intérieur. Le corps de votre guide
+est étendu inerte devant vous. Vu le nombre de blessures qu’il a reçu, vous savez qu’il a rendu l’âme.
+Vous voyez également, plus loin dans la pièce, les corps des quatre agents de l'uac ainsi que celui de
+quatre des mercenaires. Il en manque un. Vous fermez les yeux pour vous rappeler qui était ces cinq
+hommes. C’est le grand ‘tof qui est manquant. C’est un homme de plus d’un mètre quatre-vingt-dix,
+qui est toujours le premier pour la bagarre. Il est vraiment étonnant aujourd’hui qu’il est, non
+seulement, abandonné ces frères d’armes mais, qu’en plus, il est couru dans l’autre sens. Vous
+refermez la porte et, d’un coup de la crosse de votre arme, vous brisez le système de verrouillage. La
+porte est ainsi définitivement close. Vous remontez le couloir pour rejoindre Alexandra. Elle est visiblement en état de choc et vous êtes obligé de la secouer pour la faire réagir. Vous n’êtes pas loin
+de la gifler mais elle retrouve heureusement ces esprits avant. Elle vous explique qu’il existe, depuis le
+point ou vous trouvez, deux moyens de poursuivre votre route dans la station. Vous devez traverser
+les quartiers d’habitation qui sont accessibles par le petit passage à gauche et de là vous pourrez, soit
+rejoindre par la surface l’autre partie de la station, soit traverser, après les quartiers d’habitation, les
+cuisines. Vous parcourez la zone des cabines sans rencontrer âme qui vive puis vous arrivez au sas qui
+permet de rejoindre la surface. A l’intérieur de ce dernier sont stockés plusieurs scaphandres spatiaux.
+A côté se trouve la porte menant aux cuisines.}(sound)*img*
+$Vous choisissez les cuisines$.3
+$Vous choisissez le sas$.39
+
+[22]{Vous vous souvenez des paroles que Zack avait prononcé pendant le vol. A cause de problèmes
+d’orbite, la mission devait être brève. Apres ce que vous avez entendu, vous n’êtes pas sûr que les
+informations qui étaient en sa possession étaient justes. Vous êtes fou de rage que vos pareil ai été
+envoyés ici juste pour mourir. Vous sautez dans le véhicule et vous avez la joie de constater que les
+contrôle sont semblables à celles d’une voiture. Vous pressez le bouton du démarreur et vous voyez
+les portes du hangar s’ouvrir. Vous enfoncez la pédale de droite et filez comme un missile vers la tour
+de commandement. Vous vous imaginez presque au volant de votre vieux cabriolet. Vous vous
+demandez si la jeune agente de sécurité de l’uac a réussi à rejoindre la station et est encore en vie. Il
+y a vraiment eu trop de mort, sans raison lors de cette opération. Le pire est que vous doutez que cela
+s’arrête maintenant. Face à vous, vous voyez une bonne douzaine de cosmonautes arrivez à pied. Le
+bâtiment de communication devait être doté d’un système d’alarme qui a prévenu vos ennemis de
+votre présence. Ils sont tous armés de fusil à énergie semblable à celui qui est posé sur le siège à côté
+de vous. Vous n’avez, après ce que vous avez entendu, aucune envie de négocier ou discuter avec ces
+personnes qui sont là uniquement pour vous liquider. Vous accélérez encore en direction du groupe
+et leur rentré, littéralement, dedans. La vitesse avec laquelle vous les percuter les a empêché d’utiliser
+leurs armes. Plusieurs d'entre eux sont projetés soit en l’air, soit au loin. Vous ne ralentissez, prenant
+le plus d’avance possible pour rejoindre votre but. Vous quittez votre véhicule pour vous ruez dans le
+sas. Une fois la pression équilibrée, vous détruisez le système de la porte extérieure, bloquant
+l’équipement d’intervention dehors. Vous pénétrez enfin dans le poste de commandement. Un
+homme de grande taille, musclés, vous attend avec un rictus au visage. Vous le reconnaissez
+immédiatement puisqu’il s’agit d’un des mercenaires de votre escadre. Il s’agit d’un homme qui sous
+des airs doux et gentil est, en fait un vrai menteur sans aucun honneur ni morale. Vous faites face à
+‘tof.}(sound)*img*
+$ $.8
+
+[23]{Vous attrapez à votre ceinture une grenade alors que vos agresseurs vous arrosent copieusement de
+leurs armes automatiques. Vous la dégoupillé et, après avoir compté jusqu’à trois, la lancez dans leur
+direction. Voyant le danger, ils essaient de refermer la porte mais, avant qu’ils aient eu le temps, votre
+projectile pénètre dans la chambre froide. L’explosion qui s’est produite dans un lieu clos à un effet
+dévastateur et les deux hommes sortent, mourant. Vous vous relevez prêts à replonger à l’abri, mais
+rien ne se passe. Vous allez vérifier que vos agresseurs ont bien rejoint leurs ancêtres puis vous
+retournez à la porte qui vous a permis d’entrer afin de permettre à Alexandra de vous rejoindre. Cette
+dernière est complètement bloquée et vous n’avez plus d’autres choix que de traverser la pièce afin
+de continuer votre route. Vous traversez un grand couloir formé d’une immense voûte transparente
+et vous pénétrez dans le centre d’opération de la station. Là, en face de vous, se tient un homme d’un
+mètre quatre-vingt-dix qui vous attend en souriant. Vous le reconnaissez immédiatement puisqu’il
+s’agit de ‘tof, l’un des mercenaires de votre équipe.}(sound)*img*
+$ $.8
+
+[24]{Vous passez la porte pour rejoindre vos frères d’armes. Vous vous trouvez dans une grande pièce
+rectangulaire. En face de vous, protégé par des barricades métalliques, plusieurs personnes tirent sur
+vos compagnons. Vous êtes tombé dans un piège. L’adversaire à une position avantageuse. Vous,
+vous n’avez rien pour vous abriter. Deux mercenaires gisent déjà au sol, mortellement touché. Zack et
+son dernier équipier tirent à volonté. Vos ennemis vous repèrent et vous prennent pour cible. Il vous
+faut réagir au plus vite afin de ne pas succomber. Lancez une pièce.}(sound)*img*
+/if €2€=1
+    $ $.38
+else
+    $ $.6
+
+[25]{Vous commencez à contourner par la gauche la météorite. Ce rocher est une vraie montagne et le choc
+avec la surface a dû être d’une violence extrême. Au fur et à mesure que vous le contournez, vous
+vous enfoncez dans un espèce de canyon. La configuration des lieux est parfaite pour une embuscade
+et votre instinct vous met en garde. Dans le passé, vous avez déjà eu ce genre de sensation et certaines
+fois elle était justifié alors que d’autres, non. Vous hésitez à rebrousser chemin pour contourner le roc
+par la droite. 
+Vous poursuivez votre avancée dans le canyon. Celui-ci semble récent. Il doit être l’un des effets de
+l’impact. Il mesure environ un mètre vingt de large et plus de trois mètres de haut. Sa longueur, en
+raison de ses nombreux méandres, est impossible à estimer. A chaque coude, vous vous plaquez à la
+paroi pour jeter un coup d’œil furtifs avant d’avancer. Dans ces conditions, vous êtes loin de rejoindre
+la tour de contrôle et vous commencez à vous demander si votre réserve d’oxygène sera suffisante. Il
+vous semble percevoir, au-dessus de vous, une ombre qui bouge mais quand vous levez la tête, vous
+ne voyez rien ni personne. Vous vous rendez compte que le fait d’être privé, par votre combinaison
+spatiale, de tout ouïe est pour vous un vrai handicap.}(sound)*img*
+$ Vous rebroussez chemin pour contourner le roc par la droite$.2
+$ Vous hésitez, maintenant, entre accélérez le pas afin d’arriver tant qu’il vous reste de l’oxygène au cas où le chemin continuerait d’être aussi difficile$.16
+$ Vous vous plaquez à la paroi et restez immobile, jugeant le risque d’embuscade plus probable que celui d’asphyxie.$.33
+
+[26]{Vous ripostez aux tirs de vos agresseurs. Ces derniers s’abritent derrière le comptoir qui est en métal,
+puis riposte. Il est évident que votre protection durera bien moins longtemps que la leurs. Bientôt
+vous serez à découvert et une cible parfaite. Il vous faut, de toute urgence, trouver une solution avant
+d’y laisser votre peau et rejoindre vos frères d’armes. Tout à coup, dans votre esprit, une idée germe.
+Au mur, derrière vos agresseurs, est suspendus une complète collection de couteaux qui ont l’air
+parfaitement affûté. Vous mettez un nouveau chargeur dans votre fusil d’assaut et balayez, d’une
+rafale, le râtelier. Les couteaux se détachent et tombent sur vos agresseurs. Ces derniers arrêtent de
+tirer. Vous attendez quelques minutes et, puisque vos ennemis ne se manifestent plus, vous vous
+relevez. Aucuns tirs n’accueillent votre réapparition. Vous traversez la pièce pour aller voir ce qui se
+passe derrière le comptoir. Vous y trouvez trois hommes vêtus de tenues de cuisiniers et armés de
+ak47. Ils ont tous été grièvement blessés par la chute des couteaux. Vous dégainez votre arme de
+poing et les achevez. Ensuite vous retournez à la porte qui vous a permis d’accéder ici pour permettre
+à Alexandra de vous rejoindre mais cette dernière est complètement bloquée. Vous abandonnez et
+rejoignez l’autre porte qui, elle, ne vous oppose aucune résistance. Vous traversez alors un grand
+couloir composé d’une voute transparente qui vous permet d’admirer le paysage martien. Une fois la
+porte opposée franchit vous pénétrez dans la salle de contrôle de la station. Un homme grand, fin et
+musculeux vous fait face. Vous le reconnaissez immédiatement. Il s’agit de ‘tof, l’un des mercenaires
+de votre escouade.}(sound)*img*
+$ $.8
+
+[27]{Vous regardez vos deux compagnons et leur criez qu’il faut se tirer de là. Vous faites demi-tour et
+courrez vers le vaisseau. Vous voyez alors la porte de ce dernier se refermer devant vous. Dans votre
+radio vous entendez la voix du pilote qui vous dit qu’il est HORS DE QUESTION que vous vous repliez.
+Il ajoute qu’il a reçu ordre de ne redécoller que quand la mission sera remplie. Vous avez alors la
+pulsion de tirer sur le poste de pilotage mais vous vous contrôlez. Si vous ouvrez le feu, vous resterez
+bloqué ici. Vous regardez les deux agents de sécurité et leurs dites que vous n’avez plus le choix et que
+vous devez entrer dans le laboratoire. Ils hochent la tête en signe d’approbation mais vous voyez sur
+leurs visages qu’ils sont morts de peur.}(sound)*img*
+$ $.7
+
+[28]{Comme tu veux, vous répond Zack. Je vais confier les deux gamins à Rachid. Un nouveau frisson vous
+parcourt l’échine car ce mercenaire est le pire de tous ceux que vous connaissez. Certes c’est un grand
+guerrier sur qui on peut compter pour éliminer ses adversaires. Mais c’est également le pire de ce qui
+se fait dans le milieu. Il confond souvent combat et tuerie éliminant les hommes qu’ils soient ennemis,
+civil ou même alliés. Il n’a aucun respect pour les femmes qui ne sont là, d’après lui, que pour lui donner
+du plaisir volontairement ou non. Vous jetez un regard sur celle que Zack a désigné sous le terme de
+« nénette ». Il s’agit d’une fille qui doit avoir tous juste la trentaine. Elle est mince avec des traits doux
+et des longs cheveux d’un noir profond. Elle porte un maquillage léger et élégant. Le genre de
+personne qui ne devrait jamais être en contact avec vos condisciples ou vous-même. Voyant votre
+regard, Zack vous dit qu’il voit à quoi vous pensez et vous demande à qui vous confieriez l’arrière garde.
+Vous regardez les quatre autres pour vous apercevoir qu’ils ne valent pas mieux que Rachid. Vous voilà
+devant un dilemme moral, un comble pour un soldat de fortune ! Vous pouvez toujours prendre vousmême le poste dans la deuxième équipe, protégeant ainsi la jeune femme. Ou bien vous dire que si
+elle est là c’est qu’elle est assez grande pour se défendre seul de Rachid et que ce n’est pas votre
+problème. Vous irez donc avec le gros des forces afin d’être sûr d’avoir toute votre part dans les prises
+de guerre.}(sound)*img*
+$Vous restez en arrière$.41
+$Vous ne restez pas en arrière$.10
+
+[29]{Le sort de ‘tof vous importe peu mais il y a déjà eu trop de mort depuis que vous vous êtes posé sur
+Mars. Une exécution de plus n’est pas utile et vous n’avez jamais aimé donner la mort sans raison.
+Vous examinez la pièce et découvrez une cage d’escalier. Les panneaux indicateurs disent qu’audessus de vous se trouve le pc sécurité alors qu’en dessous, c’est les laboratoires de recherches. En
+lisant les mots Pc sécurité vous vous demandez ce qu’est devenu Alexandra et si elle va bien. Ça ne
+vous ressemble pas beaucoup de faire preuve de sentimentalisme lors d’une mission et cela
+commence même à vous inquiéter. Vous devez maintenant choisir ou chercher ce Titi Binaire qui est
+votre cible et qui est également l’homme qui à acheter ‘tof afin que ce dernier vous trahisse.}(sound)*img*
+$Vous gravissez l'escalier$.46
+$Vous descendez l'escalier$.9
+
+[30]{Vous essayez de rouvrir la porte pour permettre à l’agent de sécurité de l’uac de vous rejoindre mais
+rien ni fait. Cependant, la cuisine semble déserte. Sur vos garde et arme en main vous vous avancez
+vers l’autre porte, à l’opposé. Tout à coup, vous entendez un bruit métallique sous votre ranger. Vous
+avez malencontreusement marché sur une mine qui était enchâssé dans le sol. Dès que vous lèverez
+votre pied, elle explosera. Il vous faut, au plus vite, prendre une décision.}(sound)*img*
+$Vous faites un bon vers l’arrière afin de vous abriter derrière le comptoir$.4
+$Vous préferez courir vers l'autre porte$.44
+
+[31]{Vous êtes convaincu qu’alors qu’il était à l’article de la mort, ‘tof voulait vous emmener avec lui et que
+le sous-sol n’est qu’un coupe-gorge. Donc puisqu’il vous a dit de descendre, vous prenez la décision de
+monter. Arrivé à l’étage supérieure, vous ne voyez personne. L’arme à la main, vous fouillez la pièce
+quand diverses charges explosives s’activent, vous envoyant en orbite.}(sound)*img*
+
+[32]{Vous regardez l’homme droit dans les yeux et lui demandez s’il pense que les mercenaires n’ont pas
+de cerveau. Vous savez que la Nasa a envoyé des hommes sur la Lune et que Virgin envisage de faire
+du tourisme orbital mais vous êtes SÛR que aucun être humain n’a posé le pied sur Mars. Il est pour
+vous totalement impossible qu’une telle expédition ait été conduite en secret. Billy sourit et vous
+répond qu’à vous, on ne la fait pas. Il vous remercie de votre visite puis appel son chauffeur pour qu’il
+vous reconduise à l’aéroport. Pendant le vol de retour, vous vous remémorez ce qui vient de se passer
+et surtout le sourire narquois que monsieur Ponts arborait quand vous avez mis en doute ces dires.
+Vous commencez à vous demander s’il vous mentait.}(sound)*img*
+$Vous voulez le savoir, vous pouvez toujours remontez le temps et accepter l’engagement$.1
+$Vous ne voulez pas savoir$.99
+
+[33]{Même si vous vous êtes déjà trompé, généralement votre instinct est juste. Vous vous plaquez à la
+paroi droite du canyon et attendez de voir s’il y a quelqu’un au-dessus. Vous savez bien que vos
+réserves en oxygène ne sont pas illimitées et que vous ne pourrez pas rester longtemps là. Moins de
+trente secondes plus tard, vous voyez une ombre passer au-dessus de vous. Il y a bien quelqu’un !!!
+Vous prenez votre fusil stellaire, remerciant intérieurement votre coéquipière de vous l’avoir fait
+prendre, et prêt au combat, vous avancez en restant collé à la paroi. Vous passez un coude et vous
+vous retrouvez sur une rampe ascendante vous permettant de quitter les cayons. En face de vous, se
+dresse la tour des communications. La route pour la rejoindre devrait être rapide et vous avez
+largement le temps de vous occuper des gens qui vous surplombent. Tapis dans l’ombre, vous essayez
+de repérer vos adversaires. Ces derniers ne vous ayant pas détecté ne font aucun effort pour cacher
+leurs présences. Vous vous rendez vite compte qu’ils ne sont que deux. Il se promène sur le haut de la
+crête et constitue, pour un guerrier comme vous qui a déjà lors de sa vie tuée de nombreux ennemis,
+une cible parfaite. A l’aide de votre arme, vous vous débarrassez de ces gêneurs puis reprenez votre
+chemin. Vos pensées vont du nombre de mort depuis que vous avez posé le pied sur la planète rouge,
+à vos motivations. Vous vous dites que si vous commencez à penser à cela, il est probablement temps
+de quitter le métier de soldats de fortune pour un autre plus rationnel. Vous pensez ensuite à la
+survivante de l’équipe des agents de sécurité de l’uac. Vous vous demandez si, avec sa combinaison
+endommagée, elle a pu rejoindre la zone d’habitation de la station. Vous vous demandez aussi
+comment elle peut supporter les événements alors qu’elle n’y est pas du tout préparée, puisqu’ils vous
+font réfléchir. Ces pensées occupent votre marche jusqu’au sas donnant accès au poste de
+commandement. Une fois celui-ci franchis et votre combinaison spatiale ôté, vous entrez à l’intérieur.
+Un homme de grande taille aux bras très musclés vous fait face. Vous le reconnaissez immédiatement. Il s’agit d’un des mercenaires de votre escouade. Le nommé ‘tof. Un homme d’aspect gentil, mais
+menteur comme un arracheur de dents.}(sound)*img*
+$ $.8
+
+[34]{Il y a déjà eu beaucoup trop de mort lors de cette mission. Bien plus que dans n’importe qu’elle autre
+auxquels vous ayez participé. Il n’est pas question d’ajouter un viol et peut-être un ou deux morts de
+plus. Rachid est le plus dingue de tous les mercenaires que vous ayez croisé dans votre vie. C’est un
+psychopathe et un détraqué sexuel qui fait la guerre plus pour le plaisir de tuer les hommes et d’abuser
+des femmes que pour l’argent. Vous faites machine arrière et retourner vers la piste de décollage.
+Arrivé dans le hall de débarquement-embarquement vous entendez des cris de femme. Discrètement,
+vous vous approchez pour trouver le mercenaire en train de tenter d’arracher les vêtements de la
+jeune femme. Cette dernière se bat comme une lionne pour se sortir de ce mauvais pas mais elle n’a
+aucune chance. Vous croisez son regard et vous y lisez tous le désespoir qu’un être humain peut
+ressentir. Même si elle continue à se défendre, dans son for intérieur, elle sait qu’elle va passer à la
+casserole. L’homme arrive à ouvrir le haut de son uniforme. Cette fois, s’en est trop pour vous. En
+silence vous sortez votre révolver tout en vous approchant à pas de loup et vous abattez Rachid d’une
+balle en plein cœur. La jeune femme se relève et tout en refermant son uniforme vous remercie. Elle
+se jette dans vos bras et vous serre très fort. Elle se met à pleurer sur votre épaule. Quand elle arrive
+à se calme, elle vous raconte que le monstre de mercenaire avait brisé le coup de Maxime avant de la
+trainer dans le hall avec des intentions plus qu’évidente. Vous lui racontez alors ce qui est arrivé et la
+mort de la majorité de votre équipe ainsi que la mystérieuse disparition de ‘tof. On est dans la merde,
+dit-elle, mais je suis heureuse de savoir que tu n’es pas comme les autres mercenaires. Vous retournez
+vers ou les autres agents de l’uac ont été exécuté. De là, vous vous engagez dans la coursive latérale
+et traversez les quartiers d’habitation. Il ne se passe rien de spécial et, au bout de quelques minutes,
+vous arrivez devant un sas et un petit escalier. Alexandra vous indique que vous pouvez, par le sas,
+sortir de la station pour rejoindre par la surface la tour de commandement, en vous rendant au 39.
+L’escalier, quant à lui, permet de rejoindre la zone des cuisines. Il est possible, en passant par-là,
+d’atteindre aussi votre objectif.}(sound)*img*
+$ $.3
+
+[35]{Vous redescendez l’escalier et, arrivé au rez-de-chaussée, vous jetez un coup d’œil vers l’endroit où
+vous aviez laissé ‘tof. Il est toujours là, mais complètement inerte et au teint pâle. La vie a
+définitivement abandonné se corps. Vous lui souhaiter, dans votre tête, un bon séjour en enfer. Vous
+descendez l’arme à la main, l’escalier afin de rejoindre le niveau des laboratoires. Vous avancez
+doucement, essayant d’être le plus silencieux possible. Vous entendez des bruits de pas en bas, ainsi
+que quelques brides de conversation à voix basse. Vous remettez votre fusil dans votre dos et dégainer
+votre arme de poing que vous équipez d’un silencieux. Vous vous glissez, tel un fantôme, au bas de
+l’escalier. Vous arrivez derrière deux agents de sécurité qui n’ont rien à voir avec les gamins qui vous
+accompagnaient au début de cette aventure. Il s’agit d’hommes dans la quarantaine qui doivent
+fréquenter, tous les jours, la salle de musculation. Vous les éliminez dans le plus grand silence, puis
+avancez. Vous vous trouvez dans un long couloir aux murs blanc fortement éclairé. Sur le côté droit, il
+y a quatre portes sans poignées. Au fond, une autre porte, elle aussi sans poignées le termine. Vous avancez et lorsque vous arrivez au niveau de la première, cette dernière coulisse et vous donne accès
+à un laboratoire de recherche. Il n’y a personne à l’intérieur. Il en est de même pour le second ainsi
+que pour le troisième. Dans le dernier, vous trouvez deux jeunes femmes en blouse en train de
+travailler. Sous la menace de votre arme, vous les obligez à s’assoir au sol près d’un gros tuyau ou,
+après les avoir bâillonnés, vous les attachez. Vous franchissez la porte qui termine le couloir et entrez
+dans une pièce qui n’est point éclairé. Pendant que vous cherchez le commutateur, quelqu’un qui s’est
+glissé derrière vous, vous assène un coup sur la tête qui vous assomme}(sound)*img*
+$ $.14
+
+[36]{Vous vous placez derrière une cantine militaire métallique qui traîne dans le couloir. Derrière cet abri
+improvisé mais sur, vous vous installez pour couvrir vos collègues et dans le même temps repousser
+un éventuel assaut de vos ennemis. Vous leur criez de revenir, mais n’obtenez aucune réponse. Au
+bout de quelques minutes, vous voyez Zack sortir en rampant. De toute évidence il a reçu plusieurs
+balles. Vous tirez sur le système électronique qui contrôle l’ouverture et la fermeture de la porte. Cette
+derrière coulisse, fermant de manière définitive le passage. Vous courrez rejoindre votre coéquipier
+pour constater qu’il est mortellement touché. Il utilise ces dernières forces pour vous parler. En silence,
+vous l’écoutez-vous dire qu’il est totalement impensable que des rats de laboratoire est pu, seul,
+organiser un tel guet-apens. De tous les mercenaires, il ne reste plus que vous, ‘tof qui d’habitude
+fonce comme un bourrin et là à fuit comme un lâche, et Rachid qui doit être en train d’essayer de faire
+sa fête à la nénette. Il ajoute qu’il regrette de l’avoir laissé avec elle. Il ajoute que cette mission ne sent
+pas bon et que plus que la réussir, vous devez rester en vie. Ce sont ces derniers mots. Les faits qui
+viennent de se dérouler vous font douter des réelles raisons de votre présence ici mais vous êtes un
+mercenaire et vous êtes plus habitué à agir, qu’à tergiverser. Vous vous relevez et vous dirigez vers
+l’endroit où se trouve les trois agents de l’uac restant.}(sound)*img*
+$ $.18
+
+[37]{D’un pas rapide, vous marchez vers le petit bâtiment que vous venez d’apercevoir. Sur Mars, tout
+édifice à une utilité donc il est là pour quelque chose. Le fait que la jeune femme n’en connaissait pas
+l’existence et ne l’a même pas vu avant d’être atteinte par le morceau de rocher est surprenant. Les
+agents de l’uac qui vous accompagnait était censé connaître chaque recoin de cette station. A ce que
+vous avez pu en voir, leurs formations d’agents de sécurité ressemblait plus à celle de guides que celle
+de soldats. Vous êtes tenté de l’appeler pour lui poser la question, ainsi que pour savoir si elle a réussi
+à rentrer mais vous ne voulez pas rompre le silence radio afin de ne pas révéler votre présence. Vous
+pénétrez dans le petit bâtiment après avoir remarqué qu’il est surmonté d’une immense antenne
+parabolique. Par le biais d’un sas vous pénétrez dans une zone pressurisée. Une espèce de véhicule à
+six roues est garé dans le hangar et à l’étage se trouve une petite salle de transmission. Vous montez
+et vous installez sur l’un des fauteuils. Une conversation est en train de se dérouler entre la base de
+recherche et la terre. Vous mettez le casque et écoutez. Il s’agit de Titi Binaire qui parles avec Billy
+Ponts. Même si vous prenez la conversation en cours, il ne vous faut pas longtemps pour comprendre
+de quoi ils parlent. A la fin de cet échange, vous jetez le casque au sol. Comme de vieux amis, les deux
+hommes riaient de voir à quel point leur plan s’était bien déroulé. ils se louaient d’avoir envoyé une
+équipe de mercenaire réputé sur place puis de les avoirs éliminés aussi facilement. Ils pourraient maintenant justifier à tous qu’ils avaient fait le maximum et que l’échec qui s’était produit ne pouvait
+pas leurs être imputé. Tous cela n’aura coûté qu’un vol terre-mars et six gamins. Ainsi votre employeur
+était de mèche avec votre cible et votre équipe n’était là que pour mourir. Vous êtes en furie et vous
+désirez vous occuper d’eux deux. Il vous faut rejoindre la tour de commandement pour régler les
+comptes avant de retourner sur terre}(sound)*img*
+$Vous vous y rendez à pied$.40
+$Vous utilisez le véhicule à 6 roues motrices$.22
+
+[38]{Une des balles atteint le collègue de Zack en plein cœur. Ce dernier, en mourant, lâche une grenade
+qu’il venait de dégoupiller. Cette dernière roule sur le sol, vers vous. Sous le feu nourri de vos ennemis,
+vous la ramassez et la relancez vers vos adversaires, avant qu’elle n’explose. Cette dernière fait
+finalement explosion juste derrière la barricade, éliminant vos agresseurs. Dans le même temps, elle
+détruit la porte qui leur avait permis d’arriver en ce lieu. Vu que la fusillade est finie, vous allez voir,
+un à un, vos compagnons. Les trois mercenaires qui accompagnaient Zack, ainsi que Laurent sont
+décédé. Zack, quant à lui, a été atteint par plusieurs projectiles et n’en a plus pour longtemps à vivre.
+Il a néanmoins la force de vous dire quelques mots avant de passer de vie à trépas. Il vous dit, d’abord,
+qu’il est totalement anormal d’être tombé sur des hommes aussi bien armés puisque, d’après votre
+employeur, il n’y avait, au maximum, qu’une demi-douzaine d’armes de poing ici. Il ajoute que les
+agents de sécurité qui ont été envoyés pour vous assister ne sont pas du tout ce qu’ils devraient être.
+Ils sont totalement incompétents. Vous le voyez se vider de ces forces. Il reste un long moment
+inconscient avant de vous dire qu’il y a autre chose qui sent mauvais. Ce connard de ‘tof a fui comme
+un lâche, alors qu’en temps normal il est du genre à foncer dans le tas, ce qui semble indiquer qu’il a
+un autre intérêt ici. Il ajoute enfin qu’avant de reprendre la mission, tu devrais peut-être sortir la
+nénette des griffes de cet obsédé sexuel de Rachid. Ce sont ces derniers mots. Puisque la grenade a
+détruit l’autre accès à cette pièce vous rebroussez chemin afin de rejoindre les trois hommes
+survivants de l’uac. }(sound)*img*
+$ $.99
+
+[39]{A la suite d’Alexandra, vous entrez dans le sas donnant accès à l’extérieur. De la fenêtre, vous
+apercevez, loin en face, la tour de commandement. Tous deux, vous revêtez des combinaisons
+spatiales. vous activez le système qui permet de faire le vide dans la pièce. Au moment où vous allez
+sortir, la jeune femme vous donne un fusil à énergie. Ce n’est pas une arme formidable, mais c’est la
+seul qui peut fonctionner dans le vide stellaire. Vous vous mettez en marche, n’utilisant pas la radio
+pour communiquer avec votre équipière de peur de vous faire localiser. Vous faites signe à la
+demoiselle de passer devant afin de vous servir de guide. Elle s’exécute et avance d’un pas régulier.
+Contrairement à ce que vous vous imaginiez, le chemin entre les deux bâtiments est loin d’être plat et,
+au contraire, est fort accidenté. Rapidement vous arrivez devant un énorme bloc de roche. Vous vous
+regardez tous deux, hésitant sur le chemin à prendre. Selon toute apparence, il s’agit d’une météorite
+qui a du tomber très récemment. Un morceau tombe sur votre coéquipière et l’atteint au niveau de sa
+réserve d’oxygène. Elle n’est pas blessée mais sa combinaison à une fuite. Elle vous fait signe qu’elle
+doit retourner vers la zone d’habitation rapidement. Vous lui faites un au revoir de la main et elle vous
+répond par un bisou. Vous êtes maintenant seul.}(sound)*img*
+$Vous contournez la météorite par la gauche$.25
+$Vous contournez la météorite par la droite$.2
+$Vous allez voir le petit edifice que vous venez d'apercevoir sur votre droite$.37
+
+[40]{Vous pensez que le plus discret est de rejoindre à pied votre objectif. Vous vous inquiétez pour
+Alexandra car, à entendre la conversation, pour les deux interlocuteurs sa mort ne faisait aucun doute.
+Vous vous trouvez maintenant à découvert et vous pouvez détailler le bâtiment en face de vous. Alors
+que le reste de la station est composé de structure de plein pied, elle doit faire trois ou quatre étages.
+Ce site est vraiment immense et vous êtes surpris qu’on ait pu construire cela sans que le grand public
+en entende parler. Alors que vous marchez, deux douzaines d’astronautes vous font face. Ils sont tous
+armés du même fusil énergétique que vous. Le bâtiment de communication devait être équipé d’un
+système d’alarme qui a prévenu vos adversaires de votre présence. Le combat étant par trop
+déséquilibré, vous jetez votre arme à terre et avancez vers eux, les mains posées sur votre casque. Vos
+ennemis ne se pose pas de question et, sans faire preuve de la moindre once de pitié, ouvrent le feu,
+vous tuant… }(sound)*img*
+
+[41]{Vous acceptez la proposition de Zack. Vu les circonstances qu’il vient de décrire, il est plus que probable
+que vos collègues s’en donne à cœur joie dans le flinguage sans faire de distinguo entre les innocents
+et les autres. Et encore, la brièveté de la mission les empêchera de se laisser aller à exercer d’autres
+bassesses. Vous vous dirigez vers les agents de l’uac et leurs demandes si vous pouvez vous asseoir
+avec eux. Ils acceptent mais n’ont vraiment pas l’air enchanté. La réputation de votre profession ne
+leurs donnent pas envie d’être en votre présence. Vous vous installez et attachez vos ceintures et dans
+les cinq minutes qui suivent, le vaisseau décolle. Cela se déroule en deux temps. D’abord, de la position
+horizontale, ce dernier est placé en position verticale. Vous reposez sur votre dos, constatant que le
+dossier est conçu pour servir à cet usage. Ensuite les quatre fusées sont démarrées et vous vous
+enfoncez dans votre siège. La violence de l’accélération est telle que vous perdez connaissance. Quand
+vous rouvrez les yeux, vous regardez autour de vous pour constater que seul le blond de l’uac est
+conscient. Puisqu’il sera l’un des membres de votre trio pendant l’opération, vous jugez qu’il est grand
+temps de faire sa connaissance. Bonjour', lui dites-vous avec un sourire, comment vous appelez vous.
+Il vous répond qu’il se nomme Maxime et qu’il est depuis trois mois agent de sécurité. Vous l’interrogez
+ensuite sur lui et vous êtes terrifié de ce que vous apprenez. Ce jeune n’a aucune formation militaire,
+ni en combat. En outre, il ne sait pas du tout quel sera sa tâche lors de cette mission. Il connait de
+manière théorique la géographie de la station de recherche et c’est tout. Un frisson vous traverse le
+dos mais vous ne dites rien. Vous l’interrogez brièvement sur les autres agents de sécurité avant leurs
+réveils mais il ne les connait pas. Un clac se fait entendre quand les fusées se détachent de l’appareil
+principal. Tout à coup, votre vue se trouble puis redevient normal. Dans huit heures nous seront en
+approche de la station de Terra Sirenum, annonce la voix du pilote par le biais de la sonorisation de
+votre compartiment. Peu à peu vos compagnons se réveillent. Les mercenaires commencent à rires et
+à se raconter des anciens engagements avec leurs lots de meurtres, viols et autres cruautés. Les
+confrères de Maxime, eux, garde le silence visiblement mal à l'aise avec ce qu’ils entendent. Bien que e vol dure assez longtemps (même si vous étiez persuadé qu’il fallait des mois pour rejoindre Mars)
+vous décidez de faire immédiatement connaissance avec le dernier membres de votre groupe. Vous
+saluez la seule femme présente et lui demandez son nom. Elle est visiblement très mal à l’aise de voir
+un mercenaire lui adresser la parole mais se ressaisit vite. Elle vous répond qu’elle se nomme
+Alexandra. Tout comme avec Maxime avant elle, vous découvrez qu’elle n’a aucune idée des
+implications de votre mission et que sa formation à la sécurité se limite à utiliser la vidéosurveillance.
+Il y a vraiment quelque chose qui ne tourne pas rond. Vous regrettez de plus en plus d’avoir accepté
+cet engagement. Pendant les heures qui suivent, vous vous reposez et trois quart d’heure avant de
+vous poser Zack prend la parole. Il explique de manière brève vos objectifs et annonce qu’il va prendre
+la direction de l’équipe d’invasion pendant que vous commanderez l’arrière garde qui sera constitué
+de vous-même, la nénette et le blondinet. A cette annonce, les autres mercenaires éclatent de rire.
+Votre vaisseau spatial se pose en douceur, sans problème et vous débarquez. Les pilotes restent à leur
+place, enfermés dans le cockpit. Vous débarquez et vous vous séparez. Les agents de sécurité qui
+doivent guider le groupe d’assaut sont livide. Les mercenaires sont armés de fusils d’assaut alors
+qu’eux n’ont que des armes de poing. Vous restez avec vos deux collègues à l’entrée. Pendant le
+premier quart d’heure vous ne voyez et entendez rien puis le bruit des armes commence à résonner.
+Au bout de quelques minutes le silence revient. Dans votre radio, vous entendez la voix de Zack. Il
+vous appelle par votre prénom et vous ordonne de fuir car la mission n’est pas ce qu’elle devrait… la
+communication est subitement coupée. Maxime et Alexandra sont livide et vous regarde, attendant
+votre décision pour savoir que faire.}(sound)*img*
+$Vous vous ruez à l’intérieur pour porter secours à vos équipiers qui doivent être en danger$.7
+$Vous préférez vous repliez vers votre navette et donner ordre aux pilotes de décoller.$.27
+
+[42]{Vous vous rappelez que ‘tof a vendu, pour dix euros de plus, votre équipe. Cet homme n’a pas
+d’honneur. D’ailleurs il n’en a jamais eu. Vous l’avez vu mentir et agir en traître lors des campagnes
+que vous avez menée en commun. Vous dégainez non pas votre couteau, mais votre révolver en vous
+rappelant, d’un coup, que même s’il tient son couteau de la main gauche, ‘tof a toujours été droitier.
+Ce dernier est fort surpris de vous voir agir ainsi et vous dit que finalement vous êtes un vrai
+mercenaire, comme lui. A cet instant il sort sa main droite avec un pistolet et commence à le braquer
+vers vous. Vous pressez la détente et votre balle atteint votre adversaire en pleine poitrine. Ce dernier
+tombe au sol, sur le dos. Vous vous approchez et, du pied, écarté son arme. Vous le regardez et
+constatez qu’il respire encore. Vous lui demande, selon lui, comment ça va se finir maintenant. Il vous
+répond en crachant du sang que Titi va vous faire la peau car c’est lui qui a organisé sa défense. Il
+ajoute que même s’il meurt, il aura débarrassé la terre d’une équipe d’ordures. Vous vous éloignez de
+lui afin de poursuivre votre route dans la tour quand une pensé vous vient.}(sound)*img*
+$ Vous vous retournez afin d'achever le mercenaire$.5
+$ Vous continuez en ligne droite en laissant 'tof agoniser derrière vous$.29
+
+[43]{Le meuble derrière lequel vous vous êtes caché commence à s’écrouler. Vous ne pouvez pas rester ici
+plus longtemps. Vous videz un chargeur de votre fusil d’assaut en direction de vos agresseurs et
+profitez du répit qui en résulte pour ouvrir la porte d’un congélateur et vous abriter derrière. Cette
+dernière est faite de plusieurs tôles d’acier. Il n’y a aucune chance qu’une balle puisse la traverser.
+Venant de votre droite et complètement caché par la porte, un de vos agresseurs s’approche en silence
+et, au moment voulu, donne un grand coup de pied dans ladite porte. Le choc vous projette à l’intérieur
+de la chambre froide. Profitant de la situation, votre agresseur referme et verrouille cette dernière.
+Vous êtes, certes, toujours en vie mais à l’intérieur d’une pièce ou la température est d’environ -25°.
+Quand quelqu’un rouvrira la porte, il ne trouvera que votre cadavre gelé.}(sound)*img*
+
+[44]{Vous vous mettez à courir en avant et la mine explose dans votre dos, ne vous blessant que très
+légèrement. Vous êtes projeté en avant vers la porte qui se trouve entre les deux gazinières. Votre
+pied accroche un fil de nylon qui était tendu en travers de l’allée. Cela fait exploser les conduites de
+gaz et ce sont deux foyers incandescents qui entourent la porte. Leurs flammes se rejoignent et se
+mêlent. Avec l’élan que vous avez pris, il vous est totalement impossible de vous arrêter et vous
+percuter de plein fouet la porte. Vous êtes assommé et avant de reprendre connaissance, vous avez
+brûlé vif.}(sound)*img*
+
+[45]{Vous rappelant ce que l’on vous a appris sur les sables mouvants, vous luttez contre votre instinct et
+restez le plus immobile possible, attendant que vos pieds rencontrent un sol dur. Cela se produit alors
+que vous êtes enfoncé jusqu’au genou. Lentement vous reculez et vous vous sortez de ce bourbier.
+Vous restez deux minutes arrêtées, à retrouver votre calme. Ensuite vous examinez visuellement le
+sable. Vous vous apercevez alors que la zone ou vous vous êtes enfoncé est d’un rouge bien plus vif
+que le reste. Cette tâche sombre s’étale sur une grande surface. Vous la contournez, ce qui rend votre
+périple épuisant. Vous réussissez néanmoins à rejoindre la tour de commande avant que votre réserve
+d'o2 ne s’épuise. Alors que le sas se remplie d’air et que vous vous débarrassez de votre scaphandre,
+vous vous demandez toujours si Alexandra est en sécurité. Vous pénétrez à l’intérieur de la tour pour
+faire face à un géant de près de deux mètres, tout en muscle. Vous le reconnaissez tout de suite
+puisqu’il s’agit d’un des mercenaires qui composaient votre escouade : ‘tof.}(sound)*img*
+$ $.8
+
+[46]{Vous montez l’escalier pour accéder au pc sécurisé qui doit être le centre de commandement des
+forces du savant fou. Vous vous attendiez à une forte résistance mais, si vous voulez vous sortir de cet
+enfer, vous n’avez pas le choix. Vous montez lentement, marche par marche, tous vos sens aux aguets.
+Vous n’entendez et ne voyez rien ni personne. Vous arrivez à l’étage et vous n’êtes pas reçu par une
+salve d’armes. Vous vous cachez derrière le premier abri et attendez de voir si quelqu’un vous attaque.
+La pièce est totalement silencieuse. Vous examinez depuis votre abri le pc sécurité. Il s’agit d’une pièce
+d’environ dix mètres sur dix, vitré sur ses quatre côtés. Le centre de la pièce comporte plusieurs postes
+de travail. Chacun est constitué d’un bureau sur lequel trône un écran d’ordinateur. Vous pouvez en
+compter cinq. Il vous semble totalement impossible que quelqu’un se cache ici vu la disposition de ces
+lieux. Vous vous relevez et réfléchissez à ce qu’il convient de faire maintenant.}(sound)*img*
+$Vous redescendez l’escalier pour rejoindre, au sous-sol, la zone des laboratoires $.35
+$Vous examinez l'ordinateur afin de trouver des informations sur ce qui se passe en bas.$.17
+
+[47]{Puisque la retraite vous est maintenant coupée, il ne vous reste qu’une seule chose à faire : avancer.
+Vous vous glissez sur la droite de la pièce et commencez à longer le mur. De derrière l’espèce de
+comptoir deux hommes sortent en ouvrant le feu sur vous. Vous plongez derrière un petit meuble en
+bois pour vous protéger. En raison de l’intensité des tirs ennemis, ce dernier ne tiendra pas longtemps !
+Il va falloir agir, et vite ! Vous ne voyez aucune autre protection pour vous permettre de continuer à
+avancer. La situation est grave et vous n’avez que deux alternatives possibles. }(sound)*img*
+$Vous ripostez$.26
+$Vous vous vous abritez derrière la lourde porte en acier d’une des chambres froides$.43
+
+[48]{Vous fermez les yeux et entendez le bruit de la détonation mais ne ressentez pas de douleur. Vous
+rouvrez les yeux pour voir Titi Binaire vous fixez. Dans son regard, vous voyez de l’incrédulité et de
+l’incompréhension. Vous baissez votre regard pour voir sur sa poitrine, au niveau de son cœur, du sang
+imbibée sa chemise. Il s’écroule sur le sol et vous découvrez la personne qui vient de l’abattre.
+Alexandra se tient en face de vous, tremblante, son arme de service à la main. En quelques secondes
+elle se ressaisi, rengaine son arme et vous détache. Désolé, mais c’est la première fois et j’espère la
+dernière que je tue quelqu’un, vous dit-elle. Il faut qu’on se bouge car la navette repart dans dix
+minutes. Vous courrez à travers les laboratoires et rejoignez la piste d’atterrissage. Vous embarquez à
+bord juste avant qu’elle décolle. La jeune femme vous explique alors que, quand vous avez été séparée,
+elle à emprunter l’autre chemin aussi vite que possible pour vous venir en renfort. Elle n’a
+heureusement rencontré aucune résistance et est arrivée jusqu’à temps. Vous la félicitez et la
+remerciez de vous avoir sauvé la vie, impressionné par le courage font elle a fait preuve. Vous lui
+racontez alors ce que Titi vous a révélé. Quelles ordure ce Billy et ce ‘tof. On était juste là pour mourir.
+Au moment où vous alliez répondre, vous recevez un appel de la terre. Il s’agit de Billy Ponts qui veut
+savoir ce qui s’est passé. Vous lui faites un résumé des événements en omettant de dire que vous êtes
+au courant de son rôle dans l’affaire et en justifiant la mort de vos équipiers par la trahison de ‘tof.
+Billy écoute en silence puis vous félicite de la réussite de cette mission. Même s’il est déçu de cette
+conclusion, il n’en montre rien. Il vous propose alors que, tous deux, vous oubliez tous en échange de
+l’ensemble des primes promises à tous les mercenaires. Vous hésitez mais Alexandra vous fait signe
+d’accepter. Vous le faites et il ajoute que vous aurez trente pour cent de prime en plus. Une fois que
+la communication est coupée vous demandez à votre amie pourquoi elle a voulu que vous acceptiez.
+Et bien d’abord parce que la somme d’argent qu’il nous offre nous permettra de vivre jusqu’à la fin de
+nos jours. Ensuite et surtout, car si nous avions refusé il aurait fait abattre notre appareil. Vous vous
+dites qu’elle a raison mais, dans le même temps, vous regrettez de ne pas pouvoir lui faire payer la
+mort de vos frères d’armes. Alexandra qui semble lire dans vos pensées, vous dit qu’elle sait mais
+qu’avec l’argent vous pourrez engager quelqu’un pour éliminer Billy et qu’elle est sûr que vous avez
+dans vos relations la bonne personne. Vous sentez un sourire apparaître sur votre visage car elle a tout
+à fait raison et que vous venez de vous rendre compte que vous êtes tombé amoureux d’Alexandra et
+qu’elle semble partager vos sentiments }(sound)*img*
+$ $.99
